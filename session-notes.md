@@ -29,7 +29,7 @@ Plan: BUILD_PLAN_v2.md (kept outside the repo, in Rick's bundle). Code rules: do
 
 ## Known issues / next
 - R6 open questions (42 across 8 entries) are in each entry's 'Not confirmed yet'; WADA text read from a hosted copy of the 2026 List (wada-ama.org blocks automated reading).
-- R5 independent check not run; library shows "Not yet independently verified".
+- R5 independent check: R1 done 2026-11-17 (research/r5/verification_report_R1.md: 9 checked, 0 dose errors, Victoza discontinuation note added). R2, R3, R4, R6 still to do; library shows "Not yet independently verified" until all are done.
 - S3 phone test: does a notification arrive with the app closed? If not, S3b (APK).
 - S4b scale photo reader (needs 5 photos of Rick's scale), S3b APK, S9 store prep: later.
 - Fingerprint unlock needs the APK (S3b).
