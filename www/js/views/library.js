@@ -4,7 +4,7 @@ import { statusBadge, STATUS, loadJson, toText, renderValue, notFound } from './
 import { renderEntry } from './library-detail.js';
 import { renderTopic } from './library-topic.js';
 
-const PARTS = [{ value: 'R1', label: 'Approved in Canada' }, { value: 'R2', label: 'In trials' }, { value: 'R3', label: 'Other peptides' }, { value: 'N', label: 'Nutrition' }];
+const PARTS = [{ value: 'R1', label: 'Approved' }, { value: 'R2', label: 'In trials' }, { value: 'R3', label: 'Other peptides' }, { value: 'N', label: 'Nutrition' }];
 
 export async function render(root, ctx) {
   const path = ctx.path || [];
@@ -39,7 +39,8 @@ export async function render(root, ctx) {
   }
   function row(e) {
     const n = e.names || {}; const brands = (n.brands || []).filter(Boolean).join(', ');
-    return item({ title: toText(n.generic), sub: h('div', [brands || toText(e.class), toText(e.evidenceLevel)].filter(Boolean).join(' · '), h('div', { style: { marginTop: '6px' } }, statusBadge(e.status))), href: '#/library/' + encodeURIComponent(e.id) });
+    const use = e.pass === 'R1' && (e.usedFor || []).length ? ` (${toText(e.usedFor[0]).toLowerCase()})` : '';
+    return item({ title: toText(n.generic) + use, sub: h('div', [brands || toText(e.class), toText(e.evidenceLevel)].filter(Boolean).join(' · '), h('div', { style: { marginTop: '6px' } }, statusBadge(e.status))), href: '#/library/' + encodeURIComponent(e.id) });
   }
   function draw() {
     results.replaceChildren();

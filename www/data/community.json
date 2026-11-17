@@ -1,0 +1,1615 @@
+{
+ "format": 1,
+ "source": "Rick's Peptide Guide (community guides)",
+ "builtOn": "2026-11-17",
+ "excluded": [
+  {
+   "name": "Semaglutide",
+   "reason": "Approved in Canada: see the reference library"
+  },
+  {
+   "name": "Tirzepatide",
+   "reason": "Approved in Canada: see the reference library"
+  }
+ ],
+ "entries": [
+  {
+   "aka": [
+    "Triple agonist (GLP-1, GIP, glucagon)"
+   ],
+   "refId": "retatrutide",
+   "ramp": [
+    {
+     "step": "Weeks 1-4",
+     "amount": "2 mg weekly"
+    },
+    {
+     "step": "Weeks 5-8",
+     "amount": "4 mg weekly"
+    },
+    {
+     "step": "Weeks 9-12",
+     "amount": "6 mg weekly"
+    },
+    {
+     "step": "Weeks 13-16",
+     "amount": "9 mg weekly"
+    },
+    {
+     "step": "Week 17 on",
+     "amount": "12 mg weekly"
+    }
+   ],
+   "cycle": "Continuous, weekly",
+   "avoidIf": [
+    "Thyroid cancer (MTC/MEN2) history",
+    "Past pancreatitis",
+    "Heart rhythm issues",
+    "Pregnant or under 18"
+   ],
+   "stopAndGetHelp": [
+    "Severe belly pain (possible pancreatitis)"
+   ],
+   "sideEffectsReported": [
+    "At 12 mg: nausea 42%, diarrhea 32%, constipation 26%, vomiting 25%",
+    "Higher heart rate",
+    "Tingly skin, up to 21%",
+    "Starting at 8 mg roughly doubled nausea (60% vs 33%)",
+    "Stopped treatment because of side effects: 4% at 4 mg, 7% at 9 mg, 11% at 12 mg"
+   ],
+   "notes": [
+    "The guide says nausea peaks 2 to 3 days after a step up, and describes small meals, low fat and water as common coping tips.",
+    "The guide lists bloodwork, blood pressure and resting heart rate checks before starting."
+   ],
+   "id": "retatrutide",
+   "name": "Retatrutide",
+   "whatPeopleUseItFor": "Weight loss (BMI 30 or more, or 27 with a condition), type 2 diabetes, sleep apnea, knee arthritis pain and fatty liver (studied). Once weekly, under the skin.",
+   "commonlyReported": [
+    {
+     "label": "Dose",
+     "value": "Once weekly, under the skin"
+    },
+    {
+     "label": "Ladder",
+     "value": "2, 4, 6, 9, 12 mg, 4 weeks at each step"
+    },
+    {
+     "label": "Common stopping point",
+     "value": "4 to 8 mg"
+    },
+    {
+     "label": "Half-life",
+     "value": "About 6 days"
+    },
+    {
+     "label": "Slower variation",
+     "value": "Hold each step 4 to 6 weeks"
+    },
+    {
+     "label": "Doubling variation",
+     "value": "1, 2, 4, 8, 12 mg"
+    },
+    {
+     "label": "Split variation",
+     "value": "Weekly dose divided into 2 to 3 shots"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "GH secretagogue"
+   ],
+   "refId": "ipamorelin",
+   "ramp": [
+    {
+     "step": "Weeks 1-2",
+     "amount": "100 mcg nightly"
+    },
+    {
+     "step": "Weeks 3-4",
+     "amount": "150 mcg nightly"
+    },
+    {
+     "step": "Week 5",
+     "amount": "200 mcg nightly"
+    }
+   ],
+   "cycle": "8 to 12 weeks on (5 on / 2 off), then 4 weeks off",
+   "avoidIf": [
+    "Active or recent cancer",
+    "Uncontrolled diabetes",
+    "Retinopathy",
+    "Pregnant",
+    "Tested athletes (WADA)"
+   ],
+   "stopAndGetHelp": [],
+   "sideEffectsReported": [
+    "Water retention",
+    "Headache",
+    "Tingling hands",
+    "Hunger"
+   ],
+   "notes": [
+    "The guide describes it as raising GH without the cortisol or prolactin spike.",
+    "The guide mentions no food for 1 hour before or after, and checking IGF-1 and fasting sugar."
+   ],
+   "id": "ipamorelin",
+   "name": "Ipamorelin",
+   "whatPeopleUseItFor": "Growth hormone (GH) support: sleep and recovery, lean mass. Usually stacked with CJC-1295. Nightly.",
+   "commonlyReported": [
+    {
+     "label": "Dose",
+     "value": "100 to 300 mcg before bed"
+    },
+    {
+     "label": "Start and build",
+     "value": "Start 100 mcg, build to 200 mcg"
+    },
+    {
+     "label": "Schedule",
+     "value": "5 days on, 2 days off"
+    },
+    {
+     "label": "Timing",
+     "value": "15 to 30 minutes before bed, on an empty stomach"
+    },
+    {
+     "label": "Beginner variation",
+     "value": "100 mcg nightly for 8 weeks"
+    },
+    {
+     "label": "Standard variation",
+     "value": "200 mcg nightly for 8 to 12 weeks"
+    },
+    {
+     "label": "Advanced variation",
+     "value": "300 mcg, or 150 mcg twice daily"
+    },
+    {
+     "label": "By weight",
+     "value": "150 lb: 100 to 150 mcg. 200 lb: 250 to 300 mcg"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "No DAC (Mod GRF 1-29)"
+   ],
+   "refId": "cjc-1295",
+   "ramp": [
+    {
+     "step": "Weeks 1-2",
+     "amount": "100 mcg nightly"
+    },
+    {
+     "step": "Weeks 3-4",
+     "amount": "150 mcg nightly"
+    },
+    {
+     "step": "Week 5",
+     "amount": "200 mcg nightly"
+    }
+   ],
+   "cycle": "8 to 12 weeks on (5 on / 2 off), then 4 weeks off",
+   "avoidIf": [
+    "Active or recent cancer",
+    "Uncontrolled diabetes",
+    "Pituitary tumour",
+    "Pregnant",
+    "Tested athletes (WADA)"
+   ],
+   "stopAndGetHelp": [],
+   "sideEffectsReported": [
+    "Flushing",
+    "Water retention",
+    "Headache",
+    "Tingling"
+   ],
+   "notes": [
+    "The guide says not to stack it with sermorelin or tesamorelin.",
+    "The guide mentions an empty stomach before bed and testing IGF-1 during the cycle."
+   ],
+   "id": "cjc-1295",
+   "name": "CJC-1295",
+   "whatPeopleUseItFor": "GH pulse for sleep and recovery, body composition, IGF-1 support. Nightly, usually with ipamorelin.",
+   "commonlyReported": [
+    {
+     "label": "Dose",
+     "value": "100 to 200 mcg before bed"
+    },
+    {
+     "label": "Pairing",
+     "value": "Same dose of ipamorelin"
+    },
+    {
+     "label": "Schedule",
+     "value": "5 days on, 2 days off"
+    },
+    {
+     "label": "Beginner variation",
+     "value": "100 mcg with 100 mcg ipamorelin"
+    },
+    {
+     "label": "Standard variation",
+     "value": "200 mcg with 200 mcg ipamorelin"
+    },
+    {
+     "label": "Split variation",
+     "value": "150 mcg in the morning fasted plus bedtime"
+    },
+    {
+     "label": "Long-acting (DAC) form",
+     "value": "1 to 2 mg once or twice weekly"
+    },
+    {
+     "label": "Duration of effect",
+     "value": "No DAC: short pulse (30 minutes). DAC: lasts 6 to 8 days"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "GHRH 1-29"
+   ],
+   "refId": "sermorelin",
+   "ramp": [
+    {
+     "step": "Weeks 1-2",
+     "amount": "200 mcg nightly"
+    },
+    {
+     "step": "Weeks 3-4",
+     "amount": "300 mcg nightly"
+    },
+    {
+     "step": "Weeks 5-6",
+     "amount": "400 mcg nightly"
+    },
+    {
+     "step": "Week 7",
+     "amount": "500 mcg nightly"
+    }
+   ],
+   "cycle": "3 to 6 months on (nightly), 1 month off",
+   "avoidIf": [
+    "Active cancer",
+    "Pregnant",
+    "Combining with CJC-1295"
+   ],
+   "stopAndGetHelp": [],
+   "sideEffectsReported": [
+    "Injection redness",
+    "Flushing",
+    "Headache",
+    "Water retention"
+   ],
+   "notes": [
+    "The guide says over 500 mcg rarely helps, and mentions checking IGF-1 at 8 to 12 weeks."
+   ],
+   "id": "sermorelin",
+   "name": "Sermorelin",
+   "whatPeopleUseItFor": "Age-related GH decline, sleep and recovery, lean mass and skin. Nightly.",
+   "commonlyReported": [
+    {
+     "label": "Dose",
+     "value": "200 to 500 mcg before bed"
+    },
+    {
+     "label": "Start and step",
+     "value": "Start 200 mcg, step up every 2 weeks"
+    },
+    {
+     "label": "Schedule",
+     "value": "Nightly, or 5 on / 2 off"
+    },
+    {
+     "label": "Timing",
+     "value": "Fasted, 30 to 60 minutes before bed"
+    },
+    {
+     "label": "Conservative variation",
+     "value": "100 mcg nightly for 8 to 12 weeks"
+    },
+    {
+     "label": "Standard variation",
+     "value": "200 to 300 mcg nightly for 3 to 6 months"
+    },
+    {
+     "label": "Escalate variation",
+     "value": "300 to 500 mcg if IGF-1 is still low"
+    },
+    {
+     "label": "With a GHRP",
+     "value": "100 to 300 mcg plus ipamorelin"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "Egrifta"
+   ],
+   "refId": "tesamorelin",
+   "ramp": [],
+   "cycle": "Daily, continuous",
+   "avoidIf": [
+    "Active cancer",
+    "Pregnant",
+    "Pituitary problems",
+    "Uncontrolled diabetes"
+   ],
+   "stopAndGetHelp": [
+    "Itchy rash at the injection site"
+   ],
+   "sideEffectsReported": [
+    "Joint pain, injection redness and itch, muscle pain, swelling",
+    "Joint pain 13% (vs 11% placebo)",
+    "Site redness 9% (vs 3% placebo)"
+   ],
+   "notes": [
+    "The guide says the effect fades after stopping and mentions checking blood sugar.",
+    "It targets deep belly fat, not the fat under the skin."
+   ],
+   "id": "tesamorelin",
+   "name": "Tesamorelin",
+   "whatPeopleUseItFor": "Deep (visceral) belly fat, liver fat (studied), muscle area and density. The approved use is HIV lipodystrophy. Once daily.",
+   "commonlyReported": [
+    {
+     "label": "Dose",
+     "value": "2 mg daily (SV form 1.4 mg)"
+    },
+    {
+     "label": "Route",
+     "value": "Under the skin of the belly, rotating sites"
+    },
+    {
+     "label": "Results",
+     "value": "By about 3 months"
+    },
+    {
+     "label": "Original dose",
+     "value": "2 mg daily (Phase 3)"
+    },
+    {
+     "label": "Egrifta SV",
+     "value": "1.4 mg daily"
+    },
+    {
+     "label": "Egrifta WR",
+     "value": "1.28 mg daily (2025 label)"
+    },
+    {
+     "label": "Older adults (study)",
+     "value": "1 mg daily for 20 weeks"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "Mitochondrial peptide"
+   ],
+   "refId": "mots-c",
+   "ramp": [
+    {
+     "step": "Weeks 1-3",
+     "amount": "2.5 mg twice per week (5 mg per week)"
+    },
+    {
+     "step": "Weeks 4-8",
+     "amount": "5 mg twice per week (10 mg per week)"
+    }
+   ],
+   "cycle": "4 to 8 weeks on (5 to 10 mg per week), 4 weeks off",
+   "avoidIf": [
+    "Under 18 or pregnant",
+    "Diagnosed metabolic disease without a doctor",
+    "Tested athletes (WADA)"
+   ],
+   "stopAndGetHelp": [],
+   "sideEffectsReported": [
+    "Injection-site irritation",
+    "Some find higher doses overstimulating",
+    "Long-term safety unknown"
+   ],
+   "notes": [
+    "The guide notes the doses are scaled up from mice.",
+    "Some users report dropping to 0.5 to 1 mg when too wired."
+   ],
+   "id": "mots-c",
+   "name": "MOTS-c",
+   "whatPeopleUseItFor": "Insulin resistance, pre-diabetes, fat loss, endurance, healthy aging. 2 to 3 times weekly.",
+   "commonlyReported": [
+    {
+     "label": "Dose",
+     "value": "5 to 10 mg per week, in 2 to 3 shots"
+    },
+    {
+     "label": "Maximum reported",
+     "value": "About 20 mg per week"
+    },
+    {
+     "label": "Beginner variation",
+     "value": "5 mg once a week"
+    },
+    {
+     "label": "Standard variation",
+     "value": "2.5 mg twice a week, then 5 mg twice a week"
+    },
+    {
+     "label": "Low daily variation",
+     "value": "0.5 to 1 mg, 5 days a week"
+    },
+    {
+     "label": "Workout variation",
+     "value": "5 mg within 1 hour after, up to 3 times a week"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "NAD+",
+    "Coenzyme (not a true peptide)"
+   ],
+   "refId": "nad-plus",
+   "ramp": [
+    {
+     "step": "Week 1",
+     "amount": "20 mg, 3 times weekly"
+    },
+    {
+     "step": "Week 2",
+     "amount": "30 mg, 3 times weekly"
+    },
+    {
+     "step": "Week 3",
+     "amount": "40 mg, 3 times weekly"
+    },
+    {
+     "step": "Week 4",
+     "amount": "50 mg, 3 times weekly"
+    }
+   ],
+   "cycle": "8 to 12 weeks on (2 to 3 weekly), 4 weeks off",
+   "avoidIf": [
+    "Severe heart disease",
+    "Taking niacin or nicotinamide pills",
+    "Pregnant or nursing"
+   ],
+   "stopAndGetHelp": [],
+   "sideEffectsReported": [
+    "Flushing",
+    "Chest tightness",
+    "Nausea",
+    "Headache",
+    "Injection burn"
+   ],
+   "notes": [
+    "The guide says side effects come from pushing it too fast, not from the dose, and describes slow injection (30 to 60 seconds) in the morning.",
+    "Some report it can disrupt sleep."
+   ],
+   "id": "nad",
+   "name": "NAD",
+   "whatPeopleUseItFor": "Energy and fatigue, healthy aging, recovery and mental clarity. 2 to 3 times weekly.",
+   "commonlyReported": [
+    {
+     "label": "Under the skin",
+     "value": "50 to 100 mg, 2 to 3 per week"
+    },
+    {
+     "label": "Start",
+     "value": "20 to 30 mg, build up slowly"
+    },
+    {
+     "label": "IV clinic",
+     "value": "250 to 1,000 mg, slow drip"
+    },
+    {
+     "label": "Beginner variation",
+     "value": "20 to 50 mg, 3 per week over 4 weeks"
+    },
+    {
+     "label": "Standard variation",
+     "value": "100 mg twice weekly for 12 weeks"
+    },
+    {
+     "label": "Daily variation",
+     "value": "30 to 100 mg under the skin for 8 to 16 weeks"
+    },
+    {
+     "label": "IV clinic variation",
+     "value": "250 to 500 mg, 1 to 2 per week"
+    },
+    {
+     "label": "Maximum without a doctor",
+     "value": "300 mg per week"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "Epithalon",
+    "Pineal peptide"
+   ],
+   "refId": "epitalon",
+   "ramp": [
+    {
+     "step": "Low",
+     "amount": "1 to 2 mg daily"
+    },
+    {
+     "step": "Start (first 10-day cycle)",
+     "amount": "5 mg daily"
+    },
+    {
+     "step": "Standard",
+     "amount": "10 mg daily"
+    }
+   ],
+   "cycle": "10 to 20 days on, 4 to 6 months off",
+   "avoidIf": [
+    "Active cancer or cancer history",
+    "Pregnant or nursing",
+    "Year-round use (not studied)"
+   ],
+   "stopAndGetHelp": [],
+   "sideEffectsReported": [
+    "Injection-site redness",
+    "Vivid dreams"
+   ],
+   "notes": [
+    "The guide says sleep changes often show by night 2 to 3, and notes it is not meant to be run year-round."
+   ],
+   "id": "epitalon",
+   "name": "Epitalon",
+   "whatPeopleUseItFor": "Sleep and melatonin rhythm, healthy aging (telomere research), jet lag and shift work. 10-day cycles.",
+   "commonlyReported": [
+    {
+     "label": "Dose",
+     "value": "5 to 10 mg per day under the skin"
+    },
+    {
+     "label": "Course",
+     "value": "10 to 20 days in a row"
+    },
+    {
+     "label": "Repeat",
+     "value": "2 to 3 times a year, 4 to 6 months apart"
+    },
+    {
+     "label": "Timing",
+     "value": "Evening, 1 to 2 hours before bed"
+    },
+    {
+     "label": "Russian variation",
+     "value": "10 mg daily for 10 days, 2 to 3 times a year"
+    },
+    {
+     "label": "Spaced variation",
+     "value": "10 mg every 3 days, 5 shots"
+    },
+    {
+     "label": "Low variation",
+     "value": "1 to 2 mg daily for 10 to 30 days"
+    },
+    {
+     "label": "Pulsed variation",
+     "value": "10 mg, 5 days on / 5 off, for 4 to 6 weeks"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "Natural tripeptide"
+   ],
+   "refId": null,
+   "ramp": [
+    {
+     "step": "Test comfort",
+     "amount": "50 to 100 mg to start"
+    }
+   ],
+   "cycle": "8 to 12 weeks on (1 to 3 weekly), then weekly or every other week",
+   "avoidIf": [
+    "Known allergy to glutathione",
+    "Pregnant or nursing (no data)",
+    "Very long high-dose use (zinc loss)"
+   ],
+   "stopAndGetHelp": [],
+   "sideEffectsReported": [
+    "Injection discomfort",
+    "Flushing with IV use",
+    "Rare allergic reaction"
+   ],
+   "notes": [
+    "The guide notes above 600 mg per session shows no extra skin effect."
+   ],
+   "id": "glutathione",
+   "name": "Glutathione",
+   "whatPeopleUseItFor": "Antioxidant and detox support, skin brightening, liver support and recovery. 1 to 3 times weekly.",
+   "commonlyReported": [
+    {
+     "label": "Under the skin",
+     "value": "200 to 400 mg per session, 2 to 3 per week"
+    },
+    {
+     "label": "Into muscle",
+     "value": "200 to 600 mg, 1 to 3 per week"
+    },
+    {
+     "label": "IV clinic",
+     "value": "600 to 1,200 mg, 1 to 3 per week"
+    },
+    {
+     "label": "Course",
+     "value": "8 to 12 weeks, then weekly"
+    },
+    {
+     "label": "Wellness variation (muscle)",
+     "value": "100 to 200 mg, 1 to 2 per week"
+    },
+    {
+     "label": "Standard variation (muscle)",
+     "value": "200 mg, 3 to 4 per week for 8 weeks"
+    },
+    {
+     "label": "Skin variation",
+     "value": "600 to 1,200 mg, 2 to 3 per week"
+    },
+    {
+     "label": "Nebulized variation",
+     "value": "200 to 400 mg, 1 to 2 daily for 2 to 4 weeks"
+    },
+    {
+     "label": "Absorption noted",
+     "value": "IV 100%; muscle 60 to 70%"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "GHK-Cu + BPC-157 + TB-500 + KPV"
+   ],
+   "refId": "klow-blend",
+   "ramp": [
+    {
+     "step": "First few days",
+     "amount": "5 units daily"
+    },
+    {
+     "step": "Then",
+     "amount": "10 units daily"
+    }
+   ],
+   "cycle": "8 to 12 weeks on (10 units daily), 4 to 8 weeks off",
+   "avoidIf": [
+    "Active cancer or cancer history",
+    "Pregnant or breastfeeding",
+    "Tested athletes (WADA)"
+   ],
+   "stopAndGetHelp": [],
+   "sideEffectsReported": [
+    "Injection sting and redness",
+    "Blue tint (from the copper)",
+    "Water retention in legs or hands"
+   ],
+   "notes": [
+    "The guide warns the water added changes the dose, so these unit figures only hold for its stated mix (80 mg vial with 3 mL water).",
+    "Some report swelling; the guide mentions halving the dose or going 3 times a week, and says it usually settles by weeks 2 to 4."
+   ],
+   "id": "klow-blend",
+   "name": "KLOW blend",
+   "whatPeopleUseItFor": "Tendon, ligament, muscle and joint injuries, surgery recovery, gut inflammation, skin, collagen and hair. Once daily.",
+   "commonlyReported": [
+    {
+     "label": "Guide vial contents",
+     "value": "80 mg total: 50 mg GHK-Cu, 10 mg BPC-157, 10 mg TB-500, 10 mg KPV"
+    },
+    {
+     "label": "Dose",
+     "value": "10 units (0.1 mL) once daily, in the guide's 3 mL mix"
+    },
+    {
+     "label": "Per dose (guide)",
+     "value": "1.67 mg GHK-Cu and 333 mcg of each other"
+    },
+    {
+     "label": "Beginner variation",
+     "value": "5 units daily, 4 weeks on / 4 off"
+    },
+    {
+     "label": "Standard variation",
+     "value": "10 units daily for 8 to 12 weeks"
+    },
+    {
+     "label": "Recovery variation",
+     "value": "15 units daily for a short block"
+    },
+    {
+     "label": "Maintain variation",
+     "value": "10 units, 2 to 3 per week"
+    },
+    {
+     "label": "Timeline noted",
+     "value": "Joints 2 to 4 weeks, tendons 6 to 8 weeks"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "ACTH 4-10 analog"
+   ],
+   "refId": "semax",
+   "ramp": [
+    {
+     "step": "Start",
+     "amount": "200 mcg per day"
+    },
+    {
+     "step": "Common",
+     "amount": "300 to 600 mcg per day"
+    },
+    {
+     "step": "Higher",
+     "amount": "1,000 mcg per day"
+    }
+   ],
+   "cycle": "10 to 14 days on, 2 to 4 weeks off",
+   "avoidIf": [
+    "Pregnant or nursing (no data)",
+    "Under 18 without a doctor",
+    "Late-day use (insomnia)"
+   ],
+   "stopAndGetHelp": [],
+   "sideEffectsReported": [
+    "Insomnia",
+    "Irritability",
+    "Headache",
+    "Nasal irritation"
+   ],
+   "notes": [
+    "The guide says 2 to 4 courses a year, and that some report feeling too wired with more doses."
+   ],
+   "id": "semax",
+   "name": "Semax",
+   "whatPeopleUseItFor": "Focus and mental fatigue, thinking under stress, stroke recovery and neuroprotection (Russia). Nasal spray.",
+   "commonlyReported": [
+    {
+     "label": "Dose (0.1% spray)",
+     "value": "200 to 600 mcg per day"
+    },
+    {
+     "label": "Split",
+     "value": "2 to 3 times daily, morning and midday"
+    },
+    {
+     "label": "Timing",
+     "value": "Nothing after 2 pm"
+    },
+    {
+     "label": "Strength note",
+     "value": "0.1% vs 1% is a 10 times difference"
+    },
+    {
+     "label": "Starter variation",
+     "value": "100 to 250 mcg once in the morning"
+    },
+    {
+     "label": "Standard variation",
+     "value": "300 to 600 mcg per day, split, for 10 to 14 days"
+    },
+    {
+     "label": "Higher variation",
+     "value": "600 to 1,000 mcg per day, split"
+    },
+    {
+     "label": "Russia, 1%",
+     "value": "Stroke dosing, hospital use only"
+    },
+    {
+     "label": "Nasal figures",
+     "value": "1 drop of 0.1% is 50 mcg; 1 spray is 50 to 100 mcg"
+    },
+    {
+     "label": "Effects noted",
+     "value": "In 20 to 40 minutes"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "Tuftsin analog"
+   ],
+   "refId": null,
+   "ramp": [
+    {
+     "step": "Start",
+     "amount": "250 mcg per day for 2 to 3 days"
+    },
+    {
+     "step": "Common",
+     "amount": "250 to 500 mcg per day"
+    },
+    {
+     "step": "Higher",
+     "amount": "1,000 mcg per day"
+    }
+   ],
+   "cycle": "14 days on (up to 4 weeks), 2 to 4 weeks off",
+   "avoidIf": [
+    "With alcohol, benzodiazepines or sleep aids",
+    "Pregnant or nursing",
+    "During psychiatric medication changes"
+   ],
+   "stopAndGetHelp": [],
+   "sideEffectsReported": [
+    "Nasal irritation",
+    "Rare sedation",
+    "Fatigue"
+   ],
+   "notes": [
+    "The guide describes it as not sedating, and says some use it before stressful events."
+   ],
+   "id": "selank",
+   "name": "Selank",
+   "whatPeopleUseItFor": "Anxiety and stress, focus under stress, mood and immune support. Nasal spray.",
+   "commonlyReported": [
+    {
+     "label": "Dose",
+     "value": "250 to 500 mcg per day nasal"
+    },
+    {
+     "label": "Split",
+     "value": "1 to 3 times daily, any time"
+    },
+    {
+     "label": "Course",
+     "value": "14 days, repeatable"
+    },
+    {
+     "label": "Starter variation",
+     "value": "250 mcg once daily"
+    },
+    {
+     "label": "Standard variation",
+     "value": "250 mcg morning plus early afternoon"
+    },
+    {
+     "label": "Situational variation",
+     "value": "100 to 400 mcg before a stressful event"
+    },
+    {
+     "label": "Injection variation",
+     "value": "250 to 500 mcg under the skin for 10 to 20 days"
+    },
+    {
+     "label": "Nasal figures",
+     "value": "0.15% solution (1.5 mg/mL); 1 drop is 75 mcg; Russian use 2 to 3 drops per nostril, 3 times a day"
+    },
+    {
+     "label": "Effects noted",
+     "value": "Anxiety relief in 3 to 5 days"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "Bremelanotide",
+    "Vyleesi"
+   ],
+   "refId": "bremelanotide",
+   "ramp": [],
+   "cycle": "As needed, max 8 per month. Not daily.",
+   "avoidIf": [
+    "Uncontrolled high blood pressure",
+    "Heart disease",
+    "Pregnant"
+   ],
+   "stopAndGetHelp": [
+    "Blood pressure or heart rate not back to normal within 1 to 2 hours"
+   ],
+   "sideEffectsReported": [
+    "Nausea (21% after the first dose, 3% after later doses)",
+    "Flushing",
+    "Headache",
+    "Blood pressure up and heart rate down for up to 12 hours",
+    "More than 8 doses a month: skin darkening risk, which may be permanent"
+   ],
+   "notes": [
+    "The guide lists normal blood pressure as part of who it is for, and describes a belly or thigh injection site."
+   ],
+   "id": "pt-141",
+   "name": "PT-141",
+   "whatPeopleUseItFor": "Low sexual desire (approved use is in women), and off-label libido use in men. Works on desire in the brain, not blood flow. As needed.",
+   "commonlyReported": [
+    {
+     "label": "Dose",
+     "value": "1.75 mg under the skin, as needed"
+    },
+    {
+     "label": "When",
+     "value": "45 minutes before sex"
+    },
+    {
+     "label": "Limit",
+     "value": "1 dose per 24 hours"
+    },
+    {
+     "label": "Maximum",
+     "value": "8 doses per month"
+    },
+    {
+     "label": "Trial use",
+     "value": "2 to 3 a month, max 1 a week"
+    },
+    {
+     "label": "Nausea variation",
+     "value": "Anti-nausea medicine taken 30 minutes before (studied)"
+    },
+    {
+     "label": "Nausea timing",
+     "value": "Starts within 1 hour, lasts about 2 hours, eases after dose 1"
+    },
+    {
+     "label": "Stop point noted",
+     "value": "Stop if no change after 8 weeks"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "Body Protection Compound"
+   ],
+   "refId": "bpc-157",
+   "ramp": [
+    {
+     "step": "Start",
+     "amount": "250 mcg daily"
+    },
+    {
+     "step": "Standard",
+     "amount": "500 mcg daily"
+    },
+    {
+     "step": "Acute",
+     "amount": "500 mcg twice daily"
+    }
+   ],
+   "cycle": "4 to 8 weeks on (daily), 4 weeks off",
+   "avoidIf": [
+    "Active cancer or cancer history (grows blood vessels)",
+    "Pregnant or breastfeeding",
+    "Tested athletes (WADA S0)"
+   ],
+   "stopAndGetHelp": [],
+   "sideEffectsReported": [
+    "Injection redness or itch",
+    "Some report nausea, dizziness or headache"
+   ],
+   "notes": [
+    "The guide says it is the base of Wolverine, GLOW and KLOW, so doubling up on a blend is mentioned as a concern."
+   ],
+   "id": "bpc-157",
+   "name": "BPC-157",
+   "whatPeopleUseItFor": "Tendon, ligament and muscle injuries, joint pain, surgery recovery, gut lining and ulcers (animal studies). Once or twice daily.",
+   "commonlyReported": [
+    {
+     "label": "Dose",
+     "value": "250 to 500 mcg under the skin"
+    },
+    {
+     "label": "How often",
+     "value": "Once or twice daily"
+    },
+    {
+     "label": "Where",
+     "value": "Near the injury or belly fat"
+    },
+    {
+     "label": "Beginner variation",
+     "value": "250 mcg daily for 4 weeks"
+    },
+    {
+     "label": "Standard variation",
+     "value": "500 mcg daily for 6 to 8 weeks"
+    },
+    {
+     "label": "Acute variation",
+     "value": "500 mcg twice daily, short block"
+    },
+    {
+     "label": "Maintain variation",
+     "value": "250 mcg, 2 to 3 per week"
+    },
+    {
+     "label": "Half-life noted",
+     "value": "Very short (under 30 minutes in studies), which is why people dose it daily"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "Thymosin beta-4 fragment"
+   ],
+   "refId": "tb-500-thymosin-beta-4",
+   "ramp": [],
+   "cycle": "8 to 12 weeks on (load, then weekly), 4 to 8 weeks off",
+   "avoidIf": [
+    "Active cancer or cancer history",
+    "Pregnant or breastfeeding",
+    "Tested athletes (WADA S2)"
+   ],
+   "stopAndGetHelp": [],
+   "sideEffectsReported": [
+    "Injection redness",
+    "Headache",
+    "Tiredness",
+    "Light-headedness"
+   ],
+   "notes": [
+    "The guide notes it lasts longer than BPC-157, so it is dosed 1 to 2 times a week, not daily.",
+    "The guide notes that products labelled TB-500 did not always match their labels."
+   ],
+   "id": "tb-500",
+   "name": "TB-500",
+   "whatPeopleUseItFor": "Muscle, tendon and ligament injuries, flexibility and training recovery, wound healing, hair (claims only). Twice weekly.",
+   "commonlyReported": [
+    {
+     "label": "Dose",
+     "value": "2 to 2.5 mg under the skin"
+    },
+    {
+     "label": "Loading",
+     "value": "2 times weekly (for example Mon/Thu) for 4 to 6 weeks"
+    },
+    {
+     "label": "Maintain",
+     "value": "2 to 2.5 mg once weekly"
+    },
+    {
+     "label": "Gentle variation",
+     "value": "1 mg twice weekly for 2 weeks, then 2 mg"
+    },
+    {
+     "label": "Standard variation",
+     "value": "2 to 2.5 mg twice weekly, then weekly"
+    },
+    {
+     "label": "Acute variation",
+     "value": "Up to 5 mg twice weekly for 2 weeks (clinic)"
+    },
+    {
+     "label": "Wellness variation",
+     "value": "0.75 to 1 mg twice weekly for 4 to 8 weeks"
+    },
+    {
+     "label": "Spacing noted",
+     "value": "Doses 3 to 4 days apart"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "Copper peptide"
+   ],
+   "refId": "ghk-cu",
+   "ramp": [
+    {
+     "step": "Weeks 1-2",
+     "amount": "0.5 mg per shot"
+    },
+    {
+     "step": "Weeks 3-4",
+     "amount": "1 mg per shot"
+    },
+    {
+     "step": "Week 5",
+     "amount": "2 mg per shot"
+    }
+   ],
+   "cycle": "30 days on (1 to 2 mg), 30 days off; or 8 to 12 weeks",
+   "avoidIf": [
+    "Active cancer",
+    "Copper problems (for example Wilson's disease)",
+    "Pregnant or breastfeeding"
+   ],
+   "stopAndGetHelp": [],
+   "sideEffectsReported": [
+    "Injection sting or burning",
+    "Redness",
+    "Temporary blue spot",
+    "Warmth or flushing"
+   ],
+   "notes": [
+    "The guide says the blue liquid is normal (it is the copper) and that it stings more than most peptides.",
+    "The guide mentions not adding it if already on GLOW or KLOW."
+   ],
+   "id": "ghk-cu",
+   "name": "GHK-Cu",
+   "whatPeopleUseItFor": "Skin firmness, collagen and fine lines, thinning hair (claims), scars and wound healing. Daily, or 3 to 5 weekly.",
+   "commonlyReported": [
+    {
+     "label": "Dose",
+     "value": "1 to 2 mg under the skin"
+    },
+    {
+     "label": "How often",
+     "value": "Daily, or 3 to 5 per week"
+    },
+    {
+     "label": "Timing",
+     "value": "Evening is common"
+    },
+    {
+     "label": "Gentle variation",
+     "value": "0.5, 1, then 2 mg over 6 weeks"
+    },
+    {
+     "label": "Standard variation",
+     "value": "1 to 2 mg, 3 to 5 per week"
+    },
+    {
+     "label": "Clinic variation",
+     "value": "1 mg for 15 days, then 2 mg for 15 days"
+    },
+    {
+     "label": "Topical variation",
+     "value": "Serum or cream daily (skin)"
+    },
+    {
+     "label": "Noted",
+     "value": "Topical creams are the best-studied way to use it"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "Alpha-MSH fragment (Lys-Pro-Val)"
+   ],
+   "refId": "kpv",
+   "ramp": [
+    {
+     "step": "Start",
+     "amount": "250 mcg"
+    },
+    {
+     "step": "Standard",
+     "amount": "500 mcg"
+    },
+    {
+     "step": "High",
+     "amount": "1,000 mcg"
+    }
+   ],
+   "cycle": "4 to 8 weeks on (daily), 4 weeks off",
+   "avoidIf": [
+    "On immune-suppressing medicines (ask a doctor)",
+    "Pregnant or breastfeeding",
+    "Tested athletes (WADA S0)"
+   ],
+   "stopAndGetHelp": [],
+   "sideEffectsReported": [
+    "Few reported; injection redness",
+    "Long-term effects unknown"
+   ],
+   "notes": [
+    "The guide notes KPV is the K in KLOW."
+   ],
+   "id": "kpv",
+   "name": "KPV",
+   "whatPeopleUseItFor": "Gut inflammation and colitis (mouse studies), skin flares such as eczema and psoriasis (claims), calming inflammation generally. Once daily.",
+   "commonlyReported": [
+    {
+     "label": "Dose",
+     "value": "250 to 500 mcg under the skin"
+    },
+    {
+     "label": "How often",
+     "value": "Once daily"
+    },
+    {
+     "label": "Start",
+     "value": "250 mcg for the first week"
+    },
+    {
+     "label": "Beginner variation",
+     "value": "250 mcg daily"
+    },
+    {
+     "label": "Standard variation",
+     "value": "500 mcg daily for 4 to 8 weeks"
+    },
+    {
+     "label": "High variation",
+     "value": "1,000 mcg daily, short block"
+    },
+    {
+     "label": "Oral form",
+     "value": "Capsules for gut issues"
+    },
+    {
+     "label": "Noted",
+     "value": "No human studies: these come from user reports"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "GHK-Cu + BPC-157 + TB-500"
+   ],
+   "refId": "glow-blend",
+   "ramp": [
+    {
+     "step": "First few days",
+     "amount": "5 units daily"
+    },
+    {
+     "step": "Then",
+     "amount": "10 units daily"
+    }
+   ],
+   "cycle": "8 to 12 weeks on (10 units daily), 4 to 8 weeks off",
+   "avoidIf": [
+    "Active cancer or cancer history",
+    "Pregnant or breastfeeding",
+    "Tested athletes (WADA)"
+   ],
+   "stopAndGetHelp": [],
+   "sideEffectsReported": [
+    "Injection sting and redness",
+    "Blue tint (from the copper)",
+    "Water retention in legs or hands"
+   ],
+   "notes": [
+    "The guide says the water added changes the dose, so these figures hold only for its stated mix (70 mg vial with 3 mL water).",
+    "The guide describes the sting as the copper, with swelling mentioned as something some halve the dose for."
+   ],
+   "id": "glow-blend",
+   "name": "GLOW blend",
+   "whatPeopleUseItFor": "Skin firmness, collagen and hair, injury and surgery recovery, scars and healing skin. Once daily.",
+   "commonlyReported": [
+    {
+     "label": "Guide vial contents",
+     "value": "70 mg total: 50 mg GHK-Cu, 10 mg BPC-157, 10 mg TB-500"
+    },
+    {
+     "label": "Dose",
+     "value": "10 units (0.1 mL) once daily, in the guide's 3 mL mix"
+    },
+    {
+     "label": "Per dose (guide)",
+     "value": "1.67 mg GHK-Cu and 333 mcg of each other"
+    },
+    {
+     "label": "Beginner variation",
+     "value": "5 units daily, 4 weeks on / 4 off"
+    },
+    {
+     "label": "Standard variation",
+     "value": "10 units daily for 8 to 12 weeks"
+    },
+    {
+     "label": "Skin-focus variation",
+     "value": "2.5 mL mix: 10 units is 2 mg GHK-Cu"
+    },
+    {
+     "label": "Maintain variation",
+     "value": "10 units, 2 to 3 per week"
+    },
+    {
+     "label": "Timeline noted",
+     "value": "Joints 2 to 4 weeks, skin and hair 4 to 8 weeks"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "BPC-157 + TB-500"
+   ],
+   "refId": "wolverine-blend",
+   "ramp": [
+    {
+     "step": "First week",
+     "amount": "5 units (250 mcg of each)"
+    },
+    {
+     "step": "Then",
+     "amount": "10 units (500 mcg of each)"
+    }
+   ],
+   "cycle": "4 to 8 weeks on (daily), 4 weeks off",
+   "avoidIf": [
+    "Active cancer or cancer history",
+    "Pregnant or breastfeeding",
+    "Tested athletes (WADA)"
+   ],
+   "stopAndGetHelp": [],
+   "sideEffectsReported": [
+    "Injection redness",
+    "Headache",
+    "Tiredness",
+    "Light-headedness (reported)"
+   ],
+   "notes": [
+    "The guide warns the same units give double the amount in the bigger vial, so the label matters.",
+    "The guide notes a 2026 rat study found the pair no better than either alone, and no human safety data for the combination."
+   ],
+   "id": "wolverine-blend",
+   "name": "Wolverine stack",
+   "whatPeopleUseItFor": "Tendon, ligament and muscle injuries, surgery recovery, joint pain. Once daily.",
+   "commonlyReported": [
+    {
+     "label": "Guide vial contents",
+     "value": "20 mg total: 10 mg BPC-157 and 10 mg TB-500 (the guide says 5 + 5 mg vials also exist, always 1:1)"
+    },
+    {
+     "label": "Dose",
+     "value": "10 units once daily, in the guide's 2 mL mix"
+    },
+    {
+     "label": "Per dose (guide)",
+     "value": "500 mcg BPC-157 and 500 mcg TB-500"
+    },
+    {
+     "label": "Beginner variation",
+     "value": "250 mcg of each daily for 4 weeks"
+    },
+    {
+     "label": "Standard variation",
+     "value": "300 to 400 mcg of each, 8 weeks"
+    },
+    {
+     "label": "Acute variation",
+     "value": "500 mcg of each daily for 2 weeks, then step down"
+    },
+    {
+     "label": "Separate variation",
+     "value": "BPC-157 daily, TB-500 twice weekly"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "GH booster blend"
+   ],
+   "refId": null,
+   "ramp": [
+    {
+     "step": "Week 1",
+     "amount": "4 units (100 mcg of each)"
+    },
+    {
+     "step": "Week 2",
+     "amount": "8 units (200 mcg of each)"
+    },
+    {
+     "step": "Maximum",
+     "amount": "12 units"
+    }
+   ],
+   "cycle": "8 to 12 weeks on (5 on / 2 off), 4 weeks off",
+   "avoidIf": [
+    "Active or recent cancer",
+    "Uncontrolled diabetes",
+    "Retinopathy",
+    "Pregnant",
+    "Tested athletes (WADA)"
+   ],
+   "stopAndGetHelp": [],
+   "sideEffectsReported": [
+    "Flushing",
+    "Water retention",
+    "Headache",
+    "Tingling hands",
+    "Hunger"
+   ],
+   "notes": [
+    "The guide says not to add sermorelin or tesamorelin, and mentions no food for 1 hour before or after and checking IGF-1 and fasting sugar."
+   ],
+   "id": "cjc-ipamorelin-blend",
+   "name": "CJC-1295 + Ipamorelin (pre-mixed)",
+   "whatPeopleUseItFor": "Sleep and recovery, body composition (lean mass), IGF-1 support. The classic GH stack in one shot, nightly.",
+   "commonlyReported": [
+    {
+     "label": "Guide vial contents",
+     "value": "10 mg total (5 mg CJC-1295 and 5 mg ipamorelin)"
+    },
+    {
+     "label": "Dose",
+     "value": "8 units at bedtime, in the guide's 2 mL mix"
+    },
+    {
+     "label": "Per dose (guide)",
+     "value": "200 mcg CJC-1295 and 200 mcg ipamorelin"
+    },
+    {
+     "label": "Schedule",
+     "value": "5 on / 2 off for 8 to 12 weeks"
+    },
+    {
+     "label": "Beginner variation",
+     "value": "4 units nightly for 8 weeks"
+    },
+    {
+     "label": "Standard variation",
+     "value": "8 units nightly for 8 to 12 weeks"
+    },
+    {
+     "label": "Split variation",
+     "value": "4 units morning fasted plus 4 units at bedtime"
+    },
+    {
+     "label": "Different mix",
+     "value": "In a 3 mL mix, 12 units is 200 mcg of each"
+    },
+    {
+     "label": "Ratio noted",
+     "value": "The ratio in a pre-mix cannot be changed"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "Belly fat and GH blend"
+   ],
+   "refId": null,
+   "ramp": [],
+   "cycle": "8 to 12 weeks on (5 on / 2 off), 4 weeks off",
+   "avoidIf": [
+    "Active cancer",
+    "Pituitary problems",
+    "Uncontrolled diabetes",
+    "Pregnant",
+    "Tested athletes (WADA)"
+   ],
+   "stopAndGetHelp": [],
+   "sideEffectsReported": [
+    "Joint pain",
+    "Injection redness and itch",
+    "Water retention",
+    "Tingling",
+    "Higher blood sugar"
+   ],
+   "notes": [
+    "The guide says not to add CJC-1295 or sermorelin, and that the effect fades after stopping."
+   ],
+   "id": "tesamorelin-ipamorelin-blend",
+   "name": "Tesamorelin + Ipamorelin (pre-mixed)",
+   "whatPeopleUseItFor": "Deep (visceral) belly fat, GH and IGF-1 boost, sleep and recovery. Nightly.",
+   "commonlyReported": [
+    {
+     "label": "Guide vial contents",
+     "value": "Common 8 mg vial: 6 mg tesamorelin and 2 mg ipamorelin (ratios vary: 6/2, 10/3, or 6/3 with CJC)"
+    },
+    {
+     "label": "Dose",
+     "value": "20 units at bedtime, in the guide's 2 mL mix"
+    },
+    {
+     "label": "Per dose (guide)",
+     "value": "600 mcg tesamorelin and 200 mcg ipamorelin"
+    },
+    {
+     "label": "Schedule",
+     "value": "5 on / 2 off for 8 to 12 weeks"
+    },
+    {
+     "label": "Start variation",
+     "value": "15 units nightly for 2 weeks"
+    },
+    {
+     "label": "Standard variation",
+     "value": "20 units nightly"
+    },
+    {
+     "label": "Higher variation",
+     "value": "25 to 33 units (0.75 to 1 mg tesamorelin)"
+    },
+    {
+     "label": "Split variation",
+     "value": "10 units morning and 10 units evening if sleep suffers"
+    },
+    {
+     "label": "Comparison noted",
+     "value": "Blend doses are lower than Egrifta's 1.42 mg"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "Focus and calm blend"
+   ],
+   "refId": null,
+   "ramp": [],
+   "cycle": "10 to 14 days on (mornings), 1 to 2 weeks off",
+   "avoidIf": [
+    "With alcohol, benzodiazepines or sleep aids",
+    "Pregnant or nursing",
+    "During psychiatric medication changes"
+   ],
+   "stopAndGetHelp": [],
+   "sideEffectsReported": [
+    "Semax: trouble sleeping, irritability, headache",
+    "Selank: drowsiness, fatigue"
+   ],
+   "notes": [
+    "The guide mentions trying Selank alone for a few days first, and that separate vials let each be adjusted daily."
+   ],
+   "id": "semax-selank-blend",
+   "name": "Semax + Selank (pre-mixed)",
+   "whatPeopleUseItFor": "Focus and mental energy, calm under stress, busy work days and studying. Mornings, short courses.",
+   "commonlyReported": [
+    {
+     "label": "Daily ranges (each)",
+     "value": "Semax 300 to 600 mcg; Selank 250 to 500 mcg"
+    },
+    {
+     "label": "Guide vial contents",
+     "value": "Common blends are 5 mg + 5 mg (10 mg total)"
+    },
+    {
+     "label": "Dose",
+     "value": "10 units each morning, in the guide's 2 mL mix"
+    },
+    {
+     "label": "Per dose (guide)",
+     "value": "250 mcg Semax and 250 mcg Selank"
+    },
+    {
+     "label": "Timing",
+     "value": "Before 2 pm; the guide says Semax can keep you up"
+    },
+    {
+     "label": "Beginner variation",
+     "value": "10 units in the morning"
+    },
+    {
+     "label": "Standard variation",
+     "value": "16 to 20 units (400 to 500 mcg each)"
+    },
+    {
+     "label": "Split variation",
+     "value": "10 units morning and 10 units midday"
+    },
+    {
+     "label": "Nasal variation",
+     "value": "Separate sprays, see each page"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "Common stack"
+   ],
+   "refId": null,
+   "ramp": [],
+   "cycle": "8 to 12 weeks, 5 days on / 2 off",
+   "avoidIf": [
+    "Sermorelin or tesamorelin together with CJC-1295 (same receptor, more side effects, no added benefit)",
+    "Any GH booster with active or recent cancer"
+   ],
+   "stopAndGetHelp": [],
+   "sideEffectsReported": [],
+   "notes": [
+    "The guide describes this as small human studies only.",
+    "Almost none of these combinations have been tested together in people. Commonly paired means common, not proven safe.",
+    "See the separate CJC-1295 and ipamorelin entries for the guide's per-peptide details."
+   ],
+   "id": "cjc-ipamorelin-pairing",
+   "name": "CJC-1295 + Ipamorelin (the classic GH stack)",
+   "whatPeopleUseItFor": "Two signals for one bigger GH pulse, as described on the guide's common-stacks page. The most common stack.",
+   "commonlyReported": [
+    {
+     "label": "Method",
+     "value": "Same syringe, at bedtime"
+    },
+    {
+     "label": "Schedule",
+     "value": "5 days on, 2 days off"
+    },
+    {
+     "label": "Duration",
+     "value": "8 to 12 weeks"
+    }
+   ]
+  }
+ ]
+}

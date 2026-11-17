@@ -7,6 +7,7 @@ const GROUPS = [
     ['Weekly check-in', 'Weight, optional photos and notes', '#/checkin'],
     ['Inventory', 'Pens and vials, discard and expiry dates', '#/inventory'],
     ['Side effects', 'Quick log', '#/meds/effects'],
+    ['Visit summary', 'Printable page for your prescriber or pharmacist', '#/report'],
   ]],
   ['Tools', [
     ['Syringe calculator', 'Math on your own numbers', '#/calc'],
@@ -17,9 +18,11 @@ const GROUPS = [
     ['Warning signs', 'When to contact someone or get urgent help', '#/warning'],
     ['Reference library', 'Labels, trials and status in Canada, with sources', '#/library'],
     ['Mix and measure', 'Handling steps, storage and safety', '#/mix'],
+    ['Commonly reported', 'Community-reported use, kept apart from the evidence', '#/community'],
   ]],
   ['App', [
     ['Settings and backup', 'Theme, backup, restore, disclaimer', '#/settings'],
+    ['App lock', 'PIN to open the app', '#/lock'],
   ]],
 ];
 

@@ -20,6 +20,9 @@ const ROUTES = {
   inventory: { load: () => import('./views/inventory.js'), title: 'Inventory', tab: 'more' },
   reminders: { load: () => import('./views/reminders.js'), title: 'Reminders', tab: 'more' },
   settings: { load: () => import('./views/settings.js'), title: 'Settings and backup', tab: 'more' },
+  community: { load: () => import('./views/community.js'), title: 'Commonly reported', tab: 'more' },
+  lock: { load: () => import('./views/lock.js'), title: 'App lock', tab: 'more' },
+  report: { load: () => import('./views/report.js'), title: 'Visit summary', tab: 'more' },
 };
 const TABS = ['home', 'meds', 'food', 'weight', 'more'];
 
@@ -137,6 +140,7 @@ async function boot() {
   persistStorage();
   registerSW();
   if (!location.hash) history.replaceState(null, '', '#/home');
+  try { const lock = await import('./views/lock.js'); await lock.gate(); lock.watch(); } catch (e) { console.warn('lock', e); }
   await render();
   if (!(await getSetting('disclaimerAck'))) await showDisclaimer({ mustAccept: true });
   // Due-reminder check while the app is open (the calendar export is the reliable path).
