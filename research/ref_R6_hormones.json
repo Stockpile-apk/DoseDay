@@ -1,0 +1,3006 @@
+[
+ {
+  "id": "hcg",
+  "names": {
+   "generic": "chorionic gonadotropin (hCG); choriogonadotropin alfa (r-hCG)",
+   "brands": [
+    "Pregnyl",
+    "Chorionic Gonadotropin for Injection, USP (Fresenius Kabi)",
+    "Ovidrel"
+   ]
+  },
+  "class": "Gonadotropin (LH receptor agonist)",
+  "group": "Hormones and related",
+  "usedFor": [
+   "Ovulation induction (fertility treatment)",
+   "Undescended testes in boys (cryptorchidism)",
+   "Low testosterone from pituitary deficiency in males (selected cases)"
+  ],
+  "route": [
+   "intramuscular",
+   "subcutaneous"
+  ],
+  "status": "approved_ca",
+  "statusDetail": {
+   "healthCanada": "Marketed: Pregnyl 10,000 unit vial (DIN 02182904, Organon; marketed since 1997-08-13); Chorionic Gonadotropin for Injection, USP 10,000 unit vial (DIN 02247459, Fresenius Kabi; original market date 2004-09-13); Ovidrel 250 mcg/0.5 mL (DIN 02371588 marketed since 2013-05-28; DIN 02262088 also listed as marketed since 2004-12-20). Novarel: no Drug Product Database record found.",
+   "fda": "Not re-verified in this Canada-focused pass. See openQuestions.",
+   "other": "",
+   "checkedOn": "2026-11-17",
+   "sourceIds": [
+    "s2",
+    "s3",
+    "s5",
+    "s7",
+    "s8",
+    "s9",
+    "s10"
+   ]
+  },
+  "indications": [
+   "Pregnyl (women): induction of ovulation and pregnancy in the anovulatory, infertile woman whose anovulation is secondary (not primary ovarian failure) and who has been pretreated with FSH-containing preparations",
+   "Pregnyl (men): prepubertal cryptorchidism not due to anatomical obstruction; selected cases of hypogonadotropic hypogonadism (secondary to a pituitary deficiency) in males",
+   "Chorionic Gonadotropin for Injection, USP (Fresenius Kabi), as listed in its monograph. Male: prepubertal cryptorchidism (not due to anatomical obstruction), delayed adolescence, dwarfism (pituitary), hypogonadotropic eunuchoidism, selected cases of hypogonadotropic hypogonadism in males. Female: ovulation induction, abortion (habitual), infrequent scanty bleeding (functional), functional sterility",
+   "Ovidrel: induction of ovulation and pregnancy in patients undergoing fertility treatment whose infertility is functional and not due to primary ovarian failure",
+   "Other uses in men (for example alongside testosterone, or for fertility outside the listed hypogonadotropic hypogonadism indication) are not among the indications in the Canadian monographs",
+   "Not for weight loss: the Pregnyl and Fresenius Kabi monographs state hCG has not been shown to be effective adjunctive therapy for obesity and should not be used for body weight reduction. The Ovidrel monograph has no such statement"
+  ],
+  "mechanism": "Acts like pituitary LH: stimulates androgen (testosterone) production in the testes and progesterone production in the ovaries; triggers final follicle maturation and ovulation.",
+  "products": [
+   {
+    "brand": "Pregnyl",
+    "din": "02182904",
+    "strengths": [
+     "10,000 USP units per vial (powder for solution, kit)"
+    ],
+    "device": "Multi-dose vial of powder plus a 10 mL solvent vial (water for injection with 0.9% benzyl alcohol and 0.56% sodium chloride); intramuscular use only",
+    "monographUrl": "https://pdf.hres.ca/dpd_pm/00071523.PDF",
+    "monographDate": "2021-03-30"
+   },
+   {
+    "brand": "Chorionic Gonadotropin for Injection, USP (Fresenius Kabi)",
+    "din": "02247459",
+    "strengths": [
+     "10,000 units per vial (powder for solution)"
+    ],
+    "device": "Vial of powder plus 10 mL multiple-dose vial of bacteriostatic water for injection with 0.9% benzyl alcohol; intramuscular or subcutaneous",
+    "monographUrl": "https://pdf.hres.ca/dpd_pm/00055872.PDF",
+    "monographDate": "2020-04-03"
+   },
+   {
+    "brand": "Ovidrel (choriogonadotropin alfa, recombinant hCG)",
+    "din": "02371588",
+    "strengths": [
+     "250 mcg / 0.5 mL"
+    ],
+    "device": "Ready-to-use pre-filled syringe or pre-filled pen (pen supplied with 2 needles); single use; subcutaneous",
+    "monographUrl": "https://pdf.hres.ca/dpd_pm/00072860.PDF",
+    "monographDate": "2023-10-12"
+   },
+   {
+    "brand": "Ovidrel (second DIN)",
+    "din": "02262088",
+    "strengths": [
+     "Solution (strength for this DIN not retrieved)"
+    ],
+    "device": "Not retrieved; see openQuestions",
+    "monographUrl": "",
+    "monographDate": ""
+   }
+  ],
+  "deviceNotes": [
+   "Pregnyl: reconstitute by adding 1 to 10 mL of the solvent to the powder and agitating gently until dissolved; with 10 mL the concentration is 1,000 USP units/mL",
+   "Fresenius Kabi: add up to 10 mL of the supplied bacteriostatic water and mix gently until reconstitution is complete",
+   "Ovidrel pre-filled syringe is for a single subcutaneous injection; Ovidrel pen and needle are used once, then the pen is discarded"
+  ],
+  "doseInfo": [
+   {
+    "basis": "monograph",
+    "population": "Women, ovulation induction (Pregnyl)",
+    "regimen": "5,000 to 10,000 USP units intramuscularly one day following the last day of treatment with an FSH-containing preparation (the monograph notes 10,000 USP units is the dose recommended in FSH product labelling)",
+    "maxDose": "10,000 USP units (top of the listed range)",
+    "durationOrContext": "Given once after FSH pretreatment",
+    "sourceIds": [
+     "s1"
+    ]
+   },
+   {
+    "basis": "monograph",
+    "population": "Prepubertal boys, cryptorchidism not due to anatomical obstruction (Pregnyl)",
+    "regimen": "4,000 USP units 3 times weekly for 2 to 3 weeks, or 1,000 USP units 3 times weekly for 6 to 8 weeks",
+    "maxDose": "4,000 USP units per injection as listed",
+    "durationOrContext": "The monograph states the average appropriate age appears to be 12 years",
+    "sourceIds": [
+     "s1"
+    ]
+   },
+   {
+    "basis": "monograph",
+    "population": "Men, selected hypogonadotropic hypogonadism (Pregnyl)",
+    "regimen": "4,000 to 5,000 USP units 3 times weekly for 6 to 8 weeks, with a rest period of 2 to 3 weeks between courses",
+    "maxDose": "5,000 USP units per injection as listed",
+    "durationOrContext": "Courses separated by 2 to 3 week rests",
+    "sourceIds": [
+     "s1"
+    ]
+   },
+   {
+    "basis": "monograph",
+    "population": "Prepubertal boys, cryptorchidism (Fresenius Kabi)",
+    "regimen": "4000 USP units three times weekly for two to three weeks, or 1000 USP units three times weekly for six to eight weeks",
+    "maxDose": "4000 USP units per injection as listed",
+    "durationOrContext": "Intramuscular or subcutaneous",
+    "sourceIds": [
+     "s4"
+    ]
+   },
+   {
+    "basis": "monograph",
+    "population": "Men, hypogonadism after sexual maturity (Fresenius Kabi)",
+    "regimen": "4000 to 5000 USP units three times weekly for six to eight weeks, with a rest period of two to three weeks between courses",
+    "maxDose": "5000 USP units per injection as listed",
+    "durationOrContext": "Monograph lists this under 'Hypogonadism (after sexual maturity)'",
+    "sourceIds": [
+     "s4"
+    ]
+   },
+   {
+    "basis": "monograph",
+    "population": "Women, ovulation induction (Fresenius Kabi)",
+    "regimen": "5000 to 10 000 USP units one day following the last dose of gonadotropins",
+    "maxDose": "10 000 USP units (top of the listed range)",
+    "durationOrContext": "Gonadotropin dosing per that product's own prescribing information",
+    "sourceIds": [
+     "s4"
+    ]
+   },
+   {
+    "basis": "monograph",
+    "population": "Women, ovulation induction (Ovidrel)",
+    "regimen": "250 mcg subcutaneously one day following the last dose of the follicle stimulating agent, once adequate follicular development is shown by serum estradiol and/or vaginal ultrasound",
+    "maxDose": "250 mcg single dose (no maximum otherwise stated)",
+    "durationOrContext": "Withheld if there is an excessive ovarian response (multiple follicles, significant ovarian enlargement or excessive estradiol)",
+    "sourceIds": [
+     "s6"
+    ]
+   }
+  ],
+  "missedDose": {
+   "text": "Not stated in the fetched monograph text.",
+   "windowHours": null,
+   "minHoursBeforeNextDose": null,
+   "minHoursBetweenDoses": null,
+   "sourceIds": [
+    "s1",
+    "s6"
+   ]
+  },
+  "storage": {
+   "unopened": "Pregnyl: 15 to 30 C. Fresenius Kabi: controlled room temperature (below 25 C) until expiry. Ovidrel: 2 to 8 C (refrigerator), do not freeze, keep in original package, protect from light; the pre-filled syringe (not the pen) may be kept at 25 C for up to 30 days, then discarded",
+   "inUse": "Pregnyl reconstituted: stable 28 days refrigerated (2 to 8 C). Fresenius Kabi reconstituted: keep refrigerated (2 to 8 C) and use within 30 days. Ovidrel: single use; discard any unused material",
+   "discardAfterDays": null,
+   "byProduct": [
+    {
+     "brand": "Pregnyl",
+     "discardAfterDays": 28
+    },
+    {
+     "brand": "Chorionic Gonadotropin for Injection, USP (Fresenius Kabi)",
+     "discardAfterDays": 30
+    },
+    {
+     "brand": "Ovidrel",
+     "discardAfterDays": 0
+    }
+   ],
+   "sourceIds": [
+    "s1",
+    "s4",
+    "s6"
+   ]
+  },
+  "commonSideEffects": [
+   "Pregnyl: headache, irritability, restlessness, depression, fatigue, edema, precocious puberty, gynecomastia, injection-site pain, allergic reactions",
+   "Ovidrel: injection-site pain 16.2% (ovulation induction study); application site disorders 14.6%",
+   "Ovidrel: nausea, vomiting, abdominal pain, headache and mild or moderate OHSS listed as common (more than 1 in 100)"
+  ],
+  "warnings": [
+   "Ovarian hyperstimulation syndrome (OHSS) can be triggered by hCG; patients are followed for at least two weeks after hCG. Ovidrel monograph: maximum severity at 7 to 10 days; patient leaflet gives incidence usually under 3%; independent risk factors include age under 30 and lean body mass",
+   "Multiple pregnancy: increased risk with ovulation induction (Ovidrel trial: 2 of 15 live deliveries, 13.3%, were multiple births)",
+   "Thromboembolic events reported both with and separate from OHSS (Pregnyl); Ovidrel lists thromboembolism as very rare (1/10,000)",
+   "Ectopic pregnancy, pregnancy loss and possibly congenital malformations are more frequent with assisted reproduction; ovarian torsion reported after hCG",
+   "Prepubertal boys: use cautiously to avoid premature epiphyseal closure or precocious sexual development",
+   "Men: hCG increases androgen production",
+   "Heart or kidney disease, epilepsy, migraine or asthma (or a history of them): close supervision, as aggravation or recurrence may occur",
+   "Pregnancy tests: hCG may interfere for up to ten days with serum/urinary hCG tests",
+   "Not for weight loss: Pregnyl and Fresenius Kabi monographs state hCG has not been shown effective for obesity and should not be used for body weight reduction",
+   "Male uses outside the listed indications are not in the Canadian monographs"
+  ],
+  "contraindications": [
+   "Pregnyl: prepubertal boys with signs of anatomical obstruction; precocious puberty; hypersensitivity; known or suspected sex hormone-dependent tumours (ovary, breast, uterine carcinoma in females; prostatic or breast carcinoma in males); reproductive organ malformations or uterine fibroids incompatible with pregnancy; abnormal (non-menstrual) vaginal bleeding of unknown cause",
+   "Fresenius Kabi adds: pituitary tumour, ovarian tumour, androgen-dependent neoplasms; uncontrolled endocrine disorders (e.g. hyperprolactinemia, thyroid and adrenal dysfunction); primary ovarian failure; active thrombophlebitis or thromboembolic event; allergy to u-hCG",
+   "Ovidrel: hypersensitivity; primary ovarian failure; uncontrolled thyroid or adrenal dysfunction; hypothalamic or pituitary tumours; abnormal uterine bleeding of undetermined origin; ovarian enlargement or cyst of unknown cause; ovarian, uterine or mammary cancer; pregnancy"
+  ],
+  "interactions": [
+   "Pregnyl: interactions not studied; interactions with commonly used medicines cannot be excluded",
+   "Ovidrel: no clinically significant drug interactions reported during hCG therapy",
+   "Interferes with hCG pregnancy tests for up to ten days"
+  ],
+  "nutritionNotes": [],
+  "specialPopulations": [
+   "Pregnancy: Pregnyl not used after pregnancy is established; Ovidrel contraindicated in pregnancy",
+   "Breastfeeding: Pregnyl must not be used during lactation; Ovidrel not indicated during breastfeeding",
+   "Children: Pregnyl and Fresenius Kabi list prepubertal cryptorchidism; Ovidrel is only for female patients of reproductive age"
+  ],
+  "wada": "Chorionic gonadotrophin (CG) is prohibited at all times in males (2026 Prohibited List, S2.2.1 testosterone-stimulating peptides in males); no change to this listed for the 2027 List (in force 2027-01-01).",
+  "wadaSourceIds": [
+   "s11",
+   "s12"
+  ],
+  "evidenceLevel": "Approved, extensive use (for the labelled indications)",
+  "sources": [
+   {
+    "id": "s1",
+    "title": "PREGNYL (chorionic gonadotropin for injection) Product Monograph",
+    "publisher": "Organon Canada Inc. via Health Canada Drug Product Database",
+    "url": "https://pdf.hres.ca/dpd_pm/00071523.PDF",
+    "publishedOrRevised": "2021-03-30 (submission control 249487)",
+    "accessed": "2026-11-17",
+    "type": "monograph"
+   },
+   {
+    "id": "s2",
+    "title": "Drug Product Database API: marketing status of drug code 44257 (Pregnyl)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=44257",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s3",
+    "title": "Drug Product Database: Pregnyl product information (drug code 44257)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=44257",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s4",
+    "title": "Chorionic Gonadotropin for Injection, USP Product Monograph",
+    "publisher": "Fresenius Kabi Canada Ltd via Health Canada Drug Product Database",
+    "url": "https://pdf.hres.ca/dpd_pm/00055872.PDF",
+    "publishedOrRevised": "2020-04-06 per monograph (DPD lists 2020-04-03; submission control 230972)",
+    "accessed": "2026-11-17",
+    "type": "monograph"
+   },
+   {
+    "id": "s5",
+    "title": "Drug Product Database: Chorionic Gonadotropin for Injection, USP product information (drug code 71705)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=71705",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s6",
+    "title": "OVIDREL (choriogonadotropin alfa injection) Product Monograph",
+    "publisher": "EMD Serono via Health Canada Drug Product Database",
+    "url": "https://pdf.hres.ca/dpd_pm/00072860.PDF",
+    "publishedOrRevised": "2023-10-12 (submission control 274651)",
+    "accessed": "2026-11-17",
+    "type": "monograph"
+   },
+   {
+    "id": "s7",
+    "title": "Drug Product Database: Ovidrel product information (drug code 85673)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=85673",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s8",
+    "title": "Drug Product Database API: brand name search 'ovidrel'",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&brandname=ovidrel",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s9",
+    "title": "Drug Product Database API: marketing status of drug code 74742 (Ovidrel)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=74742",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s10",
+    "title": "Drug Product Database API: brand name search 'novarel' (no records)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&brandname=novarel",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s11",
+    "title": "The 2026 Prohibited List (World Anti-Doping Code International Standard), English final, September 2025; copy hosted by the Hellenic Athletics Federation (SEGAS) because wada-ama.org blocks automated fetches",
+    "publisher": "World Anti-Doping Agency",
+    "url": "https://www.segas.gr/wp-content/uploads/2025/11/2026list_en_final_clean_september_2025.pdf",
+    "publishedOrRevised": "2025-09 (in force 2026-01-01)",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s12",
+    "title": "Athlete Advisory: 2027 Prohibited List",
+    "publisher": "U.S. Anti-Doping Agency",
+    "url": "https://www.usada.org/spirit-of-sport/athlete-advisory-2027-prohibited-list/",
+    "publishedOrRevised": "2026 (List in force 2027-01-01)",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   }
+  ],
+  "lastReviewed": "2026-11-17",
+  "openQuestions": [
+   "Ovidrel DIN 02262088 (drug code 74742): DPD status says Marketed since 2004-12-20, but its product page could not be loaded (server errors), so its presentation and strength are not confirmed; the current monograph lists both a pre-filled syringe and a pre-filled pen",
+   "Fresenius Kabi monograph doses for delayed adolescence, pituitary dwarfism, hypogonadotropic eunuchoidism, habitual abortion, functional bleeding and functional sterility were not retrieved",
+   "Fresenius Kabi monograph date: DPD lists 2020-04-03; the monograph itself says approved and last revised April 6, 2020",
+   "No missed-dose text found in the fetched monographs",
+   "Novarel and other US-only hCG brands: no DPD record found for 'novarel'; US labels and FDA status not re-verified in this pass",
+   "WADA list was read from a federation-hosted copy because wada-ama.org blocks automated access; confirm against the WADA site"
+  ],
+  "listSourceIds": {
+   "indications": [
+    "s1",
+    "s4",
+    "s6"
+   ],
+   "products": [
+    "s1",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8"
+   ],
+   "deviceNotes": [
+    "s1",
+    "s4",
+    "s6"
+   ],
+   "commonSideEffects": [
+    "s1",
+    "s6"
+   ],
+   "warnings": [
+    "s1",
+    "s4",
+    "s6"
+   ],
+   "contraindications": [
+    "s1",
+    "s4",
+    "s6"
+   ],
+   "interactions": [
+    "s1",
+    "s6"
+   ],
+   "specialPopulations": [
+    "s1",
+    "s4",
+    "s6"
+   ]
+  }
+ },
+ {
+  "id": "clomiphene",
+  "names": {
+   "generic": "clomiphene citrate (clomifene)",
+   "brands": [
+    "Clomid",
+    "Serophene",
+    "Milophene (US)"
+   ]
+  },
+  "class": "Selective estrogen receptor modulator (ovulatory stimulant)",
+  "group": "Hormones and related",
+  "usedFor": [
+   "Ovulation induction in women with ovulatory dysfunction"
+  ],
+  "route": [
+   "oral"
+  ],
+  "status": "approved_elsewhere",
+  "statusDetail": {
+   "healthCanada": "Previously approved; no marketed product found. Every clomiphene DIN found in the Drug Product Database is Cancelled Post Market: Clomid (Sanofi, DIN 02091879) 2020-07-15 (shortage database: discontinued 2015-11-25, business reasons); Serophene (EMD Serono, DIN 00893722) 2017-07-07; Serophene (Pharmascience, DIN 00640158) 2014-09-08; Clomid 50 mg (Merrell, DIN 00018031) 1996-09-09. A brand search for 'clomiphene' returned no generic products.",
+   "fda": "Approved in the US: DailyMed lists current Clomid (Cosette, label revised 08/2023), Milophene and multiple generic clomiphene citrate tablet labels.",
+   "other": "",
+   "checkedOn": "2026-11-17",
+   "sourceIds": [
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s11",
+    "s12"
+   ]
+  },
+  "indications": [
+   "Archived Canadian Clomid monograph: induction of ovulation in patients with persistent ovulatory dysfunction who desire pregnancy, only in patients who meet the listed evaluation criteria",
+   "Archived Canadian Serophene monograph: ovulatory failure in patients desiring pregnancy whose partners have adequate sperm and who have functional pituitary and ovarian systems with adequate endogenous estrogen",
+   "US label: treatment of ovulatory dysfunction in women desiring pregnancy",
+   "Use in men is not included in the Canadian monograph; it states there are no adequate or well-controlled studies showing effectiveness in male infertility"
+  ],
+  "mechanism": "Blocks estrogen feedback at the hypothalamus; the ovulatory response appears to be mediated by increased output of pituitary gonadotropins.",
+  "products": [
+   {
+    "brand": "Clomid (Sanofi-Aventis Canada), cancelled post market",
+    "din": "02091879",
+    "strengths": [
+     "50 mg tablet"
+    ],
+    "device": "50 mg white, round, flat-faced bevelled tablet, scored on one side",
+    "monographUrl": "https://pdf.hres.ca/dpd_pm/00021924.PDF",
+    "monographDate": "2013-08-09"
+   },
+   {
+    "brand": "Serophene (EMD Serono), cancelled post market",
+    "din": "00893722",
+    "strengths": [
+     "50 mg tablet"
+    ],
+    "device": "",
+    "monographUrl": "https://pdf.hres.ca/dpd_pm/00037571.PDF",
+    "monographDate": "2016-12-20"
+   },
+   {
+    "brand": "Serophene (Pharmascience), cancelled post market",
+    "din": "00640158",
+    "strengths": [
+     "50 mg tablet"
+    ],
+    "device": "",
+    "monographUrl": "",
+    "monographDate": ""
+   },
+   {
+    "brand": "Clomid 50 mg (Merrell Dow), cancelled post market",
+    "din": "00018031",
+    "strengths": [
+     "50 mg tablet"
+    ],
+    "device": "",
+    "monographUrl": "",
+    "monographDate": ""
+   }
+  ],
+  "deviceNotes": [],
+  "doseInfo": [
+   {
+    "basis": "monograph",
+    "population": "Women with ovulatory dysfunction (archived Canadian Clomid monograph, product no longer marketed)",
+    "regimen": "First course 50 mg daily for 5 days, started at any time if there has been no recent uterine bleeding, or on or about day 5 of the cycle if bleeding occurs. If ovulation does not occur, a second course of 100 mg daily (two 50 mg tablets as a single daily dose) for 5 days, started as early as 30 days after the previous course",
+    "maxDose": "100 mg/day for 5 days (the monograph states dose or duration beyond this should never be undertaken)",
+    "durationOrContext": "3 courses constitute an adequate therapeutic trial; further treatment not recommended if no pregnancy after 3 ovulatory responses; long-term cyclic therapy not recommended beyond a total of about 6 cycles (including 3 ovulatory cycles)",
+    "sourceIds": [
+     "s1"
+    ]
+   },
+   {
+    "basis": "monograph",
+    "population": "Women with ovulatory dysfunction (US Clomid label)",
+    "regimen": "Starts at 50 mg daily for 5 days",
+    "maxDose": "Dose or duration beyond 100 mg/day for 5 days is not recommended",
+    "durationOrContext": "Long-term cyclic therapy not recommended beyond a total of about six cycles",
+    "sourceIds": [
+     "s11"
+    ]
+   }
+  ],
+  "missedDose": {
+   "text": "Not stated in the fetched monograph or label text.",
+   "windowHours": null,
+   "minHoursBeforeNextDose": null,
+   "minHoursBetweenDoses": null,
+   "sourceIds": [
+    "s1"
+   ]
+  },
+  "storage": {
+   "unopened": "Store in original container between 15 and 30 C; keep out of reach and sight of children",
+   "inUse": "Same as unopened",
+   "discardAfterDays": null,
+   "sourceIds": [
+    "s1"
+   ]
+  },
+  "commonSideEffects": [
+   "US label (trials, incidence above 1%): ovarian enlargement 13.6%, vasomotor flushes 10.4%, abdominal-pelvic discomfort/distention/bloating 5.5%, nausea and vomiting 2.2%, breast discomfort 2.1%, visual symptoms 1.5%",
+   "Canadian monograph: hot flashes and abdominal-pelvic discomfort are the more common side effects; ovarian enlargement and visual blurring also listed"
+  ],
+  "warnings": [
+   "Visual symptoms (blurring, spots or flashes): may be prolonged or irreversible, especially with higher dose or longer use; treatment is stopped and a complete eye examination done if any visual symptom occurs",
+   "Ovarian hyperstimulation syndrome (OHSS), distinct from uncomplicated ovarian enlargement; abnormal ovarian enlargement is infrequent at recommended doses",
+   "Multiple pregnancy: the Canadian monograph states the rate has been increased up to tenfold when conception occurs in a treatment cycle",
+   "Prolonged use may increase the risk of borderline or invasive ovarian tumours",
+   "Hypertriglyceridemia, with or without pancreatitis, reported",
+   "Men: testicular tumours and gynecomastia reported in males using clomiphene (cause not established); male use is not a Canadian monograph indication"
+  ],
+  "contraindications": [
+   "Pregnancy",
+   "Liver disease or history of liver dysfunction",
+   "Hormone-dependent tumours",
+   "Abnormal uterine bleeding of undetermined origin",
+   "Ovarian cyst, except polycystic ovary",
+   "Hypersensitivity or allergy to clomiphene or any ingredient"
+  ],
+  "interactions": [
+   "The archived Canadian Clomid monograph has no specific drug interaction section; its patient information says to disclose all medicines because clomiphene can affect how some other medicines work"
+  ],
+  "nutritionNotes": [],
+  "specialPopulations": [
+   "Pregnancy: contraindicated",
+   "Breastfeeding: not known whether excreted in milk; may reduce lactation",
+   "Men: no adequate or well-controlled studies showing effectiveness in male infertility"
+  ],
+  "wada": "Clomifene is prohibited at all times (in and out of competition) as an anti-estrogenic substance (2026 Prohibited List, S4.2 Hormone and metabolic modulators); no change to this listed for the 2027 List.",
+  "wadaSourceIds": [
+   "s13",
+   "s14"
+  ],
+  "evidenceLevel": "Approved, extensive use (for the labelled indication); no longer marketed in Canada",
+  "sources": [
+   {
+    "id": "s1",
+    "title": "CLOMID (clomiphene citrate tablets) Product Monograph",
+    "publisher": "Sanofi-Aventis Canada Inc. via Health Canada Drug Product Database",
+    "url": "https://pdf.hres.ca/dpd_pm/00021924.PDF",
+    "publishedOrRevised": "2013-08-09 (submission control 165671)",
+    "accessed": "2026-11-17",
+    "type": "monograph"
+   },
+   {
+    "id": "s2",
+    "title": "Drug Product Database: Clomid product information (drug code 19347)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=19347",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s3",
+    "title": "Drug Product Database API: brand name search 'clomid'",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&brandname=clomid",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s4",
+    "title": "Drug Product Database API: brand name search 'serophene'",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&brandname=serophene",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s5",
+    "title": "Drug Product Database API: marketing status of drug code 6391 (Serophene, Pharmascience)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=6391",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s6",
+    "title": "Drug Product Database API: marketing status of drug code 11805 (Serophene, EMD Serono)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=11805",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s7",
+    "title": "Drug Product Database API: marketing status of drug code 547 (Clomid 50 mg)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=547",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s8",
+    "title": "Drug Product Database API: brand name search 'clomiphene' (no records)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&brandname=clomiphene",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s9",
+    "title": "Drug Shortages Canada: Discontinuation report CLOMID (DIN 02091879)",
+    "publisher": "Drug Shortages Canada (healthproductshortages.ca)",
+    "url": "https://healthproductshortages.ca/shortage/3917",
+    "publishedOrRevised": "discontinuation date 2015-11-25",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s10",
+    "title": "SEROPHENE (clomiphene citrate tablets) Product Monograph",
+    "publisher": "EMD Serono Canada via Health Canada Drug Product Database",
+    "url": "https://pdf.hres.ca/dpd_pm/00037571.PDF",
+    "publishedOrRevised": "2016-12-20 (submission control 189606)",
+    "accessed": "2026-11-17",
+    "type": "monograph"
+   },
+   {
+    "id": "s11",
+    "title": "CLOMID (clomiphene citrate tablets USP) prescribing information",
+    "publisher": "Cosette Pharmaceuticals, Inc. via DailyMed (US National Library of Medicine)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2ca373c1-4dba-4126-8616-5c533d606fe5",
+    "publishedOrRevised": "Revised 08/2023",
+    "accessed": "2026-11-17",
+    "type": "label"
+   },
+   {
+    "id": "s12",
+    "title": "DailyMed search results: clomiphene citrate",
+    "publisher": "US National Library of Medicine",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&query=clomiphene+citrate",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "label"
+   },
+   {
+    "id": "s13",
+    "title": "The 2026 Prohibited List (World Anti-Doping Code International Standard), English final, September 2025; copy hosted by the Hellenic Athletics Federation (SEGAS) because wada-ama.org blocks automated fetches",
+    "publisher": "World Anti-Doping Agency",
+    "url": "https://www.segas.gr/wp-content/uploads/2025/11/2026list_en_final_clean_september_2025.pdf",
+    "publishedOrRevised": "2025-09 (in force 2026-01-01)",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s14",
+    "title": "Athlete Advisory: 2027 Prohibited List",
+    "publisher": "U.S. Anti-Doping Agency",
+    "url": "https://www.usada.org/spirit-of-sport/athlete-advisory-2027-prohibited-list/",
+    "publishedOrRevised": "2026 (List in force 2027-01-01)",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   }
+  ],
+  "lastReviewed": "2026-11-17",
+  "openQuestions": [
+   "Status category: set to approved_elsewhere because no clomiphene product is currently marketed in Canada (all DINs Cancelled Post Market); the dose row uses the archived 2013 Canadian Clomid monograph. Confirm this is the wanted category",
+   "Clomid DIN 02091879: DPD status date 2020-07-15 vs shortage database discontinuation date 2015-11-25 (both recorded)",
+   "Missed-dose instructions not found in the fetched text",
+   "WADA list was read from a federation-hosted copy because wada-ama.org blocks automated access; confirm against the WADA site"
+  ],
+  "listSourceIds": {
+   "indications": [
+    "s1",
+    "s10",
+    "s11"
+   ],
+   "products": [
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s10"
+   ],
+   "commonSideEffects": [
+    "s1",
+    "s11"
+   ],
+   "warnings": [
+    "s1",
+    "s11"
+   ],
+   "contraindications": [
+    "s1"
+   ],
+   "interactions": [
+    "s1"
+   ],
+   "specialPopulations": [
+    "s1",
+    "s11"
+   ]
+  }
+ },
+ {
+  "id": "anastrozole",
+  "names": {
+   "generic": "anastrozole",
+   "brands": [
+    "Arimidex",
+    "generics (for example Apo-Anastrozole)"
+   ]
+  },
+  "class": "Non-steroidal aromatase inhibitor",
+  "group": "Hormones and related",
+  "usedFor": [
+   "Breast cancer in postmenopausal women"
+  ],
+  "route": [
+   "oral"
+  ],
+  "status": "approved_ca",
+  "statusDetail": {
+   "healthCanada": "Arimidex 1 mg tablet (DIN 02224135, AstraZeneca) marketed; original market date 1996-08-30. Generics: Apo-Anastrozole (DIN 02374420) marketed since 2012-10-25; a DPD brand search returns 30 anastrozole-named generic records (at least one, Teva-Anastrozole DIN 02313049, is Cancelled Post Market); status of the rest not individually checked.",
+   "fda": "Not re-verified in this Canada-focused pass.",
+   "other": "",
+   "checkedOn": "2026-11-17",
+   "sourceIds": [
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6"
+   ]
+  },
+  "indications": [
+   "Adjuvant treatment of postmenopausal women with hormone receptor positive early breast cancer",
+   "Hormonal treatment of advanced breast cancer in postmenopausal women",
+   "Use in men is not included in the Canadian monograph; its indications are limited to postmenopausal women, and it is not recommended in premenopausal women"
+  ],
+  "mechanism": "Potent, selective non-steroidal aromatase inhibitor; lowers serum estradiol without detectable effect on adrenal corticosteroid or aldosterone formation.",
+  "products": [
+   {
+    "brand": "Arimidex",
+    "din": "02224135",
+    "strengths": [
+     "1 mg tablet"
+    ],
+    "device": "",
+    "monographUrl": "https://pdf.hres.ca/dpd_pm/00078111.PDF",
+    "monographDate": "2024-12-23"
+   },
+   {
+    "brand": "Apo-Anastrozole",
+    "din": "02374420",
+    "strengths": [
+     "1 mg tablet"
+    ],
+    "device": "",
+    "monographUrl": "https://pdf.hres.ca/dpd_pm/00080822.PDF",
+    "monographDate": "2025-06-13"
+   }
+  ],
+  "deviceNotes": [],
+  "doseInfo": [
+   {
+    "basis": "monograph",
+    "population": "Postmenopausal women with breast cancer (adjuvant or advanced)",
+    "regimen": "1 mg orally once a day, ideally at the same time each day",
+    "maxDose": "1 mg once daily (the only listed dose)",
+    "durationOrContext": "Adjuvant setting: treatment currently recommended for 5 years. No dose change for kidney impairment or mild-to-moderate liver impairment; not studied in severe liver impairment",
+    "sourceIds": [
+     "s1"
+    ]
+   }
+  ],
+  "missedDose": {
+   "text": "The monograph states a missed dose should be taken as soon as possible, as long as it is at least 12 hours before the next dose is due; it should not be taken within 12 hours of the next dose. (windowHours 12 is derived from the once-daily schedule minus the 12-hour rule.)",
+   "windowHours": 12,
+   "minHoursBeforeNextDose": 12,
+   "minHoursBetweenDoses": null,
+   "sourceIds": [
+    "s1"
+   ]
+  },
+  "storage": {
+   "unopened": "Room temperature (15 to 30 C)",
+   "inUse": "Same as unopened",
+   "discardAfterDays": null,
+   "sourceIds": [
+    "s1"
+   ]
+  },
+  "commonSideEffects": [
+   "Joint pain/stiffness about 35.9% (ATAC trial)",
+   "Hot flushes about 35.7%",
+   "Asthenia/fatigue about 18.7%",
+   "Arthritis about 16.6%; arthralgia about 15.1%",
+   "Common (1% to under 10%): bone pain, myalgia, carpal tunnel syndrome, vaginal dryness, hair thinning, rash, nausea, diarrhea, headache, raised liver enzymes"
+  ],
+  "warnings": [
+   "Serious warning: not recommended in premenopausal women; safety and efficacy not established",
+   "Bone: may reduce bone mineral density with possible increased fracture risk; osteoporosis risk is assessed and managed per local guidelines",
+   "Cholesterol: elevated serum cholesterol more common than with tamoxifen in ATAC (9% vs 3.5%); based on SABRE data no specific lipid monitoring is required",
+   "Heart: ischemic cardiovascular events reported more often than with tamoxifen (not statistically significant), mostly in patients with pre-existing ischemic heart disease",
+   "Depression: causal relation established in post-market data",
+   "Severe liver or kidney impairment: careful risk/benefit assessment",
+   "Use in men is not a Canadian monograph indication"
+  ],
+  "contraindications": [
+   "Hypersensitivity to anastrozole or any ingredient",
+   "Pregnant or lactating women"
+  ],
+  "interactions": [
+   "Tamoxifen: should not be co-administered (no benefit from the combination in ATAC)",
+   "Estrogen-containing therapies, including estrogen-containing herbal products: should not be used, as they counteract estrogen suppression",
+   "Warfarin: no clinically relevant effect on warfarin pharmacokinetics or anticoagulant activity",
+   "CYP enzymes: clinically significant inhibition of other drugs' metabolism at 1 mg is unlikely"
+  ],
+  "nutritionNotes": [],
+  "specialPopulations": [
+   "Pregnancy and breastfeeding: contraindicated",
+   "Premenopausal women: not recommended",
+   "Children: no pediatric indication authorized by Health Canada",
+   "Older adults: no differences in safety or effectiveness",
+   "Kidney: no dose change; liver: no change for mild-to-moderate, not studied in severe"
+  ],
+  "wada": "Aromatase inhibitors, including anastrozole, are prohibited at all times (in and out of competition) (2026 Prohibited List, S4.1 Hormone and metabolic modulators); no change to this listed for the 2027 List.",
+  "wadaSourceIds": [
+   "s7",
+   "s8"
+  ],
+  "evidenceLevel": "Approved, extensive use (for the labelled indications)",
+  "sources": [
+   {
+    "id": "s1",
+    "title": "ARIMIDEX (anastrozole tablets) Product Monograph",
+    "publisher": "AstraZeneca Canada Inc. via Health Canada Drug Product Database",
+    "url": "https://pdf.hres.ca/dpd_pm/00078111.PDF",
+    "publishedOrRevised": "2024-12-23 (submission control 289564)",
+    "accessed": "2026-11-17",
+    "type": "monograph"
+   },
+   {
+    "id": "s2",
+    "title": "Drug Product Database: Arimidex product information (drug code 43395)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=43395",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s3",
+    "title": "Drug Product Database API: brand name search 'arimidex'",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&brandname=arimidex",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s4",
+    "title": "Drug Product Database API: brand name search 'anastrozole' (30 records)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&brandname=anastrozole",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s5",
+    "title": "Drug Product Database: Apo-Anastrozole product information (drug code 85968)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=85968",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s6",
+    "title": "Drug Product Database API: marketing status of drug code 79859 (Teva-Anastrozole)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=79859",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s7",
+    "title": "The 2026 Prohibited List (World Anti-Doping Code International Standard), English final, September 2025; copy hosted by the Hellenic Athletics Federation (SEGAS) because wada-ama.org blocks automated fetches",
+    "publisher": "World Anti-Doping Agency",
+    "url": "https://www.segas.gr/wp-content/uploads/2025/11/2026list_en_final_clean_september_2025.pdf",
+    "publishedOrRevised": "2025-09 (in force 2026-01-01)",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s8",
+    "title": "Athlete Advisory: 2027 Prohibited List",
+    "publisher": "U.S. Anti-Doping Agency",
+    "url": "https://www.usada.org/spirit-of-sport/athlete-advisory-2027-prohibited-list/",
+    "publishedOrRevised": "2026 (List in force 2027-01-01)",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   }
+  ],
+  "lastReviewed": "2026-11-17",
+  "openQuestions": [
+   "Marketed status of the other 28 anastrozole generic DPD records not individually checked (DPD server errors); Apo-Anastrozole confirmed marketed, Teva-Anastrozole 02313049 cancelled",
+   "Apo-Anastrozole monograph (00080822, 2025-06-13) not opened; dose assumed identical to Arimidex but not verified from that document",
+   "WADA list was read from a federation-hosted copy because wada-ama.org blocks automated access; confirm against the WADA site"
+  ],
+  "listSourceIds": {
+   "indications": [
+    "s1"
+   ],
+   "products": [
+    "s1",
+    "s2",
+    "s4",
+    "s5",
+    "s6"
+   ],
+   "commonSideEffects": [
+    "s1"
+   ],
+   "warnings": [
+    "s1"
+   ],
+   "contraindications": [
+    "s1"
+   ],
+   "interactions": [
+    "s1"
+   ],
+   "specialPopulations": [
+    "s1"
+   ]
+  }
+ },
+ {
+  "id": "somatropin",
+  "names": {
+   "generic": "somatropin (daily recombinant human growth hormone)",
+   "brands": [
+    "Genotropin",
+    "Omnitrope",
+    "Saizen",
+    "Norditropin"
+   ]
+  },
+  "class": "Recombinant human growth hormone (daily)",
+  "group": "Hormones and related",
+  "usedFor": [
+   "Adult growth hormone deficiency (replacement)",
+   "Growth failure in children (specialist-managed)"
+  ],
+  "route": [
+   "subcutaneous"
+  ],
+  "status": "approved_ca",
+  "statusDetail": {
+   "healthCanada": "Marketed in Canada (DPD, checked 2026-11-17): Genotropin GoQuick pens and MiniQuick syringes (Pfizer), Omnitrope cartridges (Sandoz), Saizen vial and cartridges (EMD Serono), Norditropin FlexPro 10 and 15 mg pens (Novo Nordisk; 5 mg pen dormant since 2026-07-24). Humatrope cartridges: cancelled post market December 2025. Nutropin AQ (NuSpin 5, 10, 20): cancelled post market 2025-01-31. Zomacton: no DPD record found. Older Norditropin NordiFlex and SimpleXx presentations: cancelled post market.",
+   "fda": "Not re-verified in this Canada-focused pass.",
+   "other": "",
+   "checkedOn": "2026-11-17",
+   "sourceIds": [
+    "d1",
+    "d2",
+    "d3",
+    "d4",
+    "d5",
+    "d6",
+    "d7",
+    "d8",
+    "d9",
+    "d10",
+    "d11",
+    "d12",
+    "d13"
+   ]
+  },
+  "indications": [
+   "Adults: replacement of endogenous growth hormone in adults with growth hormone deficiency, adult-onset or childhood-onset (Genotropin, Omnitrope); replacement therapy in adults with acquired or idiopathic growth hormone deficiency (Saizen)",
+   "Children: long-term treatment of growth failure due to inadequate secretion of endogenous growth hormone; depending on the brand also Turner syndrome, small for gestational age, idiopathic short stature, Prader-Willi syndrome (Genotropin), chronic renal failure (Saizen) and Noonan syndrome (Norditropin)",
+   "Norditropin in Canada is pediatric only: the monograph states it is not indicated for use in adults",
+   "Approved uses are limited to the indications above: none of the four Canadian monographs lists anti-aging, body composition or athletic performance in healthy adults as an indication"
+  ],
+  "mechanism": "Recombinant human growth hormone that replaces missing endogenous GH; raises IGF-1, which is used to guide dosing.",
+  "products": [
+   {
+    "brand": "Genotropin GoQuick (Pfizer Canada ULC)",
+    "din": "02401681 (5 mg); 02401703 (5.3 mg); 02401711 (12 mg)",
+    "strengths": [
+     "5 mg/pen",
+     "5.3 mg/pen",
+     "12 mg/pen"
+    ],
+    "device": "Multidose disposable prefilled pen with two-chamber cartridge (powder plus diluent containing metacresol), reconstituted in the pen",
+    "monographUrl": "https://pdf.hres.ca/dpd_pm/00056686.PDF",
+    "monographDate": "2020-06-22 (PDF date of revision; DPD lists the PM as 2020-06-10)"
+   },
+   {
+    "brand": "Genotropin MiniQuick (Pfizer Canada ULC)",
+    "din": "02401746, 02401754, 02401762, 02401770, 02401789, 02401797, 02401800, 02401819, 02401827, 02401835 (one DIN per strength)",
+    "strengths": [
+     "0.2, 0.4, 0.6, 0.8, 1.0, 1.2, 1.4, 1.6, 1.8 and 2.0 mg per syringe"
+    ],
+    "device": "Single-dose, preservative-free two-chamber prefilled syringe",
+    "monographUrl": "https://pdf.hres.ca/dpd_pm/00056686.PDF",
+    "monographDate": "2020-06-22"
+   },
+   {
+    "brand": "Omnitrope (Sandoz Canada)",
+    "din": "02325063 (5 mg/1.5 mL); 02325071 (10 mg/1.5 mL); 02459647 (15 mg/1.5 mL)",
+    "strengths": [
+     "5 mg/1.5 mL",
+     "10 mg/1.5 mL",
+     "15 mg/1.5 mL"
+    ],
+    "device": "Solution cartridge for the reusable Omnitrope SurePal 5, SurePal 10 or SurePal 15 pen; the 5 mg/1.5 mL cartridge contains benzyl alcohol",
+    "monographUrl": "https://pdf.hres.ca/dpd_pm/00075677.PDF",
+    "monographDate": "2024-05-23"
+   },
+   {
+    "brand": "Saizen (EMD Serono Canada)",
+    "din": "02237971 (5 mg vial); 02350122 (6 mg cartridge, 5.83 mg/mL); 02350130 (12 mg cartridge, 8 mg/mL); 02350149 (20 mg cartridge, 8 mg/mL)",
+    "strengths": [
+     "5 mg/vial (powder)",
+     "6 mg/cartridge (5.83 mg/mL)",
+     "12 mg/cartridge (8 mg/mL)",
+     "20 mg/cartridge (8 mg/mL)"
+    ],
+    "device": "Vial for reconstitution; colour-coded solution cartridges (6 mg blue, 12 mg red, 20 mg yellow) for the easypod electromechanical autoinjector or the matching Aluetta pen injector",
+    "monographUrl": "https://pdf.hres.ca/dpd_pm/00085900.PDF",
+    "monographDate": "2026-08-28"
+   },
+   {
+    "brand": "Norditropin FlexPro (Novo Nordisk Canada) - pediatric indications only",
+    "din": "02529203 (10 mg/1.5 mL, marketed); 02529211 (15 mg/1.5 mL, marketed); 02529181 (5 mg/1.5 mL, dormant since 2026-07-24)",
+    "strengths": [
+     "5 mg/1.5 mL",
+     "10 mg/1.5 mL",
+     "15 mg/1.5 mL"
+    ],
+    "device": "Multidose prefilled pen for NovoFine or NovoFine Plus needles; single-patient use",
+    "monographUrl": "https://pdf.hres.ca/dpd_pm/00084418.PDF",
+    "monographDate": "2026-04-20"
+   }
+  ],
+  "deviceNotes": [
+   "Omnitrope: after the first injection the cartridge stays in the SurePal pen",
+   "Genotropin GoQuick and MiniQuick: powder and diluent are mixed inside the device before use; the reconstituted solution may stand at room temperature up to 2 hours before each GoQuick injection, then goes back in the refrigerator",
+   "Saizen: each Aluetta pen is used only with its matching colour-coded cartridge; the solution is used only if water-clear",
+   "Norditropin FlexPro: designed for NovoFine or NovoFine Plus needles; one pen per patient"
+  ],
+  "doseInfo": [
+   {
+    "basis": "monograph",
+    "population": "Adults with growth hormone deficiency (Genotropin, Omnitrope)",
+    "regimen": "Table dose \"0.15 - 0.3 mg/day\" subcutaneously (dosing schedule column: \"Divided into 6-7 doses\"). \"Final dose should be individually increased as required with respect to age and gender\". \"Clinical response, side effects and determination of IGF-1 in serum may be used as guidance for dose titration.\" \"The level of IGF-1 should not exceed the upper limit of normal IGF-1 levels matched to age and sex.\"",
+    "maxDose": "\"maximum daily maintenance dose of 1.33 mg\"",
+    "durationOrContext": "Genotropin: \"Women may require higher doses than men\" (risk of under-treatment with oral estrogen); \"A lower starting dose and smaller dose increments should be considered for older patients\"; dose requirements may fall with age. No fixed titration interval is stated.",
+    "sourceIds": [
+     "s1",
+     "s2"
+    ]
+   },
+   {
+    "basis": "monograph",
+    "population": "Adults with acquired or idiopathic growth hormone deficiency (Saizen)",
+    "regimen": "Start 0.005 mg/kg/day by daily subcutaneous injection; may be increased after 4 weeks to 0.01 mg/kg/day if well tolerated; then adjusted stepwise, controlled by IGF-1 age-adjusted normal values.",
+    "maxDose": "No fixed cap stated: \"The recommended final GH dose seldom exceeds 1.0 mg/day.\"",
+    "durationOrContext": "Weight-based start, unlike Genotropin and Omnitrope.",
+    "sourceIds": [
+     "s4"
+    ]
+   },
+   {
+    "basis": "monograph",
+    "population": "Children with growth hormone deficiency: weight-based, set by a specialist",
+    "regimen": "Genotropin and Omnitrope: 0.16 - 0.24 mg/kg body weight/week, divided into 6-7 doses. Saizen: 0.2 mg/kg/week, may increase to 0.27 mg/kg/week. Norditropin: up to 0.043 mg/kg/day. Other pediatric indications (Turner, SGA, ISS, Prader-Willi, chronic renal failure, Noonan) have their own ranges in each monograph.",
+    "maxDose": "Per indication in each monograph; not reproduced here",
+    "durationOrContext": "Pediatric dosing is individualized by the treating specialist",
+    "sourceIds": [
+     "s1",
+     "s2",
+     "s3",
+     "s4"
+    ]
+   }
+  ],
+  "missedDose": {
+   "text": "Omnitrope and Genotropin patient information: \"Do not use a double dose to make up for a forgotten dose.\" \"If you forget to use a dose, have your next injection at the usual time the next day.\" Norditropin and Saizen monographs: \"it is not recommended to double the next dose. Administer the regular dose at the next scheduled dosage time.\" Genotropin also asks patients to note missed injections and tell the doctor at the next check-up.",
+   "windowHours": 0,
+   "minHoursBeforeNextDose": null,
+   "minHoursBetweenDoses": null,
+   "sourceIds": [
+    "s1",
+    "s2",
+    "s3",
+    "s4"
+   ]
+  },
+  "storage": {
+   "unopened": "Genotropin GoQuick and MiniQuick: refrigerate at 2-8 C until expiry; do not freeze or shake; keep in carton. Unrefrigerated allowance (at or below 25 C): GoQuick up to 4 weeks, MiniQuick up to 6 months, not to be returned to the refrigerator, then discarded. Omnitrope: 2-8 C, do not freeze, in original package to protect from light. Saizen 5 mg vial: room temperature not above 25 C in original package. Saizen cartridges: 2-8 C, do not freeze. Norditropin FlexPro: 2-8 C, do not freeze, avoid direct light.",
+   "inUse": "Omnitrope: cartridge kept in pen at 2-8 C for a maximum of 28 days. Genotropin GoQuick (reconstituted): 2-8 C for a maximum of 4 weeks. Genotropin MiniQuick (reconstituted): use immediately or refrigerate and use within 24 hours. Saizen cartridges: 2-8 C up to 28 days, of which no more than 7 days at room temperature (not above 25 C); discard after 28 days or if more than 7 days out of the refrigerator. Saizen vial: with bacteriostatic water 2-8 C up to 14 days; with water for injection, use within 3 hours. Norditropin FlexPro: refrigerated and used within 4 weeks, OR up to 3 weeks at not more than 25 C.",
+   "discardAfterDays": 28,
+   "byProduct": [
+    {
+     "brand": "Omnitrope cartridge",
+     "discardAfterDays": 28
+    },
+    {
+     "brand": "Genotropin GoQuick",
+     "discardAfterDays": 28
+    },
+    {
+     "brand": "Genotropin MiniQuick",
+     "discardAfterDays": 1
+    },
+    {
+     "brand": "Saizen cartridge",
+     "discardAfterDays": 28,
+     "maxDaysOutOfFridge": 7
+    },
+    {
+     "brand": "Saizen 5 mg vial (bacteriostatic water)",
+     "discardAfterDays": 14
+    },
+    {
+     "brand": "Norditropin FlexPro",
+     "discardAfterDays": 28,
+     "roomTempOptionDays": 21
+    }
+   ],
+   "sourceIds": [
+    "s1",
+    "s2",
+    "s3",
+    "s4"
+   ]
+  },
+  "commonSideEffects": [
+   "Adults with GHD (Omnitrope monograph table): peripheral swelling 17.5% vs 5.1% placebo",
+   "Arthralgia 17.3% vs 4.2%",
+   "Paresthesia 9.6% vs 1.9%",
+   "Myalgia 4.9% vs 1.6%",
+   "Fluid-retention symptoms are mostly mild to moderate and early in treatment"
+  ],
+  "warnings": [
+   "Intracranial hypertension with papilledema, visual changes, headache, nausea and/or vomiting has been reported; symptoms usually within the first eight weeks",
+   "Glucose intolerance: monitor for abnormal glucose metabolism; new-onset type 2 diabetes reported in children and adults",
+   "Neoplasms: increased risk of a second neoplasm reported in childhood cancer survivors; monitor skin lesions for malignant change",
+   "Scoliosis can progress in patients with rapid growth",
+   "Slipped capital femoral epiphysis: evaluate any child who develops a limp or hip or knee pain",
+   "Fluid retention may occur during replacement in adults",
+   "Carpal tunnel syndrome appears more frequent in patients over 40 (2% of 3,031 patients in extension studies); Saizen advises dose reduction, then stopping if symptoms persist",
+   "Acute critical illness: in trials mortality was 42% with somatropin vs 19% placebo; such patients should not be treated",
+   "Prader-Willi syndrome: fatalities reported in children with severe obesity, respiratory impairment, sleep apnea or respiratory infection",
+   "Thyroid and adrenal: may unmask hypothyroidism (check thyroid at least annually) and central hypoadrenalism; optimise corticosteroid replacement before starting",
+   "Norditropin monograph also lists pancreatitis in children"
+  ],
+  "contraindications": [
+   "Any evidence of active neoplasia; intracranial lesions must be inactive and antitumour therapy complete",
+   "Active proliferative or severe non-proliferative (preproliferative) diabetic retinopathy",
+   "Acute critical illness from complications after open heart or abdominal surgery, multiple accidental trauma, or acute respiratory failure",
+   "Growth promotion in children with closed (fused) epiphyses",
+   "Hypersensitivity to somatropin or any ingredient (for example metacresol in Genotropin GoQuick)",
+   "Prader-Willi syndrome with severe obesity, upper airway obstruction or sleep apnea, or severe respiratory impairment",
+   "Omnitrope 5 mg/1.5 mL (benzyl alcohol): not for newborns or people sensitive to benzyl alcohol",
+   "Norditropin: renal transplantation",
+   "Saizen: not recommended during pregnancy and lactation"
+  ],
+  "interactions": [
+   "Glucocorticoids: monitor serum cortisol; replacement or stress doses may need adjustment",
+   "Oral estrogens: women on oral estrogen may be under-treated and need higher doses",
+   "Insulin and other diabetes medicines: may need adjustment because somatropin can reduce insulin sensitivity",
+   "Thyroid: increased T4-to-T3 conversion; may unmask hypothyroidism",
+   "Drugs cleared by CYP450 (corticosteroids, sex steroids, anticonvulsants, cyclosporine): clearance may change; careful monitoring advised"
+  ],
+  "nutritionNotes": [],
+  "specialPopulations": [
+   "Women, especially on oral estrogen: may need higher doses",
+   "Older adults: lower starting dose and smaller increments considered; requirements fall with age",
+   "Pregnancy: Omnitrope only if benefits clearly outweigh risks; Saizen not recommended",
+   "Breastfeeding: no data on passage into milk (Omnitrope); Saizen not recommended",
+   "Children: weight-based dosing by a specialist; Norditropin is pediatric only in Canada"
+  ],
+  "wada": "Prohibited at all times (in and out of competition): S2.2.3 Growth hormone (GH), its analogues and fragments (2026 List; 2027 List in force 2027-01-01 keeps GH under S2).",
+  "evidenceLevel": "Approved, extensive use (for the labelled indications)",
+  "sources": [
+   {
+    "id": "s1",
+    "title": "GENOTROPIN (somatropin) Product Monograph (GoQuick, MiniQuick)",
+    "publisher": "Pfizer Canada ULC via Health Canada DPD",
+    "url": "https://pdf.hres.ca/dpd_pm/00056686.PDF",
+    "publishedOrRevised": "2020-06-22",
+    "accessed": "2026-11-17",
+    "type": "monograph"
+   },
+   {
+    "id": "s2",
+    "title": "OMNITROPE (somatropin) Product Monograph",
+    "publisher": "Sandoz Canada via Health Canada DPD",
+    "url": "https://pdf.hres.ca/dpd_pm/00075677.PDF",
+    "publishedOrRevised": "2024-05-23",
+    "accessed": "2026-11-17",
+    "type": "monograph"
+   },
+   {
+    "id": "s3",
+    "title": "NORDITROPIN FlexPro (somatropin) Product Monograph",
+    "publisher": "Novo Nordisk Canada via Health Canada DPD",
+    "url": "https://pdf.hres.ca/dpd_pm/00084418.PDF",
+    "publishedOrRevised": "2026-04-20",
+    "accessed": "2026-11-17",
+    "type": "monograph"
+   },
+   {
+    "id": "s4",
+    "title": "SAIZEN (somatropin) Product Monograph",
+    "publisher": "EMD Serono Canada via Health Canada DPD",
+    "url": "https://pdf.hres.ca/dpd_pm/00085900.PDF",
+    "publishedOrRevised": "2026-08-28",
+    "accessed": "2026-11-17",
+    "type": "monograph"
+   },
+   {
+    "id": "d1",
+    "title": "Drug Product Database API: GENOTROPIN product records",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&brandname=GENOTROPIN",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "d2",
+    "title": "Drug Product Database: GENOTROPIN GoQuick 12 mg (drug code 88660), marketed since 2013-09-18",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=88660",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "d3",
+    "title": "Drug Product Database API: OMNITROPE product records",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&brandname=OMNITROPE",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "d4",
+    "title": "Drug Product Database: OMNITROPE 15 mg/1.5 mL (drug code 94695), marketed",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=94695",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "d5",
+    "title": "Drug Product Database API: SAIZEN product records",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&brandname=SAIZEN",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "d6",
+    "title": "Drug Product Database: SAIZEN 6 mg cartridge (drug code 83536), marketed",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=83536",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "d7",
+    "title": "Drug Product Database API: NORDITROPIN product records",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&brandname=NORDITROPIN",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "d8",
+    "title": "Drug Product Database: NORDITROPIN FlexPro 5 mg (drug code 101843), dormant 2026-07-24",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=101843",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "d9",
+    "title": "Drug Product Database: NORDITROPIN FlexPro 10 mg (drug code 101844), marketed",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=101844",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "d10",
+    "title": "Drug Product Database API: HUMATROPE product records",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&brandname=HUMATROPE",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "d11",
+    "title": "Drug Product Database: HUMATROPE 6 mg cartridge (drug code 66943), cancelled post market 2025-12-22",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=66943",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "d12",
+    "title": "Drug Product Database API: status of NUTROPIN AQ NUSPIN 10 (drug code 86186), cancelled post market 2025-01-31",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=86186",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "d13",
+    "title": "Drug Product Database API: ZOMACTON brand search (no records)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&brandname=ZOMACTON",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "wa",
+    "title": "World Anti-Doping Code: The 2026 Prohibited List (in force 1 January 2026), copy of the WADA document",
+    "publisher": "World Anti-Doping Agency (hosted by SEGAS)",
+    "url": "https://www.segas.gr/wp-content/uploads/2025/11/2026list_en_final_clean_september_2025.pdf",
+    "publishedOrRevised": "2025-09",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "wa2",
+    "title": "Athlete Advisory: 2027 Prohibited List (in effect January 1, 2027)",
+    "publisher": "U.S. Anti-Doping Agency",
+    "url": "https://www.usada.org/spirit-of-sport/athlete-advisory-2027-prohibited-list/",
+    "publishedOrRevised": "2026-10-06",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   }
+  ],
+  "lastReviewed": "2026-11-17",
+  "openQuestions": [
+   "Genotropin monograph on DPD is dated 2020 (PDF revision 2020-06-22; DPD link date 2020-06-10): no newer Canadian revision found; newer class warnings may not be reflected",
+   "Genotropin MiniQuick: marketed status confirmed for 2 of 10 DINs (02401746, 02401789); exact DIN-to-strength mapping not verified",
+   "Omnitrope DIN 02325071 assigned to 10 mg/1.5 mL by elimination (5 mg and 15 mg confirmed in DPD)",
+   "Norditropin SimpleXx drug code 82055 status not fetched (sister codes 82056 and 82057 cancelled 2015)",
+   "Saizen cartridge patient-leaflet missed-dose text was cut off; vial leaflet says skip the missed dose",
+   "Serious Warnings box text of the Norditropin monograph was not extracted",
+   "WADA list read from a federation-hosted copy (wada-ama.org blocked automated reading); 2027 status from USADA summary, not the 2027 List itself",
+   "FDA status of somatropin products not re-verified"
+  ],
+  "listSourceIds": {
+   "indications": [
+    "s1",
+    "s2",
+    "s3",
+    "s4"
+   ],
+   "products": [
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "d1",
+    "d2",
+    "d3",
+    "d4",
+    "d5",
+    "d6",
+    "d7",
+    "d8",
+    "d9"
+   ],
+   "deviceNotes": [
+    "s1",
+    "s2",
+    "s3",
+    "s4"
+   ],
+   "commonSideEffects": [
+    "s2"
+   ],
+   "warnings": [
+    "s1",
+    "s2",
+    "s3",
+    "s4"
+   ],
+   "contraindications": [
+    "s1",
+    "s2",
+    "s3",
+    "s4"
+   ],
+   "interactions": [
+    "s1",
+    "s2"
+   ],
+   "specialPopulations": [
+    "s1",
+    "s2",
+    "s3",
+    "s4"
+   ],
+   "wada": [
+    "wa",
+    "wa2"
+   ]
+  }
+ },
+ {
+  "id": "growth-hormone-weekly",
+  "names": {
+   "generic": "long-acting growth hormone (somapacitan, somatrogon; lonapegsomatropin not in Canada)",
+   "brands": [
+    "Sogroya",
+    "Ngenla"
+   ]
+  },
+  "class": "Long-acting (once-weekly) growth hormone analogue",
+  "group": "Hormones and related",
+  "usedFor": [
+   "Adult growth hormone deficiency (Sogroya)",
+   "Growth failure in children (Sogroya, Ngenla)"
+  ],
+  "route": [
+   "subcutaneous"
+  ],
+  "status": "approved_ca",
+  "statusDetail": {
+   "healthCanada": "Sogroya (somapacitan, Novo Nordisk): 3 pens marketed since 2023-11-27; current monograph authorizes adults with GHD and children with growth failure. Ngenla (somatrogon, Pfizer): 2 pens marketed since 2022-02-22; pediatric only (not indicated in adults). Skytrofa (lonapegsomatropin): no DPD record found.",
+   "fda": "Sogroya (somapacitan-beco): initial US approval 2020; adults with GHD and children 2.5 years and older (label revised 2/2026). Ngenla (somatrogon-ghla): initial US approval 2023; children 3 years and older. Skytrofa (lonapegsomatropin-tcgd): initial US approval 2021; children 1 year and older weighing at least 11.5 kg, and adults with GHD (label revised 9/2025).",
+   "other": "Skytrofa (lonapegsomatropin) is approved in the US (FDA label on DailyMed) but has no Health Canada DPD record as of 2026-11-17, so it is not listed in products.",
+   "checkedOn": "2026-11-17",
+   "sourceIds": [
+    "d1",
+    "d2",
+    "d3",
+    "d4",
+    "d5",
+    "f1",
+    "f2",
+    "f3"
+   ]
+  },
+  "indications": [
+   "Sogroya: replacement of endogenous growth hormone in adults with growth hormone deficiency; long-term treatment of children with growth failure due to inadequate endogenous growth hormone (efficacy and safety not established under 2.5 years)",
+   "Ngenla: long-term treatment of pediatric patients with growth failure due to inadequate secretion of endogenous growth hormone (established at 3 to 11 years; limited data at 12 to under 18; not established under 3); \"NGENLA is not indicated for use in adults\"",
+   "Neither Canadian monograph lists anti-aging, body composition or athletic use"
+  ],
+  "mechanism": "Long-acting growth hormone analogues given once weekly instead of daily; IGF-I levels are used to guide dosing.",
+  "products": [
+   {
+    "brand": "Sogroya (Novo Nordisk Canada)",
+    "din": "02539934 (5 mg/1.5 mL); 02539942 (10 mg/1.5 mL); 02539950 (15 mg/1.5 mL)",
+    "strengths": [
+     "5 mg/1.5 mL (3.3 mg/mL)",
+     "10 mg/1.5 mL (6.67 mg/mL)",
+     "15 mg/1.5 mL (10 mg/mL)"
+    ],
+    "device": "Multidose disposable prefilled pen: 5 mg pen (teal) doses 0.025-2 mg in 0.025 mg steps; 10 mg pen (yellow) 0.05-4 mg in 0.05 mg steps; 15 mg pen (rubine red) 0.1-8 mg in 0.1 mg steps; NovoFine needles up to 8 mm sold separately",
+    "monographUrl": "https://pdf.hres.ca/dpd_pm/00084815.PDF",
+    "monographDate": "2026-05-22"
+   },
+   {
+    "brand": "Ngenla (Pfizer Canada ULC) - pediatric only",
+    "din": "02521679 (24 mg/1.2 mL, 20 mg/mL); 02521687 (60 mg/1.2 mL, 50 mg/mL)",
+    "strengths": [
+     "24 mg/1.2 mL (20 mg/mL)",
+     "60 mg/1.2 mL (50 mg/mL)"
+    ],
+    "device": "Single-patient disposable prefilled pen: 24 mg pen (lilac) dials 0.2 mg steps, max 12 mg per injection; 60 mg pen (blue) dials 0.5 mg steps, max 30 mg per injection; needles up to 8 mm sold separately",
+    "monographUrl": "https://pdf.hres.ca/dpd_pm/00085329.PDF",
+    "monographDate": "2026-07-13"
+   }
+  ],
+  "deviceNotes": [
+   "Sogroya: single-person pen; the cartridge must not be refilled",
+   "Ngenla: new sterile needle for each injection; prime each new pen (0.4 mg on the 24 mg pen, 1.0 mg on the 60 mg pen); doses above the per-injection maximum need more than one injection at different sites",
+   "Ngenla: rotate the injection site each week"
+  ],
+  "doseInfo": [
+   {
+    "basis": "monograph",
+    "population": "Adults with growth hormone deficiency (Sogroya)",
+    "regimen": "Once weekly. Starting dose 1.5 mg (age 18 to under 60), 1.0 mg (60 and older), 2.0 mg (women on oral estrogen, any age). Increase gradually every 2 to 4 weeks in steps of 0.5 mg to 1.5 mg based on clinical response and adverse reactions, aiming for IGF-I SDS within the age-adjusted upper reference range within 12 months. IGF-I sample drawn 3-4 days after dosing.",
+    "maxDose": "8 mg once weekly",
+    "durationOrContext": "Switching from daily GH: last daily dose the day before, or at least 8 hours before, the first weekly dose",
+    "sourceIds": [
+     "s1"
+    ]
+   },
+   {
+    "basis": "monograph",
+    "population": "Children with growth failure due to GH deficiency (Sogroya): weight-based, set by a specialist",
+    "regimen": "0.16 mg/kg body weight once weekly (treatment-naive or switching from daily somatropin); may be lowered if IGF-I SDS repeatedly above +2",
+    "maxDose": "Doses above 0.16 mg/kg/week have not been studied",
+    "durationOrContext": "Not established under 2.5 years",
+    "sourceIds": [
+     "s1"
+    ]
+   },
+   {
+    "basis": "monograph",
+    "population": "Children with growth failure due to GH deficiency (Ngenla): weight-based, set by a specialist",
+    "regimen": "\"The recommended dose is 0.66 mg/kg body weight administered once weekly by subcutaneous (SC) injection.\" Switching from daily GH: start the day after the last daily injection. IGF-1 \"samples should always be drawn 4 days after the prior dose\"; if IGF-1 exceeds the mean by more than 2 SDS, reduce the dose by 15%.",
+    "maxDose": "\"Doses of NGENLA higher than 0.66 mg/kg body weight/week have not been studied.\"",
+    "durationOrContext": "Pediatric only in Canada",
+    "sourceIds": [
+     "s2"
+    ]
+   }
+  ],
+  "missedDose": {
+   "text": "Sogroya: \"inject SOGROYA upon discovery as soon as possible within 3 days after the missed dose, and then resume their usual once-weekly dosing schedule. If more than 3 days have passed, the dose should be skipped, and the next dose should be administered on the regularly scheduled day.\" Day may be changed if \"the time between two doses is at least 4 days (96 hours)\". Ngenla: \"administer NGENLA as soon as possible within 3 days after the missed dose. If more than 3 days have passed, skip the missed dose and administer the next dose on the regularly scheduled day.\" Day may be changed if \"the time between 2 doses is at least 3 days (>72 hours)\". Top-level minHoursBetweenDoses uses the stricter Sogroya value; see byProduct.",
+   "windowHours": 72,
+   "minHoursBeforeNextDose": null,
+   "minHoursBetweenDoses": 96,
+   "byProduct": [
+    {
+     "brand": "Sogroya",
+     "windowHours": 72,
+     "minHoursBetweenDoses": 96
+    },
+    {
+     "brand": "Ngenla",
+     "windowHours": 72,
+     "minHoursBetweenDoses": 72
+    }
+   ],
+   "sourceIds": [
+    "s1",
+    "s2"
+   ]
+  },
+  "storage": {
+   "unopened": "Sogroya: refrigerate at 2-8 C until expiry; may be kept at room temperature up to 30 C for a total of 72 hours (unopened or in use); discard if kept above 30 C. Ngenla: refrigerate at 2-8 C, do not freeze, keep in carton to protect from light.",
+   "inUse": "Sogroya: refrigerated (2-8 C) up to 6 weeks after first use, within the same 72-hour total room-temperature allowance. Ngenla: refrigerated (2-8 C) for a single period of up to 28 days from first use and a maximum of 5 uses; may be at room temperature (no more than 32 C) for a maximum of 2 hours before each injection.",
+   "discardAfterDays": null,
+   "byProduct": [
+    {
+     "brand": "Sogroya",
+     "discardAfterDays": 42,
+     "roomTempTotalHours": 72
+    },
+    {
+     "brand": "Ngenla",
+     "discardAfterDays": 28,
+     "maxUses": 5,
+     "roomTempPerInjectionHours": 2
+    }
+   ],
+   "sourceIds": [
+    "s1",
+    "s2"
+   ]
+  },
+  "commonSideEffects": [
+   "Sogroya adults: headache 12%, arthralgia 7%, fatigue 6%, peripheral oedema 4%",
+   "Sogroya children: headache 12%, hypothyroidism 5%, injection site reactions 5%, peripheral edema 3%",
+   "Ngenla children (vs daily somatropin): injection site reactions 43.1% vs 25.2%, injection site pain 39.4% vs 25.2%, headache 16.5% vs 21.7%, fever 16.5% vs 13.9%, hypothyroidism 6.4% vs 2.6%"
+  ],
+  "warnings": [
+   "Acute critical illness: increased mortality reported with GH; discontinue or consider discontinuing",
+   "Neoplasms: risk of tumour progression and second neoplasms (childhood cancer survivors); malignant change in pre-existing nevi",
+   "Intracranial hypertension: stop if papilledema or fundoscopic signs occur",
+   "Glucose: reduced insulin sensitivity, hyperglycemia or new-onset type 2 diabetes; monitor glucose",
+   "Adrenal insufficiency and hypothyroidism may be unmasked; monitor",
+   "Fluid retention (Sogroya), usually transient and dose-dependent",
+   "Slipped capital femoral epiphysis and scoliosis progression in children; evaluate a new limp or hip or knee pain",
+   "Prader-Willi syndrome: deaths reported with risk factors (Ngenla not studied in this population)",
+   "Pancreatitis, serious hypersensitivity reactions, lipoatrophy or lipohypertrophy (rotate sites)",
+   "Ngenla: very rare myositis, possibly linked to the preservative metacresol"
+  ],
+  "contraindications": [
+   "Any evidence of active neoplasm or malignancy (Sogroya: intracranial tumours must be inactive and treatment complete)",
+   "Growth promotion in children with closed epiphyses",
+   "Acute critical illness after open heart or abdominal surgery, multiple accidental trauma, or acute respiratory failure",
+   "Hypersensitivity to the drug or any ingredient",
+   "Sogroya: children with Prader-Willi syndrome who are severely obese or have severe respiratory impairment"
+  ],
+  "interactions": [
+   "Glucocorticoids: replacement or stress doses may need to increase; monitor",
+   "Oral estrogen may reduce the IGF-I response; higher doses may be needed (Ngenla: weekly maximum still applies)",
+   "Insulin and other diabetes medicines may need dose adjustment",
+   "Drugs metabolised by CYP450 (corticosteroids, sex steroids, anticonvulsants, cyclosporine): clearance may change",
+   "Thyroid hormone: thyroid function monitored; untreated hypothyroidism may blunt response",
+   "Sogroya: no formal drug interaction studies performed"
+  ],
+  "nutritionNotes": [],
+  "specialPopulations": [
+   "Older adults (Sogroya): lower starting dose of 1.0 mg weekly at 60 and older",
+   "Women on oral estrogen (Sogroya): starting dose 2.0 mg weekly",
+   "Pregnancy (Sogroya): no human data; skeletal malformations in rats only at 18 mg/kg/day",
+   "Breastfeeding (Sogroya): no data on presence in human milk; risk cannot be excluded",
+   "Children: Sogroya from 2.5 years; Ngenla established at 3 to 11 years, limited data 12 to under 18"
+  ],
+  "wada": "Prohibited at all times (in and out of competition): S2.2.3 names growth hormone analogues lonapegsomatropin, somapacitan and somatrogon (2026 List; 2027 List in force 2027-01-01 keeps GH under S2).",
+  "evidenceLevel": "Approved, extensive use (for the labelled indications)",
+  "sources": [
+   {
+    "id": "s1",
+    "title": "SOGROYA (somapacitan injection) Product Monograph",
+    "publisher": "Novo Nordisk Canada via Health Canada DPD",
+    "url": "https://pdf.hres.ca/dpd_pm/00084815.PDF",
+    "publishedOrRevised": "2026-05-22",
+    "accessed": "2026-11-17",
+    "type": "monograph"
+   },
+   {
+    "id": "s2",
+    "title": "NGENLA (somatrogon injection) Product Monograph",
+    "publisher": "Pfizer Canada ULC via Health Canada DPD",
+    "url": "https://pdf.hres.ca/dpd_pm/00085329.PDF",
+    "publishedOrRevised": "2026-07-13",
+    "accessed": "2026-11-17",
+    "type": "monograph"
+   },
+   {
+    "id": "d1",
+    "title": "Drug Product Database API: SOGROYA product records",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&brandname=SOGROYA",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "d2",
+    "title": "Drug Product Database API: status of SOGROYA (drug code 102866), marketed 2023-11-27",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=102866",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "d3",
+    "title": "Drug Product Database API: NGENLA product records",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&brandname=NGENLA",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "d4",
+    "title": "Drug Product Database: NGENLA 60 mg pen (drug code 101089), marketed 2022-02-22",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=101089",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "d5",
+    "title": "Drug Product Database API: SKYTROFA brand search (no records)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&brandname=SKYTROFA",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "f1",
+    "title": "SKYTROFA (lonapegsomatropin-tcgd) prescribing information",
+    "publisher": "US FDA label via DailyMed (NLM)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9229f871-bc61-4ddc-8122-d126d40e36ac",
+    "publishedOrRevised": "2025-09",
+    "accessed": "2026-11-17",
+    "type": "label"
+   },
+   {
+    "id": "f2",
+    "title": "SOGROYA (somapacitan-beco) prescribing information",
+    "publisher": "US FDA label via DailyMed (NLM)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=eadd03b4-adc3-4b88-8a24-9d205c5b85aa",
+    "publishedOrRevised": "2026-02",
+    "accessed": "2026-11-17",
+    "type": "label"
+   },
+   {
+    "id": "f3",
+    "title": "NGENLA (somatrogon-ghla) prescribing information",
+    "publisher": "US FDA label via DailyMed (NLM)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=06dce529-b741-4a1b-8842-3ad77be6e308",
+    "publishedOrRevised": "2026-08",
+    "accessed": "2026-11-17",
+    "type": "label"
+   },
+   {
+    "id": "wa",
+    "title": "World Anti-Doping Code: The 2026 Prohibited List (in force 1 January 2026), copy of the WADA document",
+    "publisher": "World Anti-Doping Agency (hosted by SEGAS)",
+    "url": "https://www.segas.gr/wp-content/uploads/2025/11/2026list_en_final_clean_september_2025.pdf",
+    "publishedOrRevised": "2025-09",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "wa2",
+    "title": "Athlete Advisory: 2027 Prohibited List (in effect January 1, 2027)",
+    "publisher": "U.S. Anti-Doping Agency",
+    "url": "https://www.usada.org/spirit-of-sport/athlete-advisory-2027-prohibited-list/",
+    "publishedOrRevised": "2026-10-06",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   }
+  ],
+  "lastReviewed": "2026-11-17",
+  "openQuestions": [
+   "Missed-dose and storage rules differ between Sogroya and Ngenla; the app should use missedDose.byProduct and storage.byProduct, not the top-level values",
+   "Sogroya DIN 02539942 assigned to 10 mg/1.5 mL by elimination (5 mg and 15 mg confirmed in DPD); DPD product pages for Sogroya did not load, so PM link 00084815 was matched by monograph content, not by DPD link",
+   "Ngenla PM link 00085329 matched by monograph content (DPD page did not load)",
+   "Date the pediatric Sogroya indication was added in Canada not confirmed from a Health Canada source",
+   "Skytrofa EMA status not checked; FDA label used",
+   "WADA list read from a federation-hosted copy; 2027 status from USADA summary"
+  ],
+  "listSourceIds": {
+   "indications": [
+    "s1",
+    "s2"
+   ],
+   "products": [
+    "s1",
+    "s2",
+    "d1",
+    "d2",
+    "d3",
+    "d4"
+   ],
+   "deviceNotes": [
+    "s1",
+    "s2"
+   ],
+   "commonSideEffects": [
+    "s1",
+    "s2"
+   ],
+   "warnings": [
+    "s1",
+    "s2"
+   ],
+   "contraindications": [
+    "s1",
+    "s2"
+   ],
+   "interactions": [
+    "s1",
+    "s2"
+   ],
+   "specialPopulations": [
+    "s1",
+    "s2"
+   ],
+   "wada": [
+    "wa",
+    "wa2"
+   ]
+  }
+ },
+ {
+  "id": "testosterone-injection",
+  "names": {
+   "generic": "testosterone (cypionate, enanthate injection)",
+   "brands": [
+    "Taro-Testosterone Cypionate Injection",
+    "Testosterone Enanthate Injection, USP (Hikma)",
+    "Testosterone Cypionate Injection USP (SteriMax)"
+   ]
+  },
+  "class": "Androgen (testosterone ester, intramuscular)",
+  "group": "Hormones and related",
+  "usedFor": [
+   "Low testosterone in adult men (male hypogonadism)"
+  ],
+  "route": [
+   "intramuscular"
+  ],
+  "status": "approved_ca",
+  "statusDetail": {
+   "healthCanada": "Marketed: Taro-Testosterone Cypionate 100 mg/mL (DIN 02496003, marketed since 2020-10-20) and Hikma Testosterone Enanthate 200 mg/mL (DIN 02536315, marketed since 2024-01-30). Approved, not yet marketed: SteriMax Testosterone Cypionate 100 mg/mL (DIN 02570122, approved 2026-07-20). Dormant: SteriMax Testosterone Propionate 100 mg/mL (DIN 01977571, dormant since 2017-08-03; no electronic monograph). Cancelled post market: Depo-Testosterone 100 mg/mL (DIN 00030783, 2025-07-18), Delatestryl 200 mg/mL (DIN 00029246, 2025-12-18), SteriMax Testosterone Cypionate (DIN 01977601, 2025-03-11), Sandoz Testosterone Cypionate (DIN 02246063, 2021-03-25), PMS-Testosterone Enanthate (DIN 00739944, 2017-09-30), Taro Testosterone Enanthate (DIN 00716936, 2001-08-21), Taro Testosterone Propionate (DIN 00716944, 2001-08-21). All listed in DPD as Schedule: Controlled Drugs (CDSA IV). Testosterone is listed in Schedule IV of the Controlled Drugs and Substances Act, item 23 (anabolic steroids and their derivatives), subitem (40).",
+   "fda": "Not checked in R6 (Canada-focused pass).",
+   "other": "Note: the Hikma enanthate monograph calls testosterone 'a Schedule G controlled substance', while the DPD lists CDSA Schedule IV; both recorded.",
+   "checkedOn": "2026-11-17",
+   "sourceIds": [
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s2"
+   ]
+  },
+  "indications": [
+   "Testosterone replacement therapy in adult males for conditions associated with a deficiency or absence of endogenous testosterone (hypogonadism) (both marketed monographs)",
+   "Hikma enanthate monograph: hypogonadism confirmed by two separate morning testosterone assays; not indicated in women; not indicated under 18 (safety and efficacy not established)",
+   "No separate delayed-puberty indication in either monograph; the enanthate monograph gives a starting regimen for prepubertal-onset hypogonadism and the cypionate monograph advises caution in males with hypogonadism causing delayed puberty"
+  ],
+  "mechanism": "Long-acting testosterone ester in oil, given by deep intramuscular injection; replaces testosterone the body is not making.",
+  "products": [
+   {
+    "brand": "Taro-Testosterone Cypionate Injection (Taro)",
+    "din": "02496003",
+    "strengths": [
+     "testosterone cypionate 100 mg/mL"
+    ],
+    "device": "10 mL multidose vial; in cottonseed oil with benzyl alcohol 9.45 mg/mL (preservative) and benzyl benzoate",
+    "monographUrl": "https://pdf.hres.ca/dpd_pm/00066102.PDF",
+    "monographDate": "2022-05-26",
+    "marketedStatus": "Marketed (since 2020-10-20)"
+   },
+   {
+    "brand": "Testosterone Enanthate Injection, USP (Hikma)",
+    "din": "02536315",
+    "strengths": [
+     "testosterone enanthate 200 mg/mL"
+    ],
+    "device": "5 mL glass vial; in sesame oil with 0.5% chlorobutanol (preservative)",
+    "monographUrl": "https://pdf.hres.ca/dpd_pm/00071616.PDF",
+    "monographDate": "2023-03-17",
+    "marketedStatus": "Marketed (since 2024-01-30)"
+   },
+   {
+    "brand": "Testosterone Cypionate Injection USP (SteriMax)",
+    "din": "02570122",
+    "strengths": [
+     "testosterone cypionate 100 mg/mL"
+    ],
+    "device": "Not verified (monograph not fetched)",
+    "monographUrl": "https://pdf.hres.ca/dpd_pm/00085464.PDF",
+    "monographDate": "2026-07-20",
+    "marketedStatus": "Approved, not marketed (status date 2026-07-20)"
+   },
+   {
+    "brand": "Testosterone Propionate Injection, USP (SteriMax)",
+    "din": "01977571",
+    "strengths": [
+     "testosterone propionate 100 mg/mL"
+    ],
+    "device": "Multidose vial (per DPD)",
+    "monographUrl": "",
+    "monographDate": "",
+    "marketedStatus": "Dormant (since 2017-08-03); DPD states no electronic monograph is available"
+   }
+  ],
+  "deviceNotes": [
+   "Cypionate (Taro): intramuscular use only, not for intravenous use; vial stopper not made with natural rubber latex",
+   "Enanthate (Hikma): injected deeply into the gluteal muscle; vial stopper not made with natural rubber latex"
+  ],
+  "doseInfo": [
+   {
+    "basis": "monograph",
+    "population": "Adult hypogonadal males: testosterone cypionate (Taro-Testosterone Cypionate)",
+    "regimen": "200 mg intramuscularly every two weeks",
+    "maxDose": "400 mg per month",
+    "durationOrContext": "Replacement therapy; serum testosterone monitored on a regular basis",
+    "sourceIds": [
+     "s1"
+    ]
+   },
+   {
+    "basis": "monograph",
+    "population": "Adult hypogonadal males: testosterone enanthate (Hikma)",
+    "regimen": "Usual dose 100 to 400 mg every four weeks. The monograph also cites 50 to 100 mg every 7 to 10 days for complete replacement, and 100 to 150 mg every 2 weeks as 'a reasonable compromise'; 300 mg every 3 weeks is described as generally inadequate for a consistent response.",
+    "maxDose": "No explicit maximum; 'In general, total doses above 400 mg per month are not required'; injections more often than every two weeks are rarely indicated",
+    "durationOrContext": "Deep intramuscular injection into the gluteal muscle",
+    "sourceIds": [
+     "s2"
+    ]
+   },
+   {
+    "basis": "monograph",
+    "population": "Prepubertal-onset hypogonadism: testosterone enanthate (Hikma)",
+    "regimen": "Started at 50 mg every 3 to 4 weeks, increased as tolerated to full replacement within 1 year",
+    "maxDose": "As for adult replacement",
+    "durationOrContext": "Enanthate monograph also lists 50 to 100 mg every 2 weeks as an initial regimen in men with benign prostatic hypertrophy",
+    "sourceIds": [
+     "s2"
+    ]
+   }
+  ],
+  "missedDose": {
+   "text": "Both monographs state a missed dose is given as soon as possible; if it is almost time for the next dose, the missed dose is skipped and the regular schedule resumed; doses are not doubled. No hour cut-off is given.",
+   "windowHours": null,
+   "minHoursBeforeNextDose": null,
+   "minHoursBetweenDoses": null,
+   "sourceIds": [
+    "s1",
+    "s2"
+   ]
+  },
+  "storage": {
+   "unopened": "Cypionate (Taro): room temperature 15 to 30 C, protect from light. Enanthate (Hikma): controlled room temperature 15 to 30 C.",
+   "inUse": "Cypionate (Taro): discard within 56 days of initial use. Enanthate (Hikma): monograph gives no after-first-use instruction.",
+   "discardAfterDays": 56,
+   "sourceIds": [
+    "s1",
+    "s2"
+   ]
+  },
+  "commonSideEffects": [
+   "No percentages given: the enanthate monograph states frequencies cannot be reliably estimated and clinical-trial data are not available",
+   "Listed androgen reactions: injection-site inflammation and pain; acne, seborrhea, hirsutism, male-pattern baldness; gynecomastia; prolonged erections; oligospermia; libido changes, headache, anxiety, depression, paresthesia; nausea; fluid and electrolyte retention; polycythemia; liver test changes and cholestatic jaundice; hypersensitivity",
+   "Post-market reports include pulmonary embolism, deep vein thrombosis, hypertension and chorioretinopathy"
+  ],
+  "warnings": [
+   "Neither marketed injection monograph has a boxed Serious Warnings section",
+   "Polycythemia: hemoglobin and hematocrit should be checked periodically; no hematocrit cut-off is stated",
+   "Blood pressure: testosterone may increase blood pressure; use with caution in hypertension",
+   "Cardiovascular: post-market studies suggest increased risk of serious cardiovascular events such as myocardial infarction and stroke",
+   "Venous thromboembolism: pulmonary embolism and deep vein thrombosis appear in the post-market adverse reaction tables (no separate narrative warning in these two monographs)",
+   "Abuse and dependence: testosterone has been abused, typically at doses higher than recommended; anabolic steroid abuse can cause serious psychiatric and cardiovascular effects, which may be fatal; supratherapeutic use may cause withdrawal symptoms lasting weeks or months (cypionate); 'habituation (dependence)' listed (enanthate)",
+   "Suppression of own production and sperm: endogenous testosterone release may be inhibited through feedback inhibition of pituitary LH, and spermatogenesis may be suppressed through feedback inhibition of FSH (enanthate monograph); oligospermia may occur after prolonged administration or excessive dosage (both)",
+   "Edema, with or without congestive heart failure, may be a serious complication",
+   "Liver: peliosis hepatis can be life-threatening or fatal; hepatic adenomas reported",
+   "Sleep apnea may be potentiated, particularly with obesity or chronic lung disease",
+   "Prostate: increased risk of prostatic hyperplasia and prostatic carcinoma (enanthate monograph)",
+   "Monitoring listed: serum testosterone on a regular basis; hemoglobin and hematocrit; PSA and digital rectal exam; lipid profile; liver function tests; diabetics followed carefully"
+  ],
+  "contraindications": [
+   "Known or suspected carcinoma of the prostate or breast in men",
+   "Not indicated in women; enanthate monograph: contraindicated in women, including pregnant or nursing women",
+   "Known hypersensitivity to any ingredient"
+  ],
+  "interactions": [
+   "Oral anticoagulants: androgens may increase sensitivity; anticoagulant dose may need reduction and close monitoring when androgens are started or stopped",
+   "Insulin and other diabetes medicines: androgens may decrease blood glucose and insulin requirements",
+   "ACTH or corticosteroids: may enhance edema formation",
+   "Propranolol: testosterone cypionate increased propranolol clearance in most men tested (enanthate monograph)",
+   "Thyroid tests: androgens may decrease thyroxine-binding globulin",
+   "Herbal products may interfere with steroid metabolism and lower plasma testosterone"
+  ],
+  "nutritionNotes": [],
+  "specialPopulations": [
+   "Women: not indicated (enanthate: contraindicated, including pregnancy and nursing)",
+   "Under 18: not indicated (safety and efficacy not established)",
+   "Over 65: limited controlled data",
+   "Diabetes: glucose and insulin needs may change"
+  ],
+  "wada": "Prohibited at all times (in- and out-of-competition): testosterone is listed under S1 Anabolic Agents on the WADA 2026 Prohibited List (in effect 1 January 2026).",
+  "evidenceLevel": "Approved, extensive use",
+  "sources": [
+   {
+    "id": "s1",
+    "title": "TARO-TESTOSTERONE CYPIONATE INJECTION (testosterone cypionate 100 mg/mL) Product Monograph",
+    "publisher": "Taro Pharmaceuticals Inc. via Health Canada DPD",
+    "url": "https://pdf.hres.ca/dpd_pm/00066102.PDF",
+    "publishedOrRevised": "2022-05-26",
+    "accessed": "2026-11-17",
+    "type": "monograph"
+   },
+   {
+    "id": "s2",
+    "title": "Testosterone Enanthate Injection, USP 200 mg/mL Product Monograph",
+    "publisher": "Hikma Canada Limited via Health Canada DPD",
+    "url": "https://pdf.hres.ca/dpd_pm/00071616.PDF",
+    "publishedOrRevised": "2023-03-17",
+    "accessed": "2026-11-17",
+    "type": "monograph"
+   },
+   {
+    "id": "s3",
+    "title": "Drug Product Database: Taro-Testosterone Cypionate Injection (drug code 98589)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=98589",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s4",
+    "title": "Drug Product Database: Testosterone Enanthate Injection, USP, Hikma (drug code 102510)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=102510",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s5",
+    "title": "Drug Product Database: Testosterone Cypionate Injection USP, SteriMax (drug code 107230)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=107230",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s6",
+    "title": "Drug Product Database API: status of Depo-Testosterone (drug code 1398)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=1398",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s7",
+    "title": "Drug Product Database: Delatestryl (drug code 1275)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=1275",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s8",
+    "title": "Drug Product Database API: brand name search 'testosterone'",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&brandname=testosterone",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s9",
+    "title": "Drug Product Database: Testosterone Propionate Injection, USP, SteriMax (drug code 13414)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=13414",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s10",
+    "title": "Controlled Drugs and Substances Act (S.C. 1996, c. 19), Schedule IV, item 23 (Anabolic steroids and their derivatives), subitem (40) Testosterone",
+    "publisher": "Government of Canada, Justice Laws Website",
+    "url": "https://laws-lois.justice.gc.ca/eng/acts/C-38.8/FullText.html",
+    "publishedOrRevised": "Current to 2026-10-19; last amended 2026-10-01",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s11",
+    "title": "World Anti-Doping Code: The 2026 Prohibited List (S1 Anabolic Agents)",
+    "publisher": "World Anti-Doping Agency",
+    "url": "https://www.wada-ama.org/en/prohibited-list",
+    "publishedOrRevised": "In effect 2026-01-01",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s12",
+    "title": "The 2026 Prohibited List (verbatim copy of the WADA PDF, used because wada-ama.org blocked automated access)",
+    "publisher": "World Anti-Doping Agency (copy hosted by SEGAS, Hellenic Athletics Federation)",
+    "url": "https://www.segas.gr/wp-content/uploads/2025/11/2026list_en_final_clean_september_2025.pdf",
+    "publishedOrRevised": "September 2025; in effect 2026-01-01",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s13",
+    "title": "Drug Product Database API: status of SteriMax Testosterone Cypionate (drug code 13410)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=13410",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s14",
+    "title": "Drug Product Database API: status of Sandoz Testosterone Cypionate (drug code 70198)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=70198",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s15",
+    "title": "Drug Product Database API: status of PMS-Testosterone Enanthate (drug code 11224)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=11224",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s16",
+    "title": "Drug Product Database API: status of Taro Testosterone Enanthate (drug code 9450)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=9450",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s17",
+    "title": "Drug Product Database: Taro Testosterone Propionate (drug code 9805)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=9805",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   }
+  ],
+  "lastReviewed": "2026-11-17",
+  "openQuestions": [
+   "SteriMax cypionate (DIN 02570122) monograph 00085464 not fetched: vial size, dose and storage not verified; product is approved but not yet marketed",
+   "Hikma enanthate monograph gives no storage period after first vial puncture",
+   "No hematocrit cut-off for interrupting therapy is stated in either marketed injection monograph",
+   "Monographs describe testosterone as 'Schedule G' (Food and Drugs Act) while DPD and the CDSA list it in Schedule IV; both recorded, not reconciled",
+   "The Depo-Testosterone monograph was not reviewed because the product is cancelled post market (DPD lists lot expiry 2026-11-30)",
+   "WADA list read from a verbatim copy hosted by a national federation; wada-ama.org blocked automated access"
+  ],
+  "listSourceIds": {
+   "indications": [
+    "s1",
+    "s2"
+   ],
+   "products": [
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s9"
+   ],
+   "commonSideEffects": [
+    "s1",
+    "s2"
+   ],
+   "warnings": [
+    "s1",
+    "s2"
+   ],
+   "contraindications": [
+    "s1",
+    "s2"
+   ],
+   "interactions": [
+    "s1",
+    "s2"
+   ],
+   "specialPopulations": [
+    "s2"
+   ],
+   "wada": [
+    "s11",
+    "s12"
+   ],
+   "deviceNotes": [
+    "s1",
+    "s2"
+   ]
+  }
+ },
+ {
+  "id": "testosterone-topical",
+  "names": {
+   "generic": "testosterone (transdermal gel)",
+   "brands": [
+    "AndroGel",
+    "Testim 1%",
+    "Taro-Testosterone Gel"
+   ]
+  },
+  "class": "Androgen (transdermal testosterone gel)",
+  "group": "Hormones and related",
+  "usedFor": [
+   "Low testosterone in adult men (male hypogonadism)"
+  ],
+  "route": [
+   "transdermal"
+  ],
+  "status": "approved_ca",
+  "statusDetail": {
+   "healthCanada": "Marketed gels: AndroGel 1% unit-dose packets (DINs 02245345 and 02245346, marketed since 2002-05-06) and AndroGel 1% pump 12.5 mg/actuation (DIN 02249499, marketed since 2004-09-20); Testim 1% 5 g tube (DIN 02280248, marketed, first marketed 2007-04-17); Taro-Testosterone Gel 1% 2.5 g and 5 g packets (DINs 02463792 and 02463806, marketed since 2017-10-31). Cancelled post market: Androderm patches (DIN 02239653, cancelled 2022-04-14; DIN 02245972, cancelled 2021-12-13); Axiron 30 mg/actuation topical solution (DIN 02382369, cancelled 2017-12-04). No testosterone patch is currently marketed in Canada per DPD. All gels listed in DPD as Controlled Drugs (CDSA IV); testosterone is in CDSA Schedule IV, item 23, subitem (40). Separately, Natesto 4.5% nasal gel (DIN 02450550) is marketed but is intranasal, not skin-applied, and is not covered here.",
+   "fda": "Not checked in R6 (Canada-focused pass).",
+   "other": "AndroGel monograph calls testosterone 'a Schedule G controlled substance as defined by the Food and Drugs Act'; DPD lists CDSA IV. Both recorded.",
+   "checkedOn": "2026-11-17",
+   "sourceIds": [
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s1"
+   ]
+  },
+  "indications": [
+   "Testosterone replacement therapy in adult males for conditions associated with a deficiency or absence of endogenous testosterone (hypogonadism) (AndroGel, Testim 1%, Taro-Testosterone Gel)",
+   "Not indicated in women; not indicated under 18 (AndroGel)"
+  ],
+  "mechanism": "Alcohol-based 1% testosterone gel absorbed through the skin once daily, giving steady testosterone replacement.",
+  "products": [
+   {
+    "brand": "AndroGel (BGP Pharma)",
+    "din": "02245345",
+    "strengths": [
+     "testosterone 1% gel"
+    ],
+    "device": "Unit-dose packet (monograph lists 2.5 g = 25 mg and 5 g = 50 mg packets, cartons of 30; DPD page for this DIN does not state packet size)",
+    "monographUrl": "https://pdf.hres.ca/dpd_pm/00081277.PDF",
+    "monographDate": "2025-08-01",
+    "marketedStatus": "Marketed"
+   },
+   {
+    "brand": "AndroGel (BGP Pharma)",
+    "din": "02245346",
+    "strengths": [
+     "testosterone 1% gel, 5 g packet (50 mg)"
+    ],
+    "device": "Unit-dose packet, 5 g",
+    "monographUrl": "https://pdf.hres.ca/dpd_pm/00081277.PDF",
+    "monographDate": "2025-08-01",
+    "marketedStatus": "Marketed"
+   },
+   {
+    "brand": "AndroGel pump (BGP Pharma)",
+    "din": "02249499",
+    "strengths": [
+     "testosterone 12.5 mg per actuation (1% gel)"
+    ],
+    "device": "Metered pump; each full actuation delivers 1.25 g of gel",
+    "monographUrl": "https://pdf.hres.ca/dpd_pm/00081277.PDF",
+    "monographDate": "2025-08-01",
+    "marketedStatus": "Marketed (since 2004-09-20)"
+   },
+   {
+    "brand": "Testim 1% (Knight Therapeutics)",
+    "din": "02280248",
+    "strengths": [
+     "testosterone 1% gel, 5 g tube (50 mg)"
+    ],
+    "device": "5 g unit-dose tube",
+    "monographUrl": "https://pdf.hres.ca/dpd_pm/00083203.PDF",
+    "monographDate": "2026-01-16",
+    "marketedStatus": "Marketed"
+   },
+   {
+    "brand": "Taro-Testosterone Gel (Taro)",
+    "din": "02463792",
+    "strengths": [
+     "testosterone 1% gel, 2.5 g packet (25 mg)"
+    ],
+    "device": "Unit-dose aluminum foil packet, cartons of 30",
+    "monographUrl": "https://pdf.hres.ca/dpd_pm/00084168.PDF",
+    "monographDate": "2026-03-25",
+    "marketedStatus": "Marketed (since 2017-10-31)"
+   },
+   {
+    "brand": "Taro-Testosterone Gel (Taro)",
+    "din": "02463806",
+    "strengths": [
+     "testosterone 1% gel, 5 g packet (50 mg)"
+    ],
+    "device": "Unit-dose aluminum foil packet, cartons of 30",
+    "monographUrl": "https://pdf.hres.ca/dpd_pm/00084168.PDF",
+    "monographDate": "2026-03-25",
+    "marketedStatus": "Marketed (since 2017-10-31)"
+   }
+  ],
+  "deviceNotes": [
+   "Gel contains alcohol and is flammable; fire, flames or smoking avoided until the gel has dried (AndroGel)",
+   "AndroGel pump: each full actuation delivers 1.25 g of gel (12.5 mg testosterone per DPD)",
+   "Taro-Testosterone Gel was compared with AndroGel 1% in a bioequivalence study in 76 hypogonadal men (monograph)"
+  ],
+  "doseInfo": [
+   {
+    "basis": "monograph",
+    "population": "Adult hypogonadal males: AndroGel and Taro-Testosterone Gel",
+    "regimen": "Starting and usual dose 5 g gel (50 mg testosterone) once daily in the morning, on clean, dry, intact skin of the shoulders and upper arms and/or abdomen. Serum testosterone measured after starting; if response is inadequate or levels are below normal the dose may be raised from 5 g to 7.5 g, then to 10 g; lowered if above normal; stopped if levels stay above normal at 5 g (50 mg).",
+    "maxDose": "10 g gel (100 mg testosterone) daily",
+    "durationOrContext": "No specific day for the first serum check is given in the AndroGel monograph",
+    "sourceIds": [
+     "s1",
+     "s3"
+    ]
+   },
+   {
+    "basis": "monograph",
+    "population": "Adult hypogonadal males: Testim 1%",
+    "regimen": "Starting dose 5 g gel (one tube, 50 mg testosterone) once daily to the shoulders and/or upper arms only. Morning serum testosterone measured about 7 to 14 days after starting; dose may be increased from 5 g (one tube) to 10 g (two tubes) if levels are below normal.",
+    "maxDose": "100 mg testosterone (10 g gel) per day",
+    "durationOrContext": "Long-term replacement",
+    "sourceIds": [
+     "s2"
+    ]
+   }
+  ],
+  "missedDose": {
+   "text": "AndroGel and Taro-Testosterone Gel: if more than 12 hours remain until the next dose, the missed dose is applied when remembered; if less than 12 hours remain, it is skipped; doses are never doubled. Testim 1%: a missed dose is applied only if the next scheduled dose is more than 12 hours away.",
+   "windowHours": null,
+   "minHoursBeforeNextDose": 12,
+   "minHoursBetweenDoses": null,
+   "sourceIds": [
+    "s1",
+    "s2",
+    "s3"
+   ]
+  },
+  "storage": {
+   "unopened": "AndroGel and Taro-Testosterone Gel: controlled room temperature 15 to 30 C. Testim 1%: room temperature 15 to 30 C.",
+   "inUse": "Single-use packets and tubes; pump stored as above",
+   "discardAfterDays": null,
+   "sourceIds": [
+    "s1",
+    "s2",
+    "s3"
+   ]
+  },
+  "applicationRules": {
+   "items": [
+    "Sites: AndroGel and Taro gel on shoulders and upper arms and/or abdomen; Testim only on shoulders and/or upper arms; never on the scrotum",
+    "Hands washed thoroughly with soap and water right after applying",
+    "Application site covered with clean clothing (such as a T-shirt) once the gel has dried",
+    "Wait before showering or bathing: at least 1 hour for AndroGel and Taro gel (AndroGel patient information also says 1 hour before swimming); at least 2 hours for Testim"
+   ],
+   "sourceIds": [
+    "s1",
+    "s2",
+    "s3"
+   ]
+  },
+  "commonSideEffects": [
+   "AndroGel: enlarged prostate 11.9% (most frequent adverse reaction); in the 180-day controlled trial acne 1 to 8%, lab abnormalities 3 to 6%, application-site reactions 3 to 5%, prostate disorders 3 to 5%; in the 3-year extension enlarged prostate 11.7%, application-site reactions 5.6%, acne 3.1%; serum PSA increases in about 18% of patients",
+   "Testim 1% (clinical trials, Table 1): increased PSA 4.3%, application-site erythema 4.1%, increased hematocrit 3.9%, increased hemoglobin 3.7%",
+   "Post-market reports include pulmonary embolism and deep vein thrombosis (Testim)"
+  ],
+  "warnings": [
+   "Boxed Serious Warning (AndroGel, Taro-Testosterone Gel): secondary exposure. Virilization has been reported in children secondarily exposed to testosterone, including AndroGel; children should avoid contact with unwashed or unclothed application sites; patients should strictly follow the instructions for use",
+   "Testim 1% serious warning: gel can transfer to another person through skin-to-skin contact; signs of puberty reported in exposed children; children kept away from unwashed or unclothed application sites and from unwashed clothing or fabrics exposed to the gel",
+   "Transfer to women: secondary exposure can occur in women and children; if a woman's skin contacts the site, the area is washed immediately with soap and water; pregnant and nursing women should avoid skin contact with application sites",
+   "Polycythemia: hemoglobin and hematocrit checked periodically; dose adjustment or stopping until values normalize may be needed (no hematocrit cut-off stated)",
+   "Blood pressure: testosterone may increase blood pressure; caution in hypertension",
+   "Cardiovascular: post-market studies suggest increased risk of serious cardiovascular events",
+   "Venous thromboembolism: caution with thrombophilia or risk factors for VTE; VTE including DVT and PE listed (AndroGel)",
+   "Controlled substance: the AndroGel monograph describes testosterone as 'a Schedule G controlled substance as defined by the Food and Drugs Act' (DPD lists CDSA IV); detailed abuse and dependence wording was not extracted from the gel monographs",
+   "Suppression of sperm production: with large doses of exogenous androgens, including AndroGel, spermatogenesis may be reversibly suppressed through feedback inhibition of FSH; Testim: oligospermia may occur after prolonged administration or excessive dosage",
+   "Monitoring listed: serum testosterone after starting (Testim: about 7 to 14 days); hemoglobin and hematocrit; PSA and digital rectal exam (AndroGel)"
+  ],
+  "contraindications": [
+   "Known or suspected carcinoma of the prostate or breast in men",
+   "Not indicated in women; pregnant and nursing women should avoid skin contact with application sites",
+   "Known hypersensitivity to testosterone or any ingredient"
+  ],
+  "interactions": [
+   "Oral anticoagulants: androgens may increase sensitivity",
+   "Insulin and other diabetes medicines: dose reduction may be needed",
+   "Corticosteroids: may enhance edema formation",
+   "Propranolol: increased clearance seen with injectable testosterone; unknown whether it applies to AndroGel"
+  ],
+  "nutritionNotes": [],
+  "specialPopulations": [
+   "Women: not indicated; pregnant and nursing women avoid contact with application sites",
+   "Children: not indicated under 18; risk of virilization from secondary exposure"
+  ],
+  "wada": "Prohibited at all times (in- and out-of-competition): testosterone is listed under S1 Anabolic Agents on the WADA 2026 Prohibited List (in effect 1 January 2026).",
+  "evidenceLevel": "Approved, extensive use",
+  "sources": [
+   {
+    "id": "s1",
+    "title": "ANDROGEL (testosterone gel 1%) Product Monograph",
+    "publisher": "BGP Pharma ULC via Health Canada DPD",
+    "url": "https://pdf.hres.ca/dpd_pm/00081277.PDF",
+    "publishedOrRevised": "2025-08-01",
+    "accessed": "2026-11-17",
+    "type": "monograph"
+   },
+   {
+    "id": "s2",
+    "title": "TESTIM 1% (testosterone gel) Product Monograph",
+    "publisher": "Knight Therapeutics Inc. via Health Canada DPD",
+    "url": "https://pdf.hres.ca/dpd_pm/00083203.PDF",
+    "publishedOrRevised": "2026-01-16",
+    "accessed": "2026-11-17",
+    "type": "monograph"
+   },
+   {
+    "id": "s3",
+    "title": "TARO-TESTOSTERONE GEL (testosterone gel 1%) Product Monograph",
+    "publisher": "Taro Pharmaceuticals Inc. via Health Canada DPD",
+    "url": "https://pdf.hres.ca/dpd_pm/00084168.PDF",
+    "publishedOrRevised": "2026-03-25",
+    "accessed": "2026-11-17",
+    "type": "monograph"
+   },
+   {
+    "id": "s4",
+    "title": "Drug Product Database: AndroGel (drug code 69384)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=69384",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s5",
+    "title": "Drug Product Database: AndroGel (drug code 69385)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=69385",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s6",
+    "title": "Drug Product Database: AndroGel pump (drug code 73432)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=73432",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s7",
+    "title": "Drug Product Database: Testim 1% (drug code 76591)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=76591",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s8",
+    "title": "Drug Product Database API: status of Testim 1% (drug code 76591)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=76591",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s9",
+    "title": "Drug Product Database: Taro-Testosterone Gel 2.5 g (drug code 95189)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=95189",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s10",
+    "title": "Drug Product Database: Taro-Testosterone Gel 5 g (drug code 95190)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=95190",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s11",
+    "title": "Drug Product Database API: status of Androderm (drug code 63125)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=63125",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s12",
+    "title": "Drug Product Database API: status of Androderm (drug code 70098)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=70098",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s13",
+    "title": "Drug Product Database: Axiron (drug code 86820)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=86820",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s14",
+    "title": "Drug Product Database: Natesto nasal gel (drug code 93671)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=93671",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s15",
+    "title": "Controlled Drugs and Substances Act (S.C. 1996, c. 19), Schedule IV, item 23 (Anabolic steroids and their derivatives), subitem (40) Testosterone",
+    "publisher": "Government of Canada, Justice Laws Website",
+    "url": "https://laws-lois.justice.gc.ca/eng/acts/C-38.8/FullText.html",
+    "publishedOrRevised": "Current to 2026-10-19; last amended 2026-10-01",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s16",
+    "title": "World Anti-Doping Code: The 2026 Prohibited List (S1 Anabolic Agents)",
+    "publisher": "World Anti-Doping Agency",
+    "url": "https://www.wada-ama.org/en/prohibited-list",
+    "publishedOrRevised": "In effect 2026-01-01",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s17",
+    "title": "The 2026 Prohibited List (verbatim copy of the WADA PDF, used because wada-ama.org blocked automated access)",
+    "publisher": "World Anti-Doping Agency (copy hosted by SEGAS, Hellenic Athletics Federation)",
+    "url": "https://www.segas.gr/wp-content/uploads/2025/11/2026list_en_final_clean_september_2025.pdf",
+    "publishedOrRevised": "September 2025; in effect 2026-01-01",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   }
+  ],
+  "lastReviewed": "2026-11-17",
+  "openQuestions": [
+   "AndroGel DIN 02245345: DPD page does not state packet size (presumably the 2.5 g packet; not confirmed)",
+   "AndroGel monograph gives no specific day for the first serum testosterone check",
+   "No hematocrit cut-off for interrupting therapy stated in the gel monographs",
+   "Testim percentages taken from monograph Table 1; comparator arm figures not recorded",
+   "Natesto (intranasal testosterone gel, marketed) is out of scope for this entry and has no entry yet",
+   "Monograph 'Schedule G' wording vs DPD/CDSA Schedule IV recorded, not reconciled",
+   "WADA list read from a verbatim copy hosted by a national federation; wada-ama.org blocked automated access",
+   "Abuse and dependence section text of the gel monographs not extracted"
+  ],
+  "listSourceIds": {
+   "indications": [
+    "s1",
+    "s2",
+    "s3"
+   ],
+   "products": [
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s9",
+    "s10"
+   ],
+   "commonSideEffects": [
+    "s1",
+    "s2"
+   ],
+   "warnings": [
+    "s1",
+    "s2",
+    "s3"
+   ],
+   "contraindications": [
+    "s1",
+    "s2"
+   ],
+   "interactions": [
+    "s1"
+   ],
+   "specialPopulations": [
+    "s1",
+    "s2"
+   ],
+   "wada": [
+    "s16",
+    "s17"
+   ],
+   "deviceNotes": [
+    "s1",
+    "s3",
+    "s6"
+   ]
+  }
+ },
+ {
+  "id": "testosterone-undecanoate-oral",
+  "names": {
+   "generic": "testosterone undecanoate (oral)",
+   "brands": [
+    "Taro-Testosterone",
+    "Kyzatrex"
+   ]
+  },
+  "class": "Androgen (oral testosterone ester)",
+  "group": "Hormones and related",
+  "usedFor": [
+   "Low testosterone in adult men (male hypogonadism)"
+  ],
+  "route": [
+   "oral"
+  ],
+  "status": "approved_ca",
+  "statusDetail": {
+   "healthCanada": "Marketed: Taro-Testosterone 40 mg capsules (DIN 02421186, marketed since 2014-09-02); Kyzatrex 150 mg capsules (DIN 02562731, marketed since 2026-09-03). Approved, not marketed: Kyzatrex 100 mg (DIN 02562723) and 200 mg (DIN 02562758); Tlando 112.5 mg capsules (DIN 02572036, approved 2026-09-29). Dormant: PMS-Testosterone 40 mg (DIN 02322498, dormant since 2025-08-01). Cancelled post market: Andriol 40 mg (DIN 00782327, 2018-01-29). All listed in DPD as Controlled Drugs (CDSA IV); testosterone is in CDSA Schedule IV, item 23, subitem (40).",
+   "fda": "Not checked in R6 (Canada-focused pass).",
+   "other": "",
+   "checkedOn": "2026-11-17",
+   "sourceIds": [
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11"
+   ]
+  },
+  "indications": [
+   "Testosterone replacement therapy in adult males for conditions associated with a deficiency or absence of endogenous testosterone (hypogonadism) (Taro-Testosterone, Kyzatrex)",
+   "Kyzatrex: deficiency confirmed by two separate morning biochemical assays before starting",
+   "Not indicated in women or under 18 (Taro-Testosterone)"
+  ],
+  "mechanism": "Oral testosterone ester (undecanoate) taken twice daily with a meal; the Kyzatrex monograph states dietary fat enhances its absorption.",
+  "products": [
+   {
+    "brand": "Taro-Testosterone (Taro)",
+    "din": "02421186",
+    "strengths": [
+     "testosterone undecanoate 40 mg capsule"
+    ],
+    "device": "Capsule in blister (kept in outer carton)",
+    "monographUrl": "https://pdf.hres.ca/dpd_pm/00048154.PDF",
+    "monographDate": "2018-10-25",
+    "marketedStatus": "Marketed (since 2014-09-02)"
+   },
+   {
+    "brand": "Kyzatrex (Hikma)",
+    "din": "02562731",
+    "strengths": [
+     "testosterone undecanoate 150 mg capsule"
+    ],
+    "device": "Bottle of 120 capsules",
+    "monographUrl": "https://pdf.hres.ca/dpd_pm/00085237.PDF",
+    "monographDate": "2026-06-30",
+    "marketedStatus": "Marketed (since 2026-09-03)"
+   },
+   {
+    "brand": "Kyzatrex (Hikma)",
+    "din": "02562723",
+    "strengths": [
+     "testosterone undecanoate 100 mg capsule"
+    ],
+    "device": "Bottle of 120 capsules",
+    "monographUrl": "https://pdf.hres.ca/dpd_pm/00085237.PDF",
+    "monographDate": "2026-06-30",
+    "marketedStatus": "Approved, not marketed (status date 2026-07-02)"
+   },
+   {
+    "brand": "Kyzatrex (Hikma)",
+    "din": "02562758",
+    "strengths": [
+     "testosterone undecanoate 200 mg capsule"
+    ],
+    "device": "Bottles of 120 or 60 capsules",
+    "monographUrl": "https://pdf.hres.ca/dpd_pm/00085237.PDF",
+    "monographDate": "2026-06-30",
+    "marketedStatus": "Approved, not marketed (status date 2026-06-30)"
+   },
+   {
+    "brand": "Tlando (Verity)",
+    "din": "02572036",
+    "strengths": [
+     "testosterone undecanoate 112.5 mg capsule"
+    ],
+    "device": "Not verified (monograph could not be fetched)",
+    "monographUrl": "https://pdf.hres.ca/dpd_pm/00086274.PDF",
+    "monographDate": "2026-09-29",
+    "marketedStatus": "Approved, not marketed (status date 2026-09-29)"
+   },
+   {
+    "brand": "PMS-Testosterone (Pharmascience)",
+    "din": "02322498",
+    "strengths": [
+     "testosterone undecanoate 40 mg capsule"
+    ],
+    "device": "Capsule",
+    "monographUrl": "https://pdf.hres.ca/dpd_pm/00043723.PDF",
+    "monographDate": "2018-01-22",
+    "marketedStatus": "Dormant (since 2025-08-01)"
+   }
+  ],
+  "deviceNotes": [
+   "Capsules swallowed whole without chewing (Taro-Testosterone, Kyzatrex)"
+  ],
+  "doseInfo": [
+   {
+    "basis": "monograph",
+    "population": "Adult hypogonadal males: Taro-Testosterone 40 mg capsules",
+    "regimen": "Initial 120 to 160 mg daily, divided into two doses (morning and evening), for 2 to 3 weeks; then 40 to 120 mg daily based on testosterone levels and/or clinical effect",
+    "maxDose": "160 mg daily (top of the initial range)",
+    "durationOrContext": "Bioavailable or calculated free testosterone measured about 5 hours after a capsule dose",
+    "sourceIds": [
+     "s1"
+    ]
+   },
+   {
+    "basis": "monograph",
+    "population": "Adult hypogonadal males: Kyzatrex",
+    "regimen": "Start 200 mg twice daily (morning and evening) with meals. Serum testosterone checked 7 days after starting or after any dose change, 3 to 5 hours after the morning dose: below 460 ng/dL the dose is stepped up; 460 to 971 ng/dL no change; above 971 ng/dL the dose is stepped down; at the lowest step (100 mg once daily in the morning) treatment is discontinued if still above 971 ng/dL",
+    "maxDose": "400 mg twice daily (minimum 100 mg once daily in the morning)",
+    "durationOrContext": "Titration table in the fetched PDF text is partly garbled; step sizes between 100 and 400 mg recorded as open question",
+    "sourceIds": [
+     "s2"
+    ]
+   }
+  ],
+  "missedDose": {
+   "text": "Taro-Testosterone and Kyzatrex: the missed dose is not made up; the next dose is taken at the usual scheduled time; no double dose.",
+   "windowHours": 0,
+   "minHoursBeforeNextDose": null,
+   "minHoursBetweenDoses": null,
+   "sourceIds": [
+    "s1",
+    "s2"
+   ]
+  },
+  "storage": {
+   "unopened": "Taro-Testosterone: 15 to 30 C, protected from light and moisture, not refrigerated, blister kept in the outer carton. Kyzatrex: 20 to 25 C in the original bottle, protected from light and moisture.",
+   "inUse": "Same as unopened",
+   "discardAfterDays": null,
+   "sourceIds": [
+    "s1",
+    "s2"
+   ]
+  },
+  "commonSideEffects": [
+   "Kyzatrex (pooled Phase 3, n=296, treatment-related): any 22.3%; hypertension 2.7%; hemoglobin increased 2.4%; PSA increased 1.7%; by system: investigations 7.4%, gastrointestinal 3.7%, psychiatric 3.0%, reproductive/breast 2.7%, skin 2.7%",
+   "Kyzatrex blood pressure: mean increase 1.7/0.6 mm Hg at 4 months; 3.4/0.7 mm Hg in patients on antihypertensives",
+   "Taro-Testosterone: no frequencies given; post-market listings include polycythemia, hypertension, gynecomastia, priapism, hepatic neoplasms, thromboembolic events"
+  ],
+  "warnings": [
+   "Neither monograph has a boxed Serious Warnings section (as fetched)",
+   "Blood pressure: testosterone may increase blood pressure (Taro-Testosterone: caution in hypertension; Kyzatrex: not recommended in uncontrolled hypertension)",
+   "Cardiovascular: post-market studies suggest increased risk of serious cardiovascular events such as myocardial infarction and stroke",
+   "Polycythemia: hemoglobin and hematocrit checked periodically in long-term therapy; no hematocrit cut-off stated",
+   "Venous thromboembolism: caution with thrombophilia or VTE risk factors; continuing after a first thrombotic event should be carefully evaluated (Kyzatrex)",
+   "Abuse and dependence: testosterone abuse may result in dependence and withdrawal symptoms; abuse, often with other anabolic steroids, can cause serious cardiovascular, hepatic and psychiatric events",
+   "Suppression of own production and sperm: endogenous testosterone release may be inhibited through feedback inhibition of pituitary LH, and with large doses spermatogenesis may be suppressed (Kyzatrex); at large doses spermatogenesis may be suppressed through feedback on FSH (Taro-Testosterone); oligospermia may occur after prolonged administration or excessive dosage (both)",
+   "Monitoring listed: serum testosterone (timing per product above); hemoglobin and hematocrit; PSA and digital rectal exam; lipid profile; liver function tests; diabetics monitored closely"
+  ],
+  "contraindications": [
+   "Known or suspected carcinoma of the prostate or breast in men",
+   "Not indicated in women",
+   "Known hypersensitivity to any ingredient"
+  ],
+  "interactions": [
+   "Oral anticoagulants (warfarin): androgens may increase sensitivity; INR and prothrombin time monitored",
+   "Insulin and oral diabetes medicines: blood glucose and insulin requirements may decrease",
+   "ACTH or corticosteroids: may enhance edema",
+   "Cyclosporine: may be potentiated with increased risk of kidney toxicity (Kyzatrex)",
+   "Medicines that raise blood pressure (some prescription, pain and cold medicines) may add to the increase (Kyzatrex)",
+   "St. John's Wort may decrease plasma testosterone; propranolol interaction reported with injectable testosterone"
+  ],
+  "nutritionNotes": [
+   "Taro-Testosterone and Kyzatrex 'must be taken with a meal' and swallowed without chewing; Kyzatrex monograph explains fat enhances its absorption"
+  ],
+  "specialPopulations": [
+   "Women: not indicated",
+   "Under 18: not indicated (Taro-Testosterone)",
+   "Older adults: limited data (Taro-Testosterone)",
+   "Diabetes: glucose and insulin needs may change"
+  ],
+  "wada": "Prohibited at all times (in- and out-of-competition): testosterone is listed under S1 Anabolic Agents on the WADA 2026 Prohibited List (in effect 1 January 2026).",
+  "evidenceLevel": "Approved, extensive use",
+  "sources": [
+   {
+    "id": "s1",
+    "title": "TARO-TESTOSTERONE (testosterone undecanoate 40 mg capsules) Product Monograph",
+    "publisher": "Taro Pharmaceuticals Inc. via Health Canada DPD",
+    "url": "https://pdf.hres.ca/dpd_pm/00048154.PDF",
+    "publishedOrRevised": "2018-10-25",
+    "accessed": "2026-11-17",
+    "type": "monograph"
+   },
+   {
+    "id": "s2",
+    "title": "KYZATREX (testosterone undecanoate capsules) Product Monograph",
+    "publisher": "Hikma Canada Limited via Health Canada DPD",
+    "url": "https://pdf.hres.ca/dpd_pm/00085237.PDF",
+    "publishedOrRevised": "2026-06-30 (initial authorization 2025-11-10)",
+    "accessed": "2026-11-17",
+    "type": "monograph"
+   },
+   {
+    "id": "s3",
+    "title": "Drug Product Database: Taro-Testosterone (drug code 90578)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=90578",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s4",
+    "title": "Drug Product Database: Kyzatrex 100 mg (drug code 106558)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=106558",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s5",
+    "title": "Drug Product Database API: status of Kyzatrex (drug code 106559)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=106559",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s6",
+    "title": "Drug Product Database API: active ingredient of Kyzatrex (drug code 106559)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&id=106559",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s7",
+    "title": "Drug Product Database: Kyzatrex 200 mg (drug code 106560)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=106560",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s8",
+    "title": "Drug Product Database: Andriol (drug code 13411)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=13411",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s9",
+    "title": "Drug Product Database: PMS-Testosterone (drug code 80793)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=80793",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s10",
+    "title": "Drug Product Database: Tlando (drug code 107402)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=107402",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s11",
+    "title": "Controlled Drugs and Substances Act (S.C. 1996, c. 19), Schedule IV, item 23 (Anabolic steroids and their derivatives), subitem (40) Testosterone",
+    "publisher": "Government of Canada, Justice Laws Website",
+    "url": "https://laws-lois.justice.gc.ca/eng/acts/C-38.8/FullText.html",
+    "publishedOrRevised": "Current to 2026-10-19; last amended 2026-10-01",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s12",
+    "title": "World Anti-Doping Code: The 2026 Prohibited List (S1 Anabolic Agents)",
+    "publisher": "World Anti-Doping Agency",
+    "url": "https://www.wada-ama.org/en/prohibited-list",
+    "publishedOrRevised": "In effect 2026-01-01",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s13",
+    "title": "The 2026 Prohibited List (verbatim copy of the WADA PDF, used because wada-ama.org blocked automated access)",
+    "publisher": "World Anti-Doping Agency (copy hosted by SEGAS, Hellenic Athletics Federation)",
+    "url": "https://www.segas.gr/wp-content/uploads/2025/11/2026list_en_final_clean_september_2025.pdf",
+    "publishedOrRevised": "September 2025; in effect 2026-01-01",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   }
+  ],
+  "lastReviewed": "2026-11-17",
+  "openQuestions": [
+   "Kyzatrex titration table (Table 1) was partly garbled in the fetched text: exact step sequence between 100 mg and 400 mg twice daily (and whether a 150 mg step exists) not confirmed",
+   "Only the 150 mg Kyzatrex strength is marketed per DPD; 100 mg and 200 mg are approved, not marketed, although the 200 mg twice-daily start uses the 200 mg capsule",
+   "Tlando (approved 2026-09-29, not marketed): monograph 00086274 could not be fetched; dose, food rule and storage not recorded",
+   "Jatenzo DPD search failed twice (server error); presence in Canada not checked",
+   "Taro-Testosterone maximum: monograph gives ranges (120 to 160 mg initial, 40 to 120 mg maintenance), not a stated maximum",
+   "WADA list read from a verbatim copy hosted by a national federation; wada-ama.org blocked automated access"
+  ],
+  "listSourceIds": {
+   "indications": [
+    "s1",
+    "s2"
+   ],
+   "products": [
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s9",
+    "s10"
+   ],
+   "commonSideEffects": [
+    "s1",
+    "s2"
+   ],
+   "warnings": [
+    "s1",
+    "s2"
+   ],
+   "contraindications": [
+    "s1",
+    "s2"
+   ],
+   "interactions": [
+    "s1",
+    "s2"
+   ],
+   "nutritionNotes": [
+    "s1",
+    "s2"
+   ],
+   "specialPopulations": [
+    "s1"
+   ],
+   "wada": [
+    "s12",
+    "s13"
+   ],
+   "deviceNotes": [
+    "s1",
+    "s2"
+   ]
+  }
+ }
+]

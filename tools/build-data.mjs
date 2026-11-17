@@ -11,6 +11,7 @@ const PASSES = [
   { pass: 'R1', title: 'Approved in Canada', file: pick('ref_R1_approved_verified.json', 'ref_R1_approved.json'), meta: 'meta_R1.json' },
   { pass: 'R2', title: 'In trials or under review', file: pick('ref_R2_investigational_verified.json', 'ref_R2_investigational.json'), meta: 'meta_R2.json' },
   { pass: 'R3', title: 'Other peptides', file: pick('ref_R3_peptides_verified.json', 'ref_R3_peptides.json'), meta: 'meta_R3.json' },
+  ...(existsSync(R + 'ref_R6_hormones.json') ? [{ pass: 'R6', title: 'Prescription hormones', file: pick('ref_R6_hormones_verified.json', 'ref_R6_hormones.json'), meta: 'meta_R6.json' }] : []),
 ];
 const STATUSES = ['approved_ca', 'approved_elsewhere', 'investigational', 'not_approved_limited_evidence'];
 const verified = PASSES.every(p => p.file.includes('_verified'));
@@ -32,7 +33,7 @@ for (const p of PASSES) {
   passes.push({ pass: p.pass, title: p.title, checkedOn: meta.checkedOn, groupOrder: meta.groupOrder || [], useFilters: meta.useFilters || [],
     notes: meta.notes || [], openQuestions: meta.openQuestions || [], excluded: meta.excluded || [], count: list.length });
 }
-writeFileSync(OUT + 'reference.json', JSON.stringify({ format: 1, verified, checkedOn: '2026-11-15', passes, entries }));
+writeFileSync(OUT + 'reference.json', JSON.stringify({ format: 1, verified, checkedOn: passes.map(p => p.checkedOn).sort().pop(), passes, entries }));
 
 // ---- targets.json from R4 ----
 const r4file = pick('ref_R4_nutrition_verified.json', 'ref_R4_nutrition.json');
@@ -82,7 +83,7 @@ writeFileSync(OUT + 'targets.json', JSON.stringify({
 // ---- docs/sources.md ----
 let md = '# DoseDay reference sources\n\nBuilt from the research pack (passes R1 to R4, checked 2026-11-15).' +
   (verified ? '' : ' Not yet independently verified (R5).') + '\n';
-for (const n of [1, 2, 3, 4]) if (existsSync(R + `sources_R${n}.md`)) md += '\n\n' + readFileSync(R + `sources_R${n}.md`, 'utf8').trim() + '\n';
+for (const n of [1, 2, 3, 4, 6]) if (existsSync(R + `sources_R${n}.md`)) md += '\n\n' + readFileSync(R + `sources_R${n}.md`, 'utf8').trim() + '\n';
 writeFileSync(DOCS + 'sources.md', md);
 
 const count = s => entries.filter(e => e.status === s).length;

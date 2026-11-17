@@ -1,0 +1,32 @@
+{
+ "pass": "R6",
+ "title": "Prescription hormones",
+ "checkedOn": "2026-11-17",
+ "groupOrder": [
+  "Hormones and related"
+ ],
+ "useFilters": [
+  "Ovulation induction (fertility treatment)",
+  "Undescended testes in boys (cryptorchidism)",
+  "Low testosterone from pituitary deficiency in males (selected cases)",
+  "Ovulation induction in women with ovulatory dysfunction",
+  "Breast cancer in postmenopausal women",
+  "Adult growth hormone deficiency (replacement)",
+  "Growth failure in children (specialist-managed)",
+  "Adult growth hormone deficiency (Sogroya)",
+  "Growth failure in children (Sogroya, Ngenla)",
+  "Low testosterone in adult men (male hypogonadism)"
+ ],
+ "notes": [
+  "Prescription medicines, from Canadian product monographs. Doses are listed only for the uses each Canadian monograph covers.",
+  "Uses outside the monograph (for example clomiphene, hCG or anastrozole in men) have no dose rows here.",
+  "Testosterone and other anabolic steroids are controlled substances in Canada (Schedule IV). Not yet independently verified (R5)."
+ ],
+ "openQuestions": [],
+ "excluded": [
+  {
+   "name": "MK-677, oxandrolone, nandrolone, SARMs, high-dose testosterone",
+   "reason": "Gym-only uses: kept out of the app by choice (2026-11-17)."
+  }
+ ]
+}

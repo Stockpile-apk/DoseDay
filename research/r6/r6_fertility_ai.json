@@ -1,0 +1,322 @@
+[
+ {
+  "id": "hcg",
+  "names": { "generic": "chorionic gonadotropin (hCG); choriogonadotropin alfa (r-hCG)", "brands": ["Pregnyl", "Chorionic Gonadotropin for Injection, USP (Fresenius Kabi)", "Ovidrel"] },
+  "class": "Gonadotropin (LH receptor agonist)",
+  "group": "Hormones and related",
+  "usedFor": ["Ovulation induction (fertility treatment)", "Undescended testes in boys (cryptorchidism)", "Low testosterone from pituitary deficiency in males (selected cases)"],
+  "route": ["intramuscular", "subcutaneous"],
+  "status": "approved_ca",
+  "statusDetail": {
+   "healthCanada": "Marketed: Pregnyl 10,000 unit vial (DIN 02182904, Organon; marketed since 1997-08-13); Chorionic Gonadotropin for Injection, USP 10,000 unit vial (DIN 02247459, Fresenius Kabi; original market date 2004-09-13); Ovidrel 250 mcg/0.5 mL (DIN 02371588 marketed since 2013-05-28; DIN 02262088 also listed as marketed since 2004-12-20). Novarel: no Drug Product Database record found.",
+   "fda": "Not re-verified in this Canada-focused pass. See openQuestions.",
+   "other": "",
+   "checkedOn": "2026-11-17",
+   "sourceIds": ["s2", "s3", "s5", "s7", "s8", "s9", "s10"]
+  },
+  "indications": [
+   "Pregnyl (women): induction of ovulation and pregnancy in the anovulatory, infertile woman whose anovulation is secondary (not primary ovarian failure) and who has been pretreated with FSH-containing preparations",
+   "Pregnyl (men): prepubertal cryptorchidism not due to anatomical obstruction; selected cases of hypogonadotropic hypogonadism (secondary to a pituitary deficiency) in males",
+   "Chorionic Gonadotropin for Injection, USP (Fresenius Kabi), as listed in its monograph. Male: prepubertal cryptorchidism (not due to anatomical obstruction), delayed adolescence, dwarfism (pituitary), hypogonadotropic eunuchoidism, selected cases of hypogonadotropic hypogonadism in males. Female: ovulation induction, abortion (habitual), infrequent scanty bleeding (functional), functional sterility",
+   "Ovidrel: induction of ovulation and pregnancy in patients undergoing fertility treatment whose infertility is functional and not due to primary ovarian failure",
+   "Other uses in men (for example alongside testosterone, or for fertility outside the listed hypogonadotropic hypogonadism indication) are not among the indications in the Canadian monographs",
+   "Not for weight loss: the Pregnyl and Fresenius Kabi monographs state hCG has not been shown to be effective adjunctive therapy for obesity and should not be used for body weight reduction. The Ovidrel monograph has no such statement"
+  ],
+  "mechanism": "Acts like pituitary LH: stimulates androgen (testosterone) production in the testes and progesterone production in the ovaries; triggers final follicle maturation and ovulation.",
+  "products": [
+   { "brand": "Pregnyl", "din": "02182904", "strengths": ["10,000 USP units per vial (powder for solution, kit)"], "device": "Multi-dose vial of powder plus a 10 mL solvent vial (water for injection with 0.9% benzyl alcohol and 0.56% sodium chloride); intramuscular use only", "monographUrl": "https://pdf.hres.ca/dpd_pm/00071523.PDF", "monographDate": "2021-03-30" },
+   { "brand": "Chorionic Gonadotropin for Injection, USP (Fresenius Kabi)", "din": "02247459", "strengths": ["10,000 units per vial (powder for solution)"], "device": "Vial of powder plus 10 mL multiple-dose vial of bacteriostatic water for injection with 0.9% benzyl alcohol; intramuscular or subcutaneous", "monographUrl": "https://pdf.hres.ca/dpd_pm/00055872.PDF", "monographDate": "2020-04-03" },
+   { "brand": "Ovidrel (choriogonadotropin alfa, recombinant hCG)", "din": "02371588", "strengths": ["250 mcg / 0.5 mL"], "device": "Ready-to-use pre-filled syringe or pre-filled pen (pen supplied with 2 needles); single use; subcutaneous", "monographUrl": "https://pdf.hres.ca/dpd_pm/00072860.PDF", "monographDate": "2023-10-12" },
+   { "brand": "Ovidrel (second DIN)", "din": "02262088", "strengths": ["Solution (strength for this DIN not retrieved)"], "device": "Not retrieved; see openQuestions", "monographUrl": "", "monographDate": "" }
+  ],
+  "deviceNotes": [
+   "Pregnyl: reconstitute by adding 1 to 10 mL of the solvent to the powder and agitating gently until dissolved; with 10 mL the concentration is 1,000 USP units/mL",
+   "Fresenius Kabi: add up to 10 mL of the supplied bacteriostatic water and mix gently until reconstitution is complete",
+   "Ovidrel pre-filled syringe is for a single subcutaneous injection; Ovidrel pen and needle are used once, then the pen is discarded"
+  ],
+  "doseInfo": [
+   { "basis": "monograph", "population": "Women, ovulation induction (Pregnyl)", "regimen": "5,000 to 10,000 USP units intramuscularly one day following the last day of treatment with an FSH-containing preparation (the monograph notes 10,000 USP units is the dose recommended in FSH product labelling)", "maxDose": "10,000 USP units (top of the listed range)", "durationOrContext": "Given once after FSH pretreatment", "sourceIds": ["s1"] },
+   { "basis": "monograph", "population": "Prepubertal boys, cryptorchidism not due to anatomical obstruction (Pregnyl)", "regimen": "4,000 USP units 3 times weekly for 2 to 3 weeks, or 1,000 USP units 3 times weekly for 6 to 8 weeks", "maxDose": "4,000 USP units per injection as listed", "durationOrContext": "The monograph states the average appropriate age appears to be 12 years", "sourceIds": ["s1"] },
+   { "basis": "monograph", "population": "Men, selected hypogonadotropic hypogonadism (Pregnyl)", "regimen": "4,000 to 5,000 USP units 3 times weekly for 6 to 8 weeks, with a rest period of 2 to 3 weeks between courses", "maxDose": "5,000 USP units per injection as listed", "durationOrContext": "Courses separated by 2 to 3 week rests", "sourceIds": ["s1"] },
+   { "basis": "monograph", "population": "Prepubertal boys, cryptorchidism (Fresenius Kabi)", "regimen": "4000 USP units three times weekly for two to three weeks, or 1000 USP units three times weekly for six to eight weeks", "maxDose": "4000 USP units per injection as listed", "durationOrContext": "Intramuscular or subcutaneous", "sourceIds": ["s4"] },
+   { "basis": "monograph", "population": "Men, hypogonadism after sexual maturity (Fresenius Kabi)", "regimen": "4000 to 5000 USP units three times weekly for six to eight weeks, with a rest period of two to three weeks between courses", "maxDose": "5000 USP units per injection as listed", "durationOrContext": "Monograph lists this under 'Hypogonadism (after sexual maturity)'", "sourceIds": ["s4"] },
+   { "basis": "monograph", "population": "Women, ovulation induction (Fresenius Kabi)", "regimen": "5000 to 10 000 USP units one day following the last dose of gonadotropins", "maxDose": "10 000 USP units (top of the listed range)", "durationOrContext": "Gonadotropin dosing per that product's own prescribing information", "sourceIds": ["s4"] },
+   { "basis": "monograph", "population": "Women, ovulation induction (Ovidrel)", "regimen": "250 mcg subcutaneously one day following the last dose of the follicle stimulating agent, once adequate follicular development is shown by serum estradiol and/or vaginal ultrasound", "maxDose": "250 mcg single dose (no maximum otherwise stated)", "durationOrContext": "Withheld if there is an excessive ovarian response (multiple follicles, significant ovarian enlargement or excessive estradiol)", "sourceIds": ["s6"] }
+  ],
+  "missedDose": { "text": "Not stated in the fetched monograph text.", "windowHours": null, "minHoursBeforeNextDose": null, "minHoursBetweenDoses": null, "sourceIds": ["s1", "s6"] },
+  "storage": {
+   "unopened": "Pregnyl: 15 to 30 C. Fresenius Kabi: controlled room temperature (below 25 C) until expiry. Ovidrel: 2 to 8 C (refrigerator), do not freeze, keep in original package, protect from light; the pre-filled syringe (not the pen) may be kept at 25 C for up to 30 days, then discarded",
+   "inUse": "Pregnyl reconstituted: stable 28 days refrigerated (2 to 8 C). Fresenius Kabi reconstituted: keep refrigerated (2 to 8 C) and use within 30 days. Ovidrel: single use; discard any unused material",
+   "discardAfterDays": null,
+   "byProduct": [
+    { "brand": "Pregnyl", "discardAfterDays": 28 },
+    { "brand": "Chorionic Gonadotropin for Injection, USP (Fresenius Kabi)", "discardAfterDays": 30 },
+    { "brand": "Ovidrel", "discardAfterDays": 0 }
+   ],
+   "sourceIds": ["s1", "s4", "s6"]
+  },
+  "commonSideEffects": [
+   "Pregnyl: headache, irritability, restlessness, depression, fatigue, edema, precocious puberty, gynecomastia, injection-site pain, allergic reactions",
+   "Ovidrel: injection-site pain 16.2% (ovulation induction study); application site disorders 14.6%",
+   "Ovidrel: nausea, vomiting, abdominal pain, headache and mild or moderate OHSS listed as common (more than 1 in 100)"
+  ],
+  "warnings": [
+   "Ovarian hyperstimulation syndrome (OHSS) can be triggered by hCG; patients are followed for at least two weeks after hCG. Ovidrel monograph: maximum severity at 7 to 10 days; patient leaflet gives incidence usually under 3%; independent risk factors include age under 30 and lean body mass",
+   "Multiple pregnancy: increased risk with ovulation induction (Ovidrel trial: 2 of 15 live deliveries, 13.3%, were multiple births)",
+   "Thromboembolic events reported both with and separate from OHSS (Pregnyl); Ovidrel lists thromboembolism as very rare (1/10,000)",
+   "Ectopic pregnancy, pregnancy loss and possibly congenital malformations are more frequent with assisted reproduction; ovarian torsion reported after hCG",
+   "Prepubertal boys: use cautiously to avoid premature epiphyseal closure or precocious sexual development",
+   "Men: hCG increases androgen production",
+   "Heart or kidney disease, epilepsy, migraine or asthma (or a history of them): close supervision, as aggravation or recurrence may occur",
+   "Pregnancy tests: hCG may interfere for up to ten days with serum/urinary hCG tests",
+   "Not for weight loss: Pregnyl and Fresenius Kabi monographs state hCG has not been shown effective for obesity and should not be used for body weight reduction",
+   "Male uses outside the listed indications are not in the Canadian monographs"
+  ],
+  "contraindications": [
+   "Pregnyl: prepubertal boys with signs of anatomical obstruction; precocious puberty; hypersensitivity; known or suspected sex hormone-dependent tumours (ovary, breast, uterine carcinoma in females; prostatic or breast carcinoma in males); reproductive organ malformations or uterine fibroids incompatible with pregnancy; abnormal (non-menstrual) vaginal bleeding of unknown cause",
+   "Fresenius Kabi adds: pituitary tumour, ovarian tumour, androgen-dependent neoplasms; uncontrolled endocrine disorders (e.g. hyperprolactinemia, thyroid and adrenal dysfunction); primary ovarian failure; active thrombophlebitis or thromboembolic event; allergy to u-hCG",
+   "Ovidrel: hypersensitivity; primary ovarian failure; uncontrolled thyroid or adrenal dysfunction; hypothalamic or pituitary tumours; abnormal uterine bleeding of undetermined origin; ovarian enlargement or cyst of unknown cause; ovarian, uterine or mammary cancer; pregnancy"
+  ],
+  "interactions": [
+   "Pregnyl: interactions not studied; interactions with commonly used medicines cannot be excluded",
+   "Ovidrel: no clinically significant drug interactions reported during hCG therapy",
+   "Interferes with hCG pregnancy tests for up to ten days"
+  ],
+  "nutritionNotes": [],
+  "specialPopulations": [
+   "Pregnancy: Pregnyl not used after pregnancy is established; Ovidrel contraindicated in pregnancy",
+   "Breastfeeding: Pregnyl must not be used during lactation; Ovidrel not indicated during breastfeeding",
+   "Children: Pregnyl and Fresenius Kabi list prepubertal cryptorchidism; Ovidrel is only for female patients of reproductive age"
+  ],
+  "wada": "Chorionic gonadotrophin (CG) is prohibited at all times in males (2026 Prohibited List, S2.2.1 testosterone-stimulating peptides in males); no change to this listed for the 2027 List (in force 2027-01-01).",
+  "wadaSourceIds": ["s11", "s12"],
+  "evidenceLevel": "Approved, extensive use (for the labelled indications)",
+  "sources": [
+   { "id": "s1", "title": "PREGNYL (chorionic gonadotropin for injection) Product Monograph", "publisher": "Organon Canada Inc. via Health Canada Drug Product Database", "url": "https://pdf.hres.ca/dpd_pm/00071523.PDF", "publishedOrRevised": "2021-03-30 (submission control 249487)", "accessed": "2026-11-17", "type": "monograph" },
+   { "id": "s2", "title": "Drug Product Database API: marketing status of drug code 44257 (Pregnyl)", "publisher": "Health Canada", "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=44257", "publishedOrRevised": "live database", "accessed": "2026-11-17", "type": "regulator" },
+   { "id": "s3", "title": "Drug Product Database: Pregnyl product information (drug code 44257)", "publisher": "Health Canada", "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=44257", "publishedOrRevised": "live database", "accessed": "2026-11-17", "type": "regulator" },
+   { "id": "s4", "title": "Chorionic Gonadotropin for Injection, USP Product Monograph", "publisher": "Fresenius Kabi Canada Ltd via Health Canada Drug Product Database", "url": "https://pdf.hres.ca/dpd_pm/00055872.PDF", "publishedOrRevised": "2020-04-06 per monograph (DPD lists 2020-04-03; submission control 230972)", "accessed": "2026-11-17", "type": "monograph" },
+   { "id": "s5", "title": "Drug Product Database: Chorionic Gonadotropin for Injection, USP product information (drug code 71705)", "publisher": "Health Canada", "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=71705", "publishedOrRevised": "live database", "accessed": "2026-11-17", "type": "regulator" },
+   { "id": "s6", "title": "OVIDREL (choriogonadotropin alfa injection) Product Monograph", "publisher": "EMD Serono via Health Canada Drug Product Database", "url": "https://pdf.hres.ca/dpd_pm/00072860.PDF", "publishedOrRevised": "2023-10-12 (submission control 274651)", "accessed": "2026-11-17", "type": "monograph" },
+   { "id": "s7", "title": "Drug Product Database: Ovidrel product information (drug code 85673)", "publisher": "Health Canada", "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=85673", "publishedOrRevised": "live database", "accessed": "2026-11-17", "type": "regulator" },
+   { "id": "s8", "title": "Drug Product Database API: brand name search 'ovidrel'", "publisher": "Health Canada", "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&brandname=ovidrel", "publishedOrRevised": "live database", "accessed": "2026-11-17", "type": "regulator" },
+   { "id": "s9", "title": "Drug Product Database API: marketing status of drug code 74742 (Ovidrel)", "publisher": "Health Canada", "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=74742", "publishedOrRevised": "live database", "accessed": "2026-11-17", "type": "regulator" },
+   { "id": "s10", "title": "Drug Product Database API: brand name search 'novarel' (no records)", "publisher": "Health Canada", "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&brandname=novarel", "publishedOrRevised": "live database", "accessed": "2026-11-17", "type": "regulator" },
+   { "id": "s11", "title": "The 2026 Prohibited List (World Anti-Doping Code International Standard), English final, September 2025; copy hosted by the Hellenic Athletics Federation (SEGAS) because wada-ama.org blocks automated fetches", "publisher": "World Anti-Doping Agency", "url": "https://www.segas.gr/wp-content/uploads/2025/11/2026list_en_final_clean_september_2025.pdf", "publishedOrRevised": "2025-09 (in force 2026-01-01)", "accessed": "2026-11-17", "type": "regulator" },
+   { "id": "s12", "title": "Athlete Advisory: 2027 Prohibited List", "publisher": "U.S. Anti-Doping Agency", "url": "https://www.usada.org/spirit-of-sport/athlete-advisory-2027-prohibited-list/", "publishedOrRevised": "2026 (List in force 2027-01-01)", "accessed": "2026-11-17", "type": "regulator" }
+  ],
+  "lastReviewed": "2026-11-17",
+  "openQuestions": [
+   "Ovidrel DIN 02262088 (drug code 74742): DPD status says Marketed since 2004-12-20, but its product page could not be loaded (server errors), so its presentation and strength are not confirmed; the current monograph lists both a pre-filled syringe and a pre-filled pen",
+   "Fresenius Kabi monograph doses for delayed adolescence, pituitary dwarfism, hypogonadotropic eunuchoidism, habitual abortion, functional bleeding and functional sterility were not retrieved",
+   "Fresenius Kabi monograph date: DPD lists 2020-04-03; the monograph itself says approved and last revised April 6, 2020",
+   "No missed-dose text found in the fetched monographs",
+   "Novarel and other US-only hCG brands: no DPD record found for 'novarel'; US labels and FDA status not re-verified in this pass",
+   "WADA list was read from a federation-hosted copy because wada-ama.org blocks automated access; confirm against the WADA site"
+  ],
+  "listSourceIds": {
+   "indications": ["s1", "s4", "s6"],
+   "products": ["s1", "s3", "s4", "s5", "s6", "s7", "s8"],
+   "deviceNotes": ["s1", "s4", "s6"],
+   "commonSideEffects": ["s1", "s6"],
+   "warnings": ["s1", "s4", "s6"],
+   "contraindications": ["s1", "s4", "s6"],
+   "interactions": ["s1", "s6"],
+   "specialPopulations": ["s1", "s4", "s6"]
+  }
+ },
+ {
+  "id": "clomiphene",
+  "names": { "generic": "clomiphene citrate (clomifene)", "brands": ["Clomid", "Serophene", "Milophene (US)"] },
+  "class": "Selective estrogen receptor modulator (ovulatory stimulant)",
+  "group": "Hormones and related",
+  "usedFor": ["Ovulation induction in women with ovulatory dysfunction"],
+  "route": ["oral"],
+  "status": "approved_elsewhere",
+  "statusDetail": {
+   "healthCanada": "Previously approved; no marketed product found. Every clomiphene DIN found in the Drug Product Database is Cancelled Post Market: Clomid (Sanofi, DIN 02091879) 2020-07-15 (shortage database: discontinued 2015-11-25, business reasons); Serophene (EMD Serono, DIN 00893722) 2017-07-07; Serophene (Pharmascience, DIN 00640158) 2014-09-08; Clomid 50 mg (Merrell, DIN 00018031) 1996-09-09. A brand search for 'clomiphene' returned no generic products.",
+   "fda": "Approved in the US: DailyMed lists current Clomid (Cosette, label revised 08/2023), Milophene and multiple generic clomiphene citrate tablet labels.",
+   "other": "",
+   "checkedOn": "2026-11-17",
+   "sourceIds": ["s2", "s3", "s4", "s5", "s6", "s7", "s8", "s9", "s11", "s12"]
+  },
+  "indications": [
+   "Archived Canadian Clomid monograph: induction of ovulation in patients with persistent ovulatory dysfunction who desire pregnancy, only in patients who meet the listed evaluation criteria",
+   "Archived Canadian Serophene monograph: ovulatory failure in patients desiring pregnancy whose partners have adequate sperm and who have functional pituitary and ovarian systems with adequate endogenous estrogen",
+   "US label: treatment of ovulatory dysfunction in women desiring pregnancy",
+   "Use in men is not included in the Canadian monograph; it states there are no adequate or well-controlled studies showing effectiveness in male infertility"
+  ],
+  "mechanism": "Blocks estrogen feedback at the hypothalamus; the ovulatory response appears to be mediated by increased output of pituitary gonadotropins.",
+  "products": [
+   { "brand": "Clomid (Sanofi-Aventis Canada), cancelled post market", "din": "02091879", "strengths": ["50 mg tablet"], "device": "50 mg white, round, flat-faced bevelled tablet, scored on one side", "monographUrl": "https://pdf.hres.ca/dpd_pm/00021924.PDF", "monographDate": "2013-08-09" },
+   { "brand": "Serophene (EMD Serono), cancelled post market", "din": "00893722", "strengths": ["50 mg tablet"], "device": "", "monographUrl": "https://pdf.hres.ca/dpd_pm/00037571.PDF", "monographDate": "2016-12-20" },
+   { "brand": "Serophene (Pharmascience), cancelled post market", "din": "00640158", "strengths": ["50 mg tablet"], "device": "", "monographUrl": "", "monographDate": "" },
+   { "brand": "Clomid 50 mg (Merrell Dow), cancelled post market", "din": "00018031", "strengths": ["50 mg tablet"], "device": "", "monographUrl": "", "monographDate": "" }
+  ],
+  "deviceNotes": [],
+  "doseInfo": [
+   { "basis": "monograph", "population": "Women with ovulatory dysfunction (archived Canadian Clomid monograph, product no longer marketed)", "regimen": "First course 50 mg daily for 5 days, started at any time if there has been no recent uterine bleeding, or on or about day 5 of the cycle if bleeding occurs. If ovulation does not occur, a second course of 100 mg daily (two 50 mg tablets as a single daily dose) for 5 days, started as early as 30 days after the previous course", "maxDose": "100 mg/day for 5 days (the monograph states dose or duration beyond this should never be undertaken)", "durationOrContext": "3 courses constitute an adequate therapeutic trial; further treatment not recommended if no pregnancy after 3 ovulatory responses; long-term cyclic therapy not recommended beyond a total of about 6 cycles (including 3 ovulatory cycles)", "sourceIds": ["s1"] },
+   { "basis": "monograph", "population": "Women with ovulatory dysfunction (US Clomid label)", "regimen": "Starts at 50 mg daily for 5 days", "maxDose": "Dose or duration beyond 100 mg/day for 5 days is not recommended", "durationOrContext": "Long-term cyclic therapy not recommended beyond a total of about six cycles", "sourceIds": ["s11"] }
+  ],
+  "missedDose": { "text": "Not stated in the fetched monograph or label text.", "windowHours": null, "minHoursBeforeNextDose": null, "minHoursBetweenDoses": null, "sourceIds": ["s1"] },
+  "storage": { "unopened": "Store in original container between 15 and 30 C; keep out of reach and sight of children", "inUse": "Same as unopened", "discardAfterDays": null, "sourceIds": ["s1"] },
+  "commonSideEffects": [
+   "US label (trials, incidence above 1%): ovarian enlargement 13.6%, vasomotor flushes 10.4%, abdominal-pelvic discomfort/distention/bloating 5.5%, nausea and vomiting 2.2%, breast discomfort 2.1%, visual symptoms 1.5%",
+   "Canadian monograph: hot flashes and abdominal-pelvic discomfort are the more common side effects; ovarian enlargement and visual blurring also listed"
+  ],
+  "warnings": [
+   "Visual symptoms (blurring, spots or flashes): may be prolonged or irreversible, especially with higher dose or longer use; treatment is stopped and a complete eye examination done if any visual symptom occurs",
+   "Ovarian hyperstimulation syndrome (OHSS), distinct from uncomplicated ovarian enlargement; abnormal ovarian enlargement is infrequent at recommended doses",
+   "Multiple pregnancy: the Canadian monograph states the rate has been increased up to tenfold when conception occurs in a treatment cycle",
+   "Prolonged use may increase the risk of borderline or invasive ovarian tumours",
+   "Hypertriglyceridemia, with or without pancreatitis, reported",
+   "Men: testicular tumours and gynecomastia reported in males using clomiphene (cause not established); male use is not a Canadian monograph indication"
+  ],
+  "contraindications": [
+   "Pregnancy",
+   "Liver disease or history of liver dysfunction",
+   "Hormone-dependent tumours",
+   "Abnormal uterine bleeding of undetermined origin",
+   "Ovarian cyst, except polycystic ovary",
+   "Hypersensitivity or allergy to clomiphene or any ingredient"
+  ],
+  "interactions": [
+   "The archived Canadian Clomid monograph has no specific drug interaction section; its patient information says to disclose all medicines because clomiphene can affect how some other medicines work"
+  ],
+  "nutritionNotes": [],
+  "specialPopulations": [
+   "Pregnancy: contraindicated",
+   "Breastfeeding: not known whether excreted in milk; may reduce lactation",
+   "Men: no adequate or well-controlled studies showing effectiveness in male infertility"
+  ],
+  "wada": "Clomifene is prohibited at all times (in and out of competition) as an anti-estrogenic substance (2026 Prohibited List, S4.2 Hormone and metabolic modulators); no change to this listed for the 2027 List.",
+  "wadaSourceIds": ["s13", "s14"],
+  "evidenceLevel": "Approved, extensive use (for the labelled indication); no longer marketed in Canada",
+  "sources": [
+   { "id": "s1", "title": "CLOMID (clomiphene citrate tablets) Product Monograph", "publisher": "Sanofi-Aventis Canada Inc. via Health Canada Drug Product Database", "url": "https://pdf.hres.ca/dpd_pm/00021924.PDF", "publishedOrRevised": "2013-08-09 (submission control 165671)", "accessed": "2026-11-17", "type": "monograph" },
+   { "id": "s2", "title": "Drug Product Database: Clomid product information (drug code 19347)", "publisher": "Health Canada", "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=19347", "publishedOrRevised": "live database", "accessed": "2026-11-17", "type": "regulator" },
+   { "id": "s3", "title": "Drug Product Database API: brand name search 'clomid'", "publisher": "Health Canada", "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&brandname=clomid", "publishedOrRevised": "live database", "accessed": "2026-11-17", "type": "regulator" },
+   { "id": "s4", "title": "Drug Product Database API: brand name search 'serophene'", "publisher": "Health Canada", "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&brandname=serophene", "publishedOrRevised": "live database", "accessed": "2026-11-17", "type": "regulator" },
+   { "id": "s5", "title": "Drug Product Database API: marketing status of drug code 6391 (Serophene, Pharmascience)", "publisher": "Health Canada", "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=6391", "publishedOrRevised": "live database", "accessed": "2026-11-17", "type": "regulator" },
+   { "id": "s6", "title": "Drug Product Database API: marketing status of drug code 11805 (Serophene, EMD Serono)", "publisher": "Health Canada", "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=11805", "publishedOrRevised": "live database", "accessed": "2026-11-17", "type": "regulator" },
+   { "id": "s7", "title": "Drug Product Database API: marketing status of drug code 547 (Clomid 50 mg)", "publisher": "Health Canada", "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=547", "publishedOrRevised": "live database", "accessed": "2026-11-17", "type": "regulator" },
+   { "id": "s8", "title": "Drug Product Database API: brand name search 'clomiphene' (no records)", "publisher": "Health Canada", "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&brandname=clomiphene", "publishedOrRevised": "live database", "accessed": "2026-11-17", "type": "regulator" },
+   { "id": "s9", "title": "Drug Shortages Canada: Discontinuation report CLOMID (DIN 02091879)", "publisher": "Drug Shortages Canada (healthproductshortages.ca)", "url": "https://healthproductshortages.ca/shortage/3917", "publishedOrRevised": "discontinuation date 2015-11-25", "accessed": "2026-11-17", "type": "regulator" },
+   { "id": "s10", "title": "SEROPHENE (clomiphene citrate tablets) Product Monograph", "publisher": "EMD Serono Canada via Health Canada Drug Product Database", "url": "https://pdf.hres.ca/dpd_pm/00037571.PDF", "publishedOrRevised": "2016-12-20 (submission control 189606)", "accessed": "2026-11-17", "type": "monograph" },
+   { "id": "s11", "title": "CLOMID (clomiphene citrate tablets USP) prescribing information", "publisher": "Cosette Pharmaceuticals, Inc. via DailyMed (US National Library of Medicine)", "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2ca373c1-4dba-4126-8616-5c533d606fe5", "publishedOrRevised": "Revised 08/2023", "accessed": "2026-11-17", "type": "label" },
+   { "id": "s12", "title": "DailyMed search results: clomiphene citrate", "publisher": "US National Library of Medicine", "url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&query=clomiphene+citrate", "publishedOrRevised": "live database", "accessed": "2026-11-17", "type": "label" },
+   { "id": "s13", "title": "The 2026 Prohibited List (World Anti-Doping Code International Standard), English final, September 2025; copy hosted by the Hellenic Athletics Federation (SEGAS) because wada-ama.org blocks automated fetches", "publisher": "World Anti-Doping Agency", "url": "https://www.segas.gr/wp-content/uploads/2025/11/2026list_en_final_clean_september_2025.pdf", "publishedOrRevised": "2025-09 (in force 2026-01-01)", "accessed": "2026-11-17", "type": "regulator" },
+   { "id": "s14", "title": "Athlete Advisory: 2027 Prohibited List", "publisher": "U.S. Anti-Doping Agency", "url": "https://www.usada.org/spirit-of-sport/athlete-advisory-2027-prohibited-list/", "publishedOrRevised": "2026 (List in force 2027-01-01)", "accessed": "2026-11-17", "type": "regulator" }
+  ],
+  "lastReviewed": "2026-11-17",
+  "openQuestions": [
+   "Status category: set to approved_elsewhere because no clomiphene product is currently marketed in Canada (all DINs Cancelled Post Market); the dose row uses the archived 2013 Canadian Clomid monograph. Confirm this is the wanted category",
+   "Clomid DIN 02091879: DPD status date 2020-07-15 vs shortage database discontinuation date 2015-11-25 (both recorded)",
+   "Missed-dose instructions not found in the fetched text",
+   "WADA list was read from a federation-hosted copy because wada-ama.org blocks automated access; confirm against the WADA site"
+  ],
+  "listSourceIds": {
+   "indications": ["s1", "s10", "s11"],
+   "products": ["s1", "s2", "s3", "s4", "s5", "s6", "s7", "s10"],
+   "commonSideEffects": ["s1", "s11"],
+   "warnings": ["s1", "s11"],
+   "contraindications": ["s1"],
+   "interactions": ["s1"],
+   "specialPopulations": ["s1", "s11"]
+  }
+ },
+ {
+  "id": "anastrozole",
+  "names": { "generic": "anastrozole", "brands": ["Arimidex", "generics (for example Apo-Anastrozole)"] },
+  "class": "Non-steroidal aromatase inhibitor",
+  "group": "Hormones and related",
+  "usedFor": ["Breast cancer in postmenopausal women"],
+  "route": ["oral"],
+  "status": "approved_ca",
+  "statusDetail": {
+   "healthCanada": "Arimidex 1 mg tablet (DIN 02224135, AstraZeneca) marketed; original market date 1996-08-30. Generics: Apo-Anastrozole (DIN 02374420) marketed since 2012-10-25; a DPD brand search returns 30 anastrozole-named generic records (at least one, Teva-Anastrozole DIN 02313049, is Cancelled Post Market); status of the rest not individually checked.",
+   "fda": "Not re-verified in this Canada-focused pass.",
+   "other": "",
+   "checkedOn": "2026-11-17",
+   "sourceIds": ["s2", "s3", "s4", "s5", "s6"]
+  },
+  "indications": [
+   "Adjuvant treatment of postmenopausal women with hormone receptor positive early breast cancer",
+   "Hormonal treatment of advanced breast cancer in postmenopausal women",
+   "Use in men is not included in the Canadian monograph; its indications are limited to postmenopausal women, and it is not recommended in premenopausal women"
+  ],
+  "mechanism": "Potent, selective non-steroidal aromatase inhibitor; lowers serum estradiol without detectable effect on adrenal corticosteroid or aldosterone formation.",
+  "products": [
+   { "brand": "Arimidex", "din": "02224135", "strengths": ["1 mg tablet"], "device": "", "monographUrl": "https://pdf.hres.ca/dpd_pm/00078111.PDF", "monographDate": "2024-12-23" },
+   { "brand": "Apo-Anastrozole", "din": "02374420", "strengths": ["1 mg tablet"], "device": "", "monographUrl": "https://pdf.hres.ca/dpd_pm/00080822.PDF", "monographDate": "2025-06-13" }
+  ],
+  "deviceNotes": [],
+  "doseInfo": [
+   { "basis": "monograph", "population": "Postmenopausal women with breast cancer (adjuvant or advanced)", "regimen": "1 mg orally once a day, ideally at the same time each day", "maxDose": "1 mg once daily (the only listed dose)", "durationOrContext": "Adjuvant setting: treatment currently recommended for 5 years. No dose change for kidney impairment or mild-to-moderate liver impairment; not studied in severe liver impairment", "sourceIds": ["s1"] }
+  ],
+  "missedDose": { "text": "The monograph states a missed dose should be taken as soon as possible, as long as it is at least 12 hours before the next dose is due; it should not be taken within 12 hours of the next dose. (windowHours 12 is derived from the once-daily schedule minus the 12-hour rule.)", "windowHours": 12, "minHoursBeforeNextDose": 12, "minHoursBetweenDoses": null, "sourceIds": ["s1"] },
+  "storage": { "unopened": "Room temperature (15 to 30 C)", "inUse": "Same as unopened", "discardAfterDays": null, "sourceIds": ["s1"] },
+  "commonSideEffects": [
+   "Joint pain/stiffness about 35.9% (ATAC trial)",
+   "Hot flushes about 35.7%",
+   "Asthenia/fatigue about 18.7%",
+   "Arthritis about 16.6%; arthralgia about 15.1%",
+   "Common (1% to under 10%): bone pain, myalgia, carpal tunnel syndrome, vaginal dryness, hair thinning, rash, nausea, diarrhea, headache, raised liver enzymes"
+  ],
+  "warnings": [
+   "Serious warning: not recommended in premenopausal women; safety and efficacy not established",
+   "Bone: may reduce bone mineral density with possible increased fracture risk; osteoporosis risk is assessed and managed per local guidelines",
+   "Cholesterol: elevated serum cholesterol more common than with tamoxifen in ATAC (9% vs 3.5%); based on SABRE data no specific lipid monitoring is required",
+   "Heart: ischemic cardiovascular events reported more often than with tamoxifen (not statistically significant), mostly in patients with pre-existing ischemic heart disease",
+   "Depression: causal relation established in post-market data",
+   "Severe liver or kidney impairment: careful risk/benefit assessment",
+   "Use in men is not a Canadian monograph indication"
+  ],
+  "contraindications": [
+   "Hypersensitivity to anastrozole or any ingredient",
+   "Pregnant or lactating women"
+  ],
+  "interactions": [
+   "Tamoxifen: should not be co-administered (no benefit from the combination in ATAC)",
+   "Estrogen-containing therapies, including estrogen-containing herbal products: should not be used, as they counteract estrogen suppression",
+   "Warfarin: no clinically relevant effect on warfarin pharmacokinetics or anticoagulant activity",
+   "CYP enzymes: clinically significant inhibition of other drugs' metabolism at 1 mg is unlikely"
+  ],
+  "nutritionNotes": [],
+  "specialPopulations": [
+   "Pregnancy and breastfeeding: contraindicated",
+   "Premenopausal women: not recommended",
+   "Children: no pediatric indication authorized by Health Canada",
+   "Older adults: no differences in safety or effectiveness",
+   "Kidney: no dose change; liver: no change for mild-to-moderate, not studied in severe"
+  ],
+  "wada": "Aromatase inhibitors, including anastrozole, are prohibited at all times (in and out of competition) (2026 Prohibited List, S4.1 Hormone and metabolic modulators); no change to this listed for the 2027 List.",
+  "wadaSourceIds": ["s7", "s8"],
+  "evidenceLevel": "Approved, extensive use (for the labelled indications)",
+  "sources": [
+   { "id": "s1", "title": "ARIMIDEX (anastrozole tablets) Product Monograph", "publisher": "AstraZeneca Canada Inc. via Health Canada Drug Product Database", "url": "https://pdf.hres.ca/dpd_pm/00078111.PDF", "publishedOrRevised": "2024-12-23 (submission control 289564)", "accessed": "2026-11-17", "type": "monograph" },
+   { "id": "s2", "title": "Drug Product Database: Arimidex product information (drug code 43395)", "publisher": "Health Canada", "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=43395", "publishedOrRevised": "live database", "accessed": "2026-11-17", "type": "regulator" },
+   { "id": "s3", "title": "Drug Product Database API: brand name search 'arimidex'", "publisher": "Health Canada", "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&brandname=arimidex", "publishedOrRevised": "live database", "accessed": "2026-11-17", "type": "regulator" },
+   { "id": "s4", "title": "Drug Product Database API: brand name search 'anastrozole' (30 records)", "publisher": "Health Canada", "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&brandname=anastrozole", "publishedOrRevised": "live database", "accessed": "2026-11-17", "type": "regulator" },
+   { "id": "s5", "title": "Drug Product Database: Apo-Anastrozole product information (drug code 85968)", "publisher": "Health Canada", "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=85968", "publishedOrRevised": "live database", "accessed": "2026-11-17", "type": "regulator" },
+   { "id": "s6", "title": "Drug Product Database API: marketing status of drug code 79859 (Teva-Anastrozole)", "publisher": "Health Canada", "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=79859", "publishedOrRevised": "live database", "accessed": "2026-11-17", "type": "regulator" },
+   { "id": "s7", "title": "The 2026 Prohibited List (World Anti-Doping Code International Standard), English final, September 2025; copy hosted by the Hellenic Athletics Federation (SEGAS) because wada-ama.org blocks automated fetches", "publisher": "World Anti-Doping Agency", "url": "https://www.segas.gr/wp-content/uploads/2025/11/2026list_en_final_clean_september_2025.pdf", "publishedOrRevised": "2025-09 (in force 2026-01-01)", "accessed": "2026-11-17", "type": "regulator" },
+   { "id": "s8", "title": "Athlete Advisory: 2027 Prohibited List", "publisher": "U.S. Anti-Doping Agency", "url": "https://www.usada.org/spirit-of-sport/athlete-advisory-2027-prohibited-list/", "publishedOrRevised": "2026 (List in force 2027-01-01)", "accessed": "2026-11-17", "type": "regulator" }
+  ],
+  "lastReviewed": "2026-11-17",
+  "openQuestions": [
+   "Marketed status of the other 28 anastrozole generic DPD records not individually checked (DPD server errors); Apo-Anastrozole confirmed marketed, Teva-Anastrozole 02313049 cancelled",
+   "Apo-Anastrozole monograph (00080822, 2025-06-13) not opened; dose assumed identical to Arimidex but not verified from that document",
+   "WADA list was read from a federation-hosted copy because wada-ama.org blocks automated access; confirm against the WADA site"
+  ],
+  "listSourceIds": {
+   "indications": ["s1"],
+   "products": ["s1", "s2", "s4", "s5", "s6"],
+   "commonSideEffects": ["s1"],
+   "warnings": ["s1"],
+   "contraindications": ["s1"],
+   "interactions": ["s1"],
+   "specialPopulations": ["s1"]
+  }
+ }
+]

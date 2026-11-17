@@ -7,7 +7,7 @@ const STATUSES = ['approved_ca', 'approved_elsewhere', 'investigational', 'not_a
 function walk(o, fn) { if (Array.isArray(o)) o.forEach(x => walk(x, fn)); else if (o && typeof o === 'object') { fn(o); Object.values(o).forEach(x => walk(x, fn)); } }
 
 describe('reference.json', () => {
-  it('39 entries, unique ids', () => { assert.equal(ref.entries.length, 39); assert.equal(new Set(ref.entries.map(e => e.id)).size, 39); });
+  it('at least 39 entries, unique ids', () => { assert.ok(ref.entries.length >= 39); assert.equal(new Set(ref.entries.map(e => e.id)).size, ref.entries.length); });
   it('statuses are allowed values', () => { for (const e of ref.entries) assert.ok(STATUSES.includes(e.status), e.id); });
   it('every entry has http sources and no dangling source ids', () => {
     for (const e of ref.entries) {

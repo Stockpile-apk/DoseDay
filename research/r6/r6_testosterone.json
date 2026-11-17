@@ -1,0 +1,1190 @@
+[
+ {
+  "id": "testosterone-injection",
+  "names": {
+   "generic": "testosterone (cypionate, enanthate injection)",
+   "brands": [
+    "Taro-Testosterone Cypionate Injection",
+    "Testosterone Enanthate Injection, USP (Hikma)",
+    "Testosterone Cypionate Injection USP (SteriMax)"
+   ]
+  },
+  "class": "Androgen (testosterone ester, intramuscular)",
+  "group": "Hormones and related",
+  "usedFor": [
+   "Low testosterone in adult men (male hypogonadism)"
+  ],
+  "route": [
+   "intramuscular"
+  ],
+  "status": "approved_ca",
+  "statusDetail": {
+   "healthCanada": "Marketed: Taro-Testosterone Cypionate 100 mg/mL (DIN 02496003, marketed since 2020-10-20) and Hikma Testosterone Enanthate 200 mg/mL (DIN 02536315, marketed since 2024-01-30). Approved, not yet marketed: SteriMax Testosterone Cypionate 100 mg/mL (DIN 02570122, approved 2026-07-20). Dormant: SteriMax Testosterone Propionate 100 mg/mL (DIN 01977571, dormant since 2017-08-03; no electronic monograph). Cancelled post market: Depo-Testosterone 100 mg/mL (DIN 00030783, 2025-07-18), Delatestryl 200 mg/mL (DIN 00029246, 2025-12-18), SteriMax Testosterone Cypionate (DIN 01977601, 2025-03-11), Sandoz Testosterone Cypionate (DIN 02246063, 2021-03-25), PMS-Testosterone Enanthate (DIN 00739944, 2017-09-30), Taro Testosterone Enanthate (DIN 00716936, 2001-08-21), Taro Testosterone Propionate (DIN 00716944, 2001-08-21). All listed in DPD as Schedule: Controlled Drugs (CDSA IV). Testosterone is listed in Schedule IV of the Controlled Drugs and Substances Act, item 23 (anabolic steroids and their derivatives), subitem (40).",
+   "fda": "Not checked in R6 (Canada-focused pass).",
+   "other": "Note: the Hikma enanthate monograph calls testosterone 'a Schedule G controlled substance', while the DPD lists CDSA Schedule IV; both recorded.",
+   "checkedOn": "2026-11-17",
+   "sourceIds": [
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s2"
+   ]
+  },
+  "indications": [
+   "Testosterone replacement therapy in adult males for conditions associated with a deficiency or absence of endogenous testosterone (hypogonadism) (both marketed monographs)",
+   "Hikma enanthate monograph: hypogonadism confirmed by two separate morning testosterone assays; not indicated in women; not indicated under 18 (safety and efficacy not established)",
+   "No separate delayed-puberty indication in either monograph; the enanthate monograph gives a starting regimen for prepubertal-onset hypogonadism and the cypionate monograph advises caution in males with hypogonadism causing delayed puberty"
+  ],
+  "mechanism": "Long-acting testosterone ester in oil, given by deep intramuscular injection; replaces testosterone the body is not making.",
+  "products": [
+   {
+    "brand": "Taro-Testosterone Cypionate Injection (Taro)",
+    "din": "02496003",
+    "strengths": [
+     "testosterone cypionate 100 mg/mL"
+    ],
+    "device": "10 mL multidose vial; in cottonseed oil with benzyl alcohol 9.45 mg/mL (preservative) and benzyl benzoate",
+    "monographUrl": "https://pdf.hres.ca/dpd_pm/00066102.PDF",
+    "monographDate": "2022-05-26",
+    "marketedStatus": "Marketed (since 2020-10-20)"
+   },
+   {
+    "brand": "Testosterone Enanthate Injection, USP (Hikma)",
+    "din": "02536315",
+    "strengths": [
+     "testosterone enanthate 200 mg/mL"
+    ],
+    "device": "5 mL glass vial; in sesame oil with 0.5% chlorobutanol (preservative)",
+    "monographUrl": "https://pdf.hres.ca/dpd_pm/00071616.PDF",
+    "monographDate": "2023-03-17",
+    "marketedStatus": "Marketed (since 2024-01-30)"
+   },
+   {
+    "brand": "Testosterone Cypionate Injection USP (SteriMax)",
+    "din": "02570122",
+    "strengths": [
+     "testosterone cypionate 100 mg/mL"
+    ],
+    "device": "Not verified (monograph not fetched)",
+    "monographUrl": "https://pdf.hres.ca/dpd_pm/00085464.PDF",
+    "monographDate": "2026-07-20",
+    "marketedStatus": "Approved, not marketed (status date 2026-07-20)"
+   },
+   {
+    "brand": "Testosterone Propionate Injection, USP (SteriMax)",
+    "din": "01977571",
+    "strengths": [
+     "testosterone propionate 100 mg/mL"
+    ],
+    "device": "Multidose vial (per DPD)",
+    "monographUrl": "",
+    "monographDate": "",
+    "marketedStatus": "Dormant (since 2017-08-03); DPD states no electronic monograph is available"
+   }
+  ],
+  "deviceNotes": [
+   "Cypionate (Taro): intramuscular use only, not for intravenous use; vial stopper not made with natural rubber latex",
+   "Enanthate (Hikma): injected deeply into the gluteal muscle; vial stopper not made with natural rubber latex"
+  ],
+  "doseInfo": [
+   {
+    "basis": "monograph",
+    "population": "Adult hypogonadal males: testosterone cypionate (Taro-Testosterone Cypionate)",
+    "regimen": "200 mg intramuscularly every two weeks",
+    "maxDose": "400 mg per month",
+    "durationOrContext": "Replacement therapy; serum testosterone monitored on a regular basis",
+    "sourceIds": [
+     "s1"
+    ]
+   },
+   {
+    "basis": "monograph",
+    "population": "Adult hypogonadal males: testosterone enanthate (Hikma)",
+    "regimen": "Usual dose 100 to 400 mg every four weeks. The monograph also cites 50 to 100 mg every 7 to 10 days for complete replacement, and 100 to 150 mg every 2 weeks as 'a reasonable compromise'; 300 mg every 3 weeks is described as generally inadequate for a consistent response.",
+    "maxDose": "No explicit maximum; 'In general, total doses above 400 mg per month are not required'; injections more often than every two weeks are rarely indicated",
+    "durationOrContext": "Deep intramuscular injection into the gluteal muscle",
+    "sourceIds": [
+     "s2"
+    ]
+   },
+   {
+    "basis": "monograph",
+    "population": "Prepubertal-onset hypogonadism: testosterone enanthate (Hikma)",
+    "regimen": "Started at 50 mg every 3 to 4 weeks, increased as tolerated to full replacement within 1 year",
+    "maxDose": "As for adult replacement",
+    "durationOrContext": "Enanthate monograph also lists 50 to 100 mg every 2 weeks as an initial regimen in men with benign prostatic hypertrophy",
+    "sourceIds": [
+     "s2"
+    ]
+   }
+  ],
+  "missedDose": {
+   "text": "Both monographs state a missed dose is given as soon as possible; if it is almost time for the next dose, the missed dose is skipped and the regular schedule resumed; doses are not doubled. No hour cut-off is given.",
+   "windowHours": null,
+   "minHoursBeforeNextDose": null,
+   "minHoursBetweenDoses": null,
+   "sourceIds": [
+    "s1",
+    "s2"
+   ]
+  },
+  "storage": {
+   "unopened": "Cypionate (Taro): room temperature 15 to 30 C, protect from light. Enanthate (Hikma): controlled room temperature 15 to 30 C.",
+   "inUse": "Cypionate (Taro): discard within 56 days of initial use. Enanthate (Hikma): monograph gives no after-first-use instruction.",
+   "discardAfterDays": 56,
+   "sourceIds": [
+    "s1",
+    "s2"
+   ]
+  },
+  "commonSideEffects": [
+   "No percentages given: the enanthate monograph states frequencies cannot be reliably estimated and clinical-trial data are not available",
+   "Listed androgen reactions: injection-site inflammation and pain; acne, seborrhea, hirsutism, male-pattern baldness; gynecomastia; prolonged erections; oligospermia; libido changes, headache, anxiety, depression, paresthesia; nausea; fluid and electrolyte retention; polycythemia; liver test changes and cholestatic jaundice; hypersensitivity",
+   "Post-market reports include pulmonary embolism, deep vein thrombosis, hypertension and chorioretinopathy"
+  ],
+  "warnings": [
+   "Neither marketed injection monograph has a boxed Serious Warnings section",
+   "Polycythemia: hemoglobin and hematocrit should be checked periodically; no hematocrit cut-off is stated",
+   "Blood pressure: testosterone may increase blood pressure; use with caution in hypertension",
+   "Cardiovascular: post-market studies suggest increased risk of serious cardiovascular events such as myocardial infarction and stroke",
+   "Venous thromboembolism: pulmonary embolism and deep vein thrombosis appear in the post-market adverse reaction tables (no separate narrative warning in these two monographs)",
+   "Abuse and dependence: testosterone has been abused, typically at doses higher than recommended; anabolic steroid abuse can cause serious psychiatric and cardiovascular effects, which may be fatal; supratherapeutic use may cause withdrawal symptoms lasting weeks or months (cypionate); 'habituation (dependence)' listed (enanthate)",
+   "Suppression of own production and sperm: endogenous testosterone release may be inhibited through feedback inhibition of pituitary LH, and spermatogenesis may be suppressed through feedback inhibition of FSH (enanthate monograph); oligospermia may occur after prolonged administration or excessive dosage (both)",
+   "Edema, with or without congestive heart failure, may be a serious complication",
+   "Liver: peliosis hepatis can be life-threatening or fatal; hepatic adenomas reported",
+   "Sleep apnea may be potentiated, particularly with obesity or chronic lung disease",
+   "Prostate: increased risk of prostatic hyperplasia and prostatic carcinoma (enanthate monograph)",
+   "Monitoring listed: serum testosterone on a regular basis; hemoglobin and hematocrit; PSA and digital rectal exam; lipid profile; liver function tests; diabetics followed carefully"
+  ],
+  "contraindications": [
+   "Known or suspected carcinoma of the prostate or breast in men",
+   "Not indicated in women; enanthate monograph: contraindicated in women, including pregnant or nursing women",
+   "Known hypersensitivity to any ingredient"
+  ],
+  "interactions": [
+   "Oral anticoagulants: androgens may increase sensitivity; anticoagulant dose may need reduction and close monitoring when androgens are started or stopped",
+   "Insulin and other diabetes medicines: androgens may decrease blood glucose and insulin requirements",
+   "ACTH or corticosteroids: may enhance edema formation",
+   "Propranolol: testosterone cypionate increased propranolol clearance in most men tested (enanthate monograph)",
+   "Thyroid tests: androgens may decrease thyroxine-binding globulin",
+   "Herbal products may interfere with steroid metabolism and lower plasma testosterone"
+  ],
+  "nutritionNotes": [],
+  "specialPopulations": [
+   "Women: not indicated (enanthate: contraindicated, including pregnancy and nursing)",
+   "Under 18: not indicated (safety and efficacy not established)",
+   "Over 65: limited controlled data",
+   "Diabetes: glucose and insulin needs may change"
+  ],
+  "wada": "Prohibited at all times (in- and out-of-competition): testosterone is listed under S1 Anabolic Agents on the WADA 2026 Prohibited List (in effect 1 January 2026).",
+  "evidenceLevel": "Approved, extensive use",
+  "sources": [
+   {
+    "id": "s1",
+    "title": "TARO-TESTOSTERONE CYPIONATE INJECTION (testosterone cypionate 100 mg/mL) Product Monograph",
+    "publisher": "Taro Pharmaceuticals Inc. via Health Canada DPD",
+    "url": "https://pdf.hres.ca/dpd_pm/00066102.PDF",
+    "publishedOrRevised": "2022-05-26",
+    "accessed": "2026-11-17",
+    "type": "monograph"
+   },
+   {
+    "id": "s2",
+    "title": "Testosterone Enanthate Injection, USP 200 mg/mL Product Monograph",
+    "publisher": "Hikma Canada Limited via Health Canada DPD",
+    "url": "https://pdf.hres.ca/dpd_pm/00071616.PDF",
+    "publishedOrRevised": "2023-03-17",
+    "accessed": "2026-11-17",
+    "type": "monograph"
+   },
+   {
+    "id": "s3",
+    "title": "Drug Product Database: Taro-Testosterone Cypionate Injection (drug code 98589)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=98589",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s4",
+    "title": "Drug Product Database: Testosterone Enanthate Injection, USP, Hikma (drug code 102510)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=102510",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s5",
+    "title": "Drug Product Database: Testosterone Cypionate Injection USP, SteriMax (drug code 107230)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=107230",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s6",
+    "title": "Drug Product Database API: status of Depo-Testosterone (drug code 1398)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=1398",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s7",
+    "title": "Drug Product Database: Delatestryl (drug code 1275)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=1275",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s8",
+    "title": "Drug Product Database API: brand name search 'testosterone'",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&brandname=testosterone",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s9",
+    "title": "Drug Product Database: Testosterone Propionate Injection, USP, SteriMax (drug code 13414)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=13414",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s10",
+    "title": "Controlled Drugs and Substances Act (S.C. 1996, c. 19), Schedule IV, item 23 (Anabolic steroids and their derivatives), subitem (40) Testosterone",
+    "publisher": "Government of Canada, Justice Laws Website",
+    "url": "https://laws-lois.justice.gc.ca/eng/acts/C-38.8/FullText.html",
+    "publishedOrRevised": "Current to 2026-10-19; last amended 2026-10-01",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s11",
+    "title": "World Anti-Doping Code: The 2026 Prohibited List (S1 Anabolic Agents)",
+    "publisher": "World Anti-Doping Agency",
+    "url": "https://www.wada-ama.org/en/prohibited-list",
+    "publishedOrRevised": "In effect 2026-01-01",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s12",
+    "title": "The 2026 Prohibited List (verbatim copy of the WADA PDF, used because wada-ama.org blocked automated access)",
+    "publisher": "World Anti-Doping Agency (copy hosted by SEGAS, Hellenic Athletics Federation)",
+    "url": "https://www.segas.gr/wp-content/uploads/2025/11/2026list_en_final_clean_september_2025.pdf",
+    "publishedOrRevised": "September 2025; in effect 2026-01-01",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s13",
+    "title": "Drug Product Database API: status of SteriMax Testosterone Cypionate (drug code 13410)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=13410",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s14",
+    "title": "Drug Product Database API: status of Sandoz Testosterone Cypionate (drug code 70198)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=70198",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s15",
+    "title": "Drug Product Database API: status of PMS-Testosterone Enanthate (drug code 11224)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=11224",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s16",
+    "title": "Drug Product Database API: status of Taro Testosterone Enanthate (drug code 9450)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=9450",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s17",
+    "title": "Drug Product Database: Taro Testosterone Propionate (drug code 9805)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=9805",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   }
+  ],
+  "lastReviewed": "2026-11-17",
+  "openQuestions": [
+   "SteriMax cypionate (DIN 02570122) monograph 00085464 not fetched: vial size, dose and storage not verified; product is approved but not yet marketed",
+   "Hikma enanthate monograph gives no storage period after first vial puncture",
+   "No hematocrit cut-off for interrupting therapy is stated in either marketed injection monograph",
+   "Monographs describe testosterone as 'Schedule G' (Food and Drugs Act) while DPD and the CDSA list it in Schedule IV; both recorded, not reconciled",
+   "The Depo-Testosterone monograph was not reviewed because the product is cancelled post market (DPD lists lot expiry 2026-11-30)",
+   "WADA list read from a verbatim copy hosted by a national federation; wada-ama.org blocked automated access"
+  ],
+  "listSourceIds": {
+   "indications": [
+    "s1",
+    "s2"
+   ],
+   "products": [
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s9"
+   ],
+   "commonSideEffects": [
+    "s1",
+    "s2"
+   ],
+   "warnings": [
+    "s1",
+    "s2"
+   ],
+   "contraindications": [
+    "s1",
+    "s2"
+   ],
+   "interactions": [
+    "s1",
+    "s2"
+   ],
+   "specialPopulations": [
+    "s2"
+   ],
+   "wada": [
+    "s11",
+    "s12"
+   ],
+   "deviceNotes": [
+    "s1",
+    "s2"
+   ]
+  }
+ },
+ {
+  "id": "testosterone-topical",
+  "names": {
+   "generic": "testosterone (transdermal gel)",
+   "brands": [
+    "AndroGel",
+    "Testim 1%",
+    "Taro-Testosterone Gel"
+   ]
+  },
+  "class": "Androgen (transdermal testosterone gel)",
+  "group": "Hormones and related",
+  "usedFor": [
+   "Low testosterone in adult men (male hypogonadism)"
+  ],
+  "route": [
+   "transdermal"
+  ],
+  "status": "approved_ca",
+  "statusDetail": {
+   "healthCanada": "Marketed gels: AndroGel 1% unit-dose packets (DINs 02245345 and 02245346, marketed since 2002-05-06) and AndroGel 1% pump 12.5 mg/actuation (DIN 02249499, marketed since 2004-09-20); Testim 1% 5 g tube (DIN 02280248, marketed, first marketed 2007-04-17); Taro-Testosterone Gel 1% 2.5 g and 5 g packets (DINs 02463792 and 02463806, marketed since 2017-10-31). Cancelled post market: Androderm patches (DIN 02239653, cancelled 2022-04-14; DIN 02245972, cancelled 2021-12-13); Axiron 30 mg/actuation topical solution (DIN 02382369, cancelled 2017-12-04). No testosterone patch is currently marketed in Canada per DPD. All gels listed in DPD as Controlled Drugs (CDSA IV); testosterone is in CDSA Schedule IV, item 23, subitem (40). Separately, Natesto 4.5% nasal gel (DIN 02450550) is marketed but is intranasal, not skin-applied, and is not covered here.",
+   "fda": "Not checked in R6 (Canada-focused pass).",
+   "other": "AndroGel monograph calls testosterone 'a Schedule G controlled substance as defined by the Food and Drugs Act'; DPD lists CDSA IV. Both recorded.",
+   "checkedOn": "2026-11-17",
+   "sourceIds": [
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s1"
+   ]
+  },
+  "indications": [
+   "Testosterone replacement therapy in adult males for conditions associated with a deficiency or absence of endogenous testosterone (hypogonadism) (AndroGel, Testim 1%, Taro-Testosterone Gel)",
+   "Not indicated in women; not indicated under 18 (AndroGel)"
+  ],
+  "mechanism": "Alcohol-based 1% testosterone gel absorbed through the skin once daily, giving steady testosterone replacement.",
+  "products": [
+   {
+    "brand": "AndroGel (BGP Pharma)",
+    "din": "02245345",
+    "strengths": [
+     "testosterone 1% gel"
+    ],
+    "device": "Unit-dose packet (monograph lists 2.5 g = 25 mg and 5 g = 50 mg packets, cartons of 30; DPD page for this DIN does not state packet size)",
+    "monographUrl": "https://pdf.hres.ca/dpd_pm/00081277.PDF",
+    "monographDate": "2025-08-01",
+    "marketedStatus": "Marketed"
+   },
+   {
+    "brand": "AndroGel (BGP Pharma)",
+    "din": "02245346",
+    "strengths": [
+     "testosterone 1% gel, 5 g packet (50 mg)"
+    ],
+    "device": "Unit-dose packet, 5 g",
+    "monographUrl": "https://pdf.hres.ca/dpd_pm/00081277.PDF",
+    "monographDate": "2025-08-01",
+    "marketedStatus": "Marketed"
+   },
+   {
+    "brand": "AndroGel pump (BGP Pharma)",
+    "din": "02249499",
+    "strengths": [
+     "testosterone 12.5 mg per actuation (1% gel)"
+    ],
+    "device": "Metered pump; each full actuation delivers 1.25 g of gel",
+    "monographUrl": "https://pdf.hres.ca/dpd_pm/00081277.PDF",
+    "monographDate": "2025-08-01",
+    "marketedStatus": "Marketed (since 2004-09-20)"
+   },
+   {
+    "brand": "Testim 1% (Knight Therapeutics)",
+    "din": "02280248",
+    "strengths": [
+     "testosterone 1% gel, 5 g tube (50 mg)"
+    ],
+    "device": "5 g unit-dose tube",
+    "monographUrl": "https://pdf.hres.ca/dpd_pm/00083203.PDF",
+    "monographDate": "2026-01-16",
+    "marketedStatus": "Marketed"
+   },
+   {
+    "brand": "Taro-Testosterone Gel (Taro)",
+    "din": "02463792",
+    "strengths": [
+     "testosterone 1% gel, 2.5 g packet (25 mg)"
+    ],
+    "device": "Unit-dose aluminum foil packet, cartons of 30",
+    "monographUrl": "https://pdf.hres.ca/dpd_pm/00084168.PDF",
+    "monographDate": "2026-03-25",
+    "marketedStatus": "Marketed (since 2017-10-31)"
+   },
+   {
+    "brand": "Taro-Testosterone Gel (Taro)",
+    "din": "02463806",
+    "strengths": [
+     "testosterone 1% gel, 5 g packet (50 mg)"
+    ],
+    "device": "Unit-dose aluminum foil packet, cartons of 30",
+    "monographUrl": "https://pdf.hres.ca/dpd_pm/00084168.PDF",
+    "monographDate": "2026-03-25",
+    "marketedStatus": "Marketed (since 2017-10-31)"
+   }
+  ],
+  "deviceNotes": [
+   "Gel contains alcohol and is flammable; fire, flames or smoking avoided until the gel has dried (AndroGel)",
+   "AndroGel pump: each full actuation delivers 1.25 g of gel (12.5 mg testosterone per DPD)",
+   "Taro-Testosterone Gel was compared with AndroGel 1% in a bioequivalence study in 76 hypogonadal men (monograph)"
+  ],
+  "doseInfo": [
+   {
+    "basis": "monograph",
+    "population": "Adult hypogonadal males: AndroGel and Taro-Testosterone Gel",
+    "regimen": "Starting and usual dose 5 g gel (50 mg testosterone) once daily in the morning, on clean, dry, intact skin of the shoulders and upper arms and/or abdomen. Serum testosterone measured after starting; if response is inadequate or levels are below normal the dose may be raised from 5 g to 7.5 g, then to 10 g; lowered if above normal; stopped if levels stay above normal at 5 g (50 mg).",
+    "maxDose": "10 g gel (100 mg testosterone) daily",
+    "durationOrContext": "No specific day for the first serum check is given in the AndroGel monograph",
+    "sourceIds": [
+     "s1",
+     "s3"
+    ]
+   },
+   {
+    "basis": "monograph",
+    "population": "Adult hypogonadal males: Testim 1%",
+    "regimen": "Starting dose 5 g gel (one tube, 50 mg testosterone) once daily to the shoulders and/or upper arms only. Morning serum testosterone measured about 7 to 14 days after starting; dose may be increased from 5 g (one tube) to 10 g (two tubes) if levels are below normal.",
+    "maxDose": "100 mg testosterone (10 g gel) per day",
+    "durationOrContext": "Long-term replacement",
+    "sourceIds": [
+     "s2"
+    ]
+   }
+  ],
+  "missedDose": {
+   "text": "AndroGel and Taro-Testosterone Gel: if more than 12 hours remain until the next dose, the missed dose is applied when remembered; if less than 12 hours remain, it is skipped; doses are never doubled. Testim 1%: a missed dose is applied only if the next scheduled dose is more than 12 hours away.",
+   "windowHours": null,
+   "minHoursBeforeNextDose": 12,
+   "minHoursBetweenDoses": null,
+   "sourceIds": [
+    "s1",
+    "s2",
+    "s3"
+   ]
+  },
+  "storage": {
+   "unopened": "AndroGel and Taro-Testosterone Gel: controlled room temperature 15 to 30 C. Testim 1%: room temperature 15 to 30 C.",
+   "inUse": "Single-use packets and tubes; pump stored as above",
+   "discardAfterDays": null,
+   "sourceIds": [
+    "s1",
+    "s2",
+    "s3"
+   ]
+  },
+  "applicationRules": {
+   "items": [
+    "Sites: AndroGel and Taro gel on shoulders and upper arms and/or abdomen; Testim only on shoulders and/or upper arms; never on the scrotum",
+    "Hands washed thoroughly with soap and water right after applying",
+    "Application site covered with clean clothing (such as a T-shirt) once the gel has dried",
+    "Wait before showering or bathing: at least 1 hour for AndroGel and Taro gel (AndroGel patient information also says 1 hour before swimming); at least 2 hours for Testim"
+   ],
+   "sourceIds": [
+    "s1",
+    "s2",
+    "s3"
+   ]
+  },
+  "commonSideEffects": [
+   "AndroGel: enlarged prostate 11.9% (most frequent adverse reaction); in the 180-day controlled trial acne 1 to 8%, lab abnormalities 3 to 6%, application-site reactions 3 to 5%, prostate disorders 3 to 5%; in the 3-year extension enlarged prostate 11.7%, application-site reactions 5.6%, acne 3.1%; serum PSA increases in about 18% of patients",
+   "Testim 1% (clinical trials, Table 1): increased PSA 4.3%, application-site erythema 4.1%, increased hematocrit 3.9%, increased hemoglobin 3.7%",
+   "Post-market reports include pulmonary embolism and deep vein thrombosis (Testim)"
+  ],
+  "warnings": [
+   "Boxed Serious Warning (AndroGel, Taro-Testosterone Gel): secondary exposure. Virilization has been reported in children secondarily exposed to testosterone, including AndroGel; children should avoid contact with unwashed or unclothed application sites; patients should strictly follow the instructions for use",
+   "Testim 1% serious warning: gel can transfer to another person through skin-to-skin contact; signs of puberty reported in exposed children; children kept away from unwashed or unclothed application sites and from unwashed clothing or fabrics exposed to the gel",
+   "Transfer to women: secondary exposure can occur in women and children; if a woman's skin contacts the site, the area is washed immediately with soap and water; pregnant and nursing women should avoid skin contact with application sites",
+   "Polycythemia: hemoglobin and hematocrit checked periodically; dose adjustment or stopping until values normalize may be needed (no hematocrit cut-off stated)",
+   "Blood pressure: testosterone may increase blood pressure; caution in hypertension",
+   "Cardiovascular: post-market studies suggest increased risk of serious cardiovascular events",
+   "Venous thromboembolism: caution with thrombophilia or risk factors for VTE; VTE including DVT and PE listed (AndroGel)",
+   "Controlled substance: the AndroGel monograph describes testosterone as 'a Schedule G controlled substance as defined by the Food and Drugs Act' (DPD lists CDSA IV); detailed abuse and dependence wording was not extracted from the gel monographs",
+   "Suppression of sperm production: with large doses of exogenous androgens, including AndroGel, spermatogenesis may be reversibly suppressed through feedback inhibition of FSH; Testim: oligospermia may occur after prolonged administration or excessive dosage",
+   "Monitoring listed: serum testosterone after starting (Testim: about 7 to 14 days); hemoglobin and hematocrit; PSA and digital rectal exam (AndroGel)"
+  ],
+  "contraindications": [
+   "Known or suspected carcinoma of the prostate or breast in men",
+   "Not indicated in women; pregnant and nursing women should avoid skin contact with application sites",
+   "Known hypersensitivity to testosterone or any ingredient"
+  ],
+  "interactions": [
+   "Oral anticoagulants: androgens may increase sensitivity",
+   "Insulin and other diabetes medicines: dose reduction may be needed",
+   "Corticosteroids: may enhance edema formation",
+   "Propranolol: increased clearance seen with injectable testosterone; unknown whether it applies to AndroGel"
+  ],
+  "nutritionNotes": [],
+  "specialPopulations": [
+   "Women: not indicated; pregnant and nursing women avoid contact with application sites",
+   "Children: not indicated under 18; risk of virilization from secondary exposure"
+  ],
+  "wada": "Prohibited at all times (in- and out-of-competition): testosterone is listed under S1 Anabolic Agents on the WADA 2026 Prohibited List (in effect 1 January 2026).",
+  "evidenceLevel": "Approved, extensive use",
+  "sources": [
+   {
+    "id": "s1",
+    "title": "ANDROGEL (testosterone gel 1%) Product Monograph",
+    "publisher": "BGP Pharma ULC via Health Canada DPD",
+    "url": "https://pdf.hres.ca/dpd_pm/00081277.PDF",
+    "publishedOrRevised": "2025-08-01",
+    "accessed": "2026-11-17",
+    "type": "monograph"
+   },
+   {
+    "id": "s2",
+    "title": "TESTIM 1% (testosterone gel) Product Monograph",
+    "publisher": "Knight Therapeutics Inc. via Health Canada DPD",
+    "url": "https://pdf.hres.ca/dpd_pm/00083203.PDF",
+    "publishedOrRevised": "2026-01-16",
+    "accessed": "2026-11-17",
+    "type": "monograph"
+   },
+   {
+    "id": "s3",
+    "title": "TARO-TESTOSTERONE GEL (testosterone gel 1%) Product Monograph",
+    "publisher": "Taro Pharmaceuticals Inc. via Health Canada DPD",
+    "url": "https://pdf.hres.ca/dpd_pm/00084168.PDF",
+    "publishedOrRevised": "2026-03-25",
+    "accessed": "2026-11-17",
+    "type": "monograph"
+   },
+   {
+    "id": "s4",
+    "title": "Drug Product Database: AndroGel (drug code 69384)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=69384",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s5",
+    "title": "Drug Product Database: AndroGel (drug code 69385)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=69385",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s6",
+    "title": "Drug Product Database: AndroGel pump (drug code 73432)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=73432",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s7",
+    "title": "Drug Product Database: Testim 1% (drug code 76591)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=76591",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s8",
+    "title": "Drug Product Database API: status of Testim 1% (drug code 76591)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=76591",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s9",
+    "title": "Drug Product Database: Taro-Testosterone Gel 2.5 g (drug code 95189)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=95189",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s10",
+    "title": "Drug Product Database: Taro-Testosterone Gel 5 g (drug code 95190)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=95190",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s11",
+    "title": "Drug Product Database API: status of Androderm (drug code 63125)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=63125",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s12",
+    "title": "Drug Product Database API: status of Androderm (drug code 70098)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=70098",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s13",
+    "title": "Drug Product Database: Axiron (drug code 86820)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=86820",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s14",
+    "title": "Drug Product Database: Natesto nasal gel (drug code 93671)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=93671",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s15",
+    "title": "Controlled Drugs and Substances Act (S.C. 1996, c. 19), Schedule IV, item 23 (Anabolic steroids and their derivatives), subitem (40) Testosterone",
+    "publisher": "Government of Canada, Justice Laws Website",
+    "url": "https://laws-lois.justice.gc.ca/eng/acts/C-38.8/FullText.html",
+    "publishedOrRevised": "Current to 2026-10-19; last amended 2026-10-01",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s16",
+    "title": "World Anti-Doping Code: The 2026 Prohibited List (S1 Anabolic Agents)",
+    "publisher": "World Anti-Doping Agency",
+    "url": "https://www.wada-ama.org/en/prohibited-list",
+    "publishedOrRevised": "In effect 2026-01-01",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s17",
+    "title": "The 2026 Prohibited List (verbatim copy of the WADA PDF, used because wada-ama.org blocked automated access)",
+    "publisher": "World Anti-Doping Agency (copy hosted by SEGAS, Hellenic Athletics Federation)",
+    "url": "https://www.segas.gr/wp-content/uploads/2025/11/2026list_en_final_clean_september_2025.pdf",
+    "publishedOrRevised": "September 2025; in effect 2026-01-01",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   }
+  ],
+  "lastReviewed": "2026-11-17",
+  "openQuestions": [
+   "AndroGel DIN 02245345: DPD page does not state packet size (presumably the 2.5 g packet; not confirmed)",
+   "AndroGel monograph gives no specific day for the first serum testosterone check",
+   "No hematocrit cut-off for interrupting therapy stated in the gel monographs",
+   "Testim percentages taken from monograph Table 1; comparator arm figures not recorded",
+   "Natesto (intranasal testosterone gel, marketed) is out of scope for this entry and has no entry yet",
+   "Monograph 'Schedule G' wording vs DPD/CDSA Schedule IV recorded, not reconciled",
+   "WADA list read from a verbatim copy hosted by a national federation; wada-ama.org blocked automated access",
+   "Abuse and dependence section text of the gel monographs not extracted"
+  ],
+  "listSourceIds": {
+   "indications": [
+    "s1",
+    "s2",
+    "s3"
+   ],
+   "products": [
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s9",
+    "s10"
+   ],
+   "commonSideEffects": [
+    "s1",
+    "s2"
+   ],
+   "warnings": [
+    "s1",
+    "s2",
+    "s3"
+   ],
+   "contraindications": [
+    "s1",
+    "s2"
+   ],
+   "interactions": [
+    "s1"
+   ],
+   "specialPopulations": [
+    "s1",
+    "s2"
+   ],
+   "wada": [
+    "s16",
+    "s17"
+   ],
+   "deviceNotes": [
+    "s1",
+    "s3",
+    "s6"
+   ]
+  }
+ },
+ {
+  "id": "testosterone-undecanoate-oral",
+  "names": {
+   "generic": "testosterone undecanoate (oral)",
+   "brands": [
+    "Taro-Testosterone",
+    "Kyzatrex"
+   ]
+  },
+  "class": "Androgen (oral testosterone ester)",
+  "group": "Hormones and related",
+  "usedFor": [
+   "Low testosterone in adult men (male hypogonadism)"
+  ],
+  "route": [
+   "oral"
+  ],
+  "status": "approved_ca",
+  "statusDetail": {
+   "healthCanada": "Marketed: Taro-Testosterone 40 mg capsules (DIN 02421186, marketed since 2014-09-02); Kyzatrex 150 mg capsules (DIN 02562731, marketed since 2026-09-03). Approved, not marketed: Kyzatrex 100 mg (DIN 02562723) and 200 mg (DIN 02562758); Tlando 112.5 mg capsules (DIN 02572036, approved 2026-09-29). Dormant: PMS-Testosterone 40 mg (DIN 02322498, dormant since 2025-08-01). Cancelled post market: Andriol 40 mg (DIN 00782327, 2018-01-29). All listed in DPD as Controlled Drugs (CDSA IV); testosterone is in CDSA Schedule IV, item 23, subitem (40).",
+   "fda": "Not checked in R6 (Canada-focused pass).",
+   "other": "",
+   "checkedOn": "2026-11-17",
+   "sourceIds": [
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11"
+   ]
+  },
+  "indications": [
+   "Testosterone replacement therapy in adult males for conditions associated with a deficiency or absence of endogenous testosterone (hypogonadism) (Taro-Testosterone, Kyzatrex)",
+   "Kyzatrex: deficiency confirmed by two separate morning biochemical assays before starting",
+   "Not indicated in women or under 18 (Taro-Testosterone)"
+  ],
+  "mechanism": "Oral testosterone ester (undecanoate) taken twice daily with a meal; the Kyzatrex monograph states dietary fat enhances its absorption.",
+  "products": [
+   {
+    "brand": "Taro-Testosterone (Taro)",
+    "din": "02421186",
+    "strengths": [
+     "testosterone undecanoate 40 mg capsule"
+    ],
+    "device": "Capsule in blister (kept in outer carton)",
+    "monographUrl": "https://pdf.hres.ca/dpd_pm/00048154.PDF",
+    "monographDate": "2018-10-25",
+    "marketedStatus": "Marketed (since 2014-09-02)"
+   },
+   {
+    "brand": "Kyzatrex (Hikma)",
+    "din": "02562731",
+    "strengths": [
+     "testosterone undecanoate 150 mg capsule"
+    ],
+    "device": "Bottle of 120 capsules",
+    "monographUrl": "https://pdf.hres.ca/dpd_pm/00085237.PDF",
+    "monographDate": "2026-06-30",
+    "marketedStatus": "Marketed (since 2026-09-03)"
+   },
+   {
+    "brand": "Kyzatrex (Hikma)",
+    "din": "02562723",
+    "strengths": [
+     "testosterone undecanoate 100 mg capsule"
+    ],
+    "device": "Bottle of 120 capsules",
+    "monographUrl": "https://pdf.hres.ca/dpd_pm/00085237.PDF",
+    "monographDate": "2026-06-30",
+    "marketedStatus": "Approved, not marketed (status date 2026-07-02)"
+   },
+   {
+    "brand": "Kyzatrex (Hikma)",
+    "din": "02562758",
+    "strengths": [
+     "testosterone undecanoate 200 mg capsule"
+    ],
+    "device": "Bottles of 120 or 60 capsules",
+    "monographUrl": "https://pdf.hres.ca/dpd_pm/00085237.PDF",
+    "monographDate": "2026-06-30",
+    "marketedStatus": "Approved, not marketed (status date 2026-06-30)"
+   },
+   {
+    "brand": "Tlando (Verity)",
+    "din": "02572036",
+    "strengths": [
+     "testosterone undecanoate 112.5 mg capsule"
+    ],
+    "device": "Not verified (monograph could not be fetched)",
+    "monographUrl": "https://pdf.hres.ca/dpd_pm/00086274.PDF",
+    "monographDate": "2026-09-29",
+    "marketedStatus": "Approved, not marketed (status date 2026-09-29)"
+   },
+   {
+    "brand": "PMS-Testosterone (Pharmascience)",
+    "din": "02322498",
+    "strengths": [
+     "testosterone undecanoate 40 mg capsule"
+    ],
+    "device": "Capsule",
+    "monographUrl": "https://pdf.hres.ca/dpd_pm/00043723.PDF",
+    "monographDate": "2018-01-22",
+    "marketedStatus": "Dormant (since 2025-08-01)"
+   }
+  ],
+  "deviceNotes": [
+   "Capsules swallowed whole without chewing (Taro-Testosterone, Kyzatrex)"
+  ],
+  "doseInfo": [
+   {
+    "basis": "monograph",
+    "population": "Adult hypogonadal males: Taro-Testosterone 40 mg capsules",
+    "regimen": "Initial 120 to 160 mg daily, divided into two doses (morning and evening), for 2 to 3 weeks; then 40 to 120 mg daily based on testosterone levels and/or clinical effect",
+    "maxDose": "160 mg daily (top of the initial range)",
+    "durationOrContext": "Bioavailable or calculated free testosterone measured about 5 hours after a capsule dose",
+    "sourceIds": [
+     "s1"
+    ]
+   },
+   {
+    "basis": "monograph",
+    "population": "Adult hypogonadal males: Kyzatrex",
+    "regimen": "Start 200 mg twice daily (morning and evening) with meals. Serum testosterone checked 7 days after starting or after any dose change, 3 to 5 hours after the morning dose: below 460 ng/dL the dose is stepped up; 460 to 971 ng/dL no change; above 971 ng/dL the dose is stepped down; at the lowest step (100 mg once daily in the morning) treatment is discontinued if still above 971 ng/dL",
+    "maxDose": "400 mg twice daily (minimum 100 mg once daily in the morning)",
+    "durationOrContext": "Titration table in the fetched PDF text is partly garbled; step sizes between 100 and 400 mg recorded as open question",
+    "sourceIds": [
+     "s2"
+    ]
+   }
+  ],
+  "missedDose": {
+   "text": "Taro-Testosterone and Kyzatrex: the missed dose is not made up; the next dose is taken at the usual scheduled time; no double dose.",
+   "windowHours": 0,
+   "minHoursBeforeNextDose": null,
+   "minHoursBetweenDoses": null,
+   "sourceIds": [
+    "s1",
+    "s2"
+   ]
+  },
+  "storage": {
+   "unopened": "Taro-Testosterone: 15 to 30 C, protected from light and moisture, not refrigerated, blister kept in the outer carton. Kyzatrex: 20 to 25 C in the original bottle, protected from light and moisture.",
+   "inUse": "Same as unopened",
+   "discardAfterDays": null,
+   "sourceIds": [
+    "s1",
+    "s2"
+   ]
+  },
+  "commonSideEffects": [
+   "Kyzatrex (pooled Phase 3, n=296, treatment-related): any 22.3%; hypertension 2.7%; hemoglobin increased 2.4%; PSA increased 1.7%; by system: investigations 7.4%, gastrointestinal 3.7%, psychiatric 3.0%, reproductive/breast 2.7%, skin 2.7%",
+   "Kyzatrex blood pressure: mean increase 1.7/0.6 mm Hg at 4 months; 3.4/0.7 mm Hg in patients on antihypertensives",
+   "Taro-Testosterone: no frequencies given; post-market listings include polycythemia, hypertension, gynecomastia, priapism, hepatic neoplasms, thromboembolic events"
+  ],
+  "warnings": [
+   "Neither monograph has a boxed Serious Warnings section (as fetched)",
+   "Blood pressure: testosterone may increase blood pressure (Taro-Testosterone: caution in hypertension; Kyzatrex: not recommended in uncontrolled hypertension)",
+   "Cardiovascular: post-market studies suggest increased risk of serious cardiovascular events such as myocardial infarction and stroke",
+   "Polycythemia: hemoglobin and hematocrit checked periodically in long-term therapy; no hematocrit cut-off stated",
+   "Venous thromboembolism: caution with thrombophilia or VTE risk factors; continuing after a first thrombotic event should be carefully evaluated (Kyzatrex)",
+   "Abuse and dependence: testosterone abuse may result in dependence and withdrawal symptoms; abuse, often with other anabolic steroids, can cause serious cardiovascular, hepatic and psychiatric events",
+   "Suppression of own production and sperm: endogenous testosterone release may be inhibited through feedback inhibition of pituitary LH, and with large doses spermatogenesis may be suppressed (Kyzatrex); at large doses spermatogenesis may be suppressed through feedback on FSH (Taro-Testosterone); oligospermia may occur after prolonged administration or excessive dosage (both)",
+   "Monitoring listed: serum testosterone (timing per product above); hemoglobin and hematocrit; PSA and digital rectal exam; lipid profile; liver function tests; diabetics monitored closely"
+  ],
+  "contraindications": [
+   "Known or suspected carcinoma of the prostate or breast in men",
+   "Not indicated in women",
+   "Known hypersensitivity to any ingredient"
+  ],
+  "interactions": [
+   "Oral anticoagulants (warfarin): androgens may increase sensitivity; INR and prothrombin time monitored",
+   "Insulin and oral diabetes medicines: blood glucose and insulin requirements may decrease",
+   "ACTH or corticosteroids: may enhance edema",
+   "Cyclosporine: may be potentiated with increased risk of kidney toxicity (Kyzatrex)",
+   "Medicines that raise blood pressure (some prescription, pain and cold medicines) may add to the increase (Kyzatrex)",
+   "St. John's Wort may decrease plasma testosterone; propranolol interaction reported with injectable testosterone"
+  ],
+  "nutritionNotes": [
+   "Taro-Testosterone and Kyzatrex 'must be taken with a meal' and swallowed without chewing; Kyzatrex monograph explains fat enhances its absorption"
+  ],
+  "specialPopulations": [
+   "Women: not indicated",
+   "Under 18: not indicated (Taro-Testosterone)",
+   "Older adults: limited data (Taro-Testosterone)",
+   "Diabetes: glucose and insulin needs may change"
+  ],
+  "wada": "Prohibited at all times (in- and out-of-competition): testosterone is listed under S1 Anabolic Agents on the WADA 2026 Prohibited List (in effect 1 January 2026).",
+  "evidenceLevel": "Approved, extensive use",
+  "sources": [
+   {
+    "id": "s1",
+    "title": "TARO-TESTOSTERONE (testosterone undecanoate 40 mg capsules) Product Monograph",
+    "publisher": "Taro Pharmaceuticals Inc. via Health Canada DPD",
+    "url": "https://pdf.hres.ca/dpd_pm/00048154.PDF",
+    "publishedOrRevised": "2018-10-25",
+    "accessed": "2026-11-17",
+    "type": "monograph"
+   },
+   {
+    "id": "s2",
+    "title": "KYZATREX (testosterone undecanoate capsules) Product Monograph",
+    "publisher": "Hikma Canada Limited via Health Canada DPD",
+    "url": "https://pdf.hres.ca/dpd_pm/00085237.PDF",
+    "publishedOrRevised": "2026-06-30 (initial authorization 2025-11-10)",
+    "accessed": "2026-11-17",
+    "type": "monograph"
+   },
+   {
+    "id": "s3",
+    "title": "Drug Product Database: Taro-Testosterone (drug code 90578)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=90578",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s4",
+    "title": "Drug Product Database: Kyzatrex 100 mg (drug code 106558)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=106558",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s5",
+    "title": "Drug Product Database API: status of Kyzatrex (drug code 106559)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=106559",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s6",
+    "title": "Drug Product Database API: active ingredient of Kyzatrex (drug code 106559)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&id=106559",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s7",
+    "title": "Drug Product Database: Kyzatrex 200 mg (drug code 106560)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=106560",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s8",
+    "title": "Drug Product Database: Andriol (drug code 13411)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=13411",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s9",
+    "title": "Drug Product Database: PMS-Testosterone (drug code 80793)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=80793",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s10",
+    "title": "Drug Product Database: Tlando (drug code 107402)",
+    "publisher": "Health Canada",
+    "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=107402",
+    "publishedOrRevised": "live database",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s11",
+    "title": "Controlled Drugs and Substances Act (S.C. 1996, c. 19), Schedule IV, item 23 (Anabolic steroids and their derivatives), subitem (40) Testosterone",
+    "publisher": "Government of Canada, Justice Laws Website",
+    "url": "https://laws-lois.justice.gc.ca/eng/acts/C-38.8/FullText.html",
+    "publishedOrRevised": "Current to 2026-10-19; last amended 2026-10-01",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s12",
+    "title": "World Anti-Doping Code: The 2026 Prohibited List (S1 Anabolic Agents)",
+    "publisher": "World Anti-Doping Agency",
+    "url": "https://www.wada-ama.org/en/prohibited-list",
+    "publishedOrRevised": "In effect 2026-01-01",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   },
+   {
+    "id": "s13",
+    "title": "The 2026 Prohibited List (verbatim copy of the WADA PDF, used because wada-ama.org blocked automated access)",
+    "publisher": "World Anti-Doping Agency (copy hosted by SEGAS, Hellenic Athletics Federation)",
+    "url": "https://www.segas.gr/wp-content/uploads/2025/11/2026list_en_final_clean_september_2025.pdf",
+    "publishedOrRevised": "September 2025; in effect 2026-01-01",
+    "accessed": "2026-11-17",
+    "type": "regulator"
+   }
+  ],
+  "lastReviewed": "2026-11-17",
+  "openQuestions": [
+   "Kyzatrex titration table (Table 1) was partly garbled in the fetched text: exact step sequence between 100 mg and 400 mg twice daily (and whether a 150 mg step exists) not confirmed",
+   "Only the 150 mg Kyzatrex strength is marketed per DPD; 100 mg and 200 mg are approved, not marketed, although the 200 mg twice-daily start uses the 200 mg capsule",
+   "Tlando (approved 2026-09-29, not marketed): monograph 00086274 could not be fetched; dose, food rule and storage not recorded",
+   "Jatenzo DPD search failed twice (server error); presence in Canada not checked",
+   "Taro-Testosterone maximum: monograph gives ranges (120 to 160 mg initial, 40 to 120 mg maintenance), not a stated maximum",
+   "WADA list read from a verbatim copy hosted by a national federation; wada-ama.org blocked automated access"
+  ],
+  "listSourceIds": {
+   "indications": [
+    "s1",
+    "s2"
+   ],
+   "products": [
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s9",
+    "s10"
+   ],
+   "commonSideEffects": [
+    "s1",
+    "s2"
+   ],
+   "warnings": [
+    "s1",
+    "s2"
+   ],
+   "contraindications": [
+    "s1",
+    "s2"
+   ],
+   "interactions": [
+    "s1",
+    "s2"
+   ],
+   "nutritionNotes": [
+    "s1",
+    "s2"
+   ],
+   "specialPopulations": [
+    "s1"
+   ],
+   "wada": [
+    "s12",
+    "s13"
+   ],
+   "deviceNotes": [
+    "s1",
+    "s2"
+   ]
+  }
+ }
+]

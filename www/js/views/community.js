@@ -27,5 +27,5 @@ export async function render(root, ctx) {
   root.append(fold('Not included here',
     h('ul', { class: 'plain' },
       (com.excluded || []).map(x => h('li', h('strong', x.name), ': ', x.reason)),
-      h('li', 'Hormone, TRT, HGH and gym pages: not included yet.'))));
+      h('li', 'Prescription hormones (testosterone, hCG, clomiphene, anastrozole, growth hormone): see the Hormones part of the reference library, from Canadian monographs.'), h('li', 'Gym-only pages (MK-677, high-dose testosterone, oxandrolone, nandrolone, SARMs): kept in the printed guide only.'))));
 }

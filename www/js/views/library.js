@@ -4,7 +4,7 @@ import { statusBadge, STATUS, loadJson, toText, renderValue, notFound } from './
 import { renderEntry } from './library-detail.js';
 import { renderTopic } from './library-topic.js';
 
-const PARTS = [{ value: 'R1', label: 'Approved' }, { value: 'R2', label: 'In trials' }, { value: 'R3', label: 'Other peptides' }, { value: 'N', label: 'Nutrition' }];
+const PARTS = [{ value: 'R1', label: 'Approved' }, { value: 'R2', label: 'In trials' }, { value: 'R3', label: 'Peptides' }, { value: 'R6', label: 'Hormones' }, { value: 'N', label: 'Nutrition' }];
 
 export async function render(root, ctx) {
   const path = ctx.path || [];

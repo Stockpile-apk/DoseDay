@@ -45,6 +45,8 @@ export async function renderEntry(root, ctx, id) {
       e.wada && toText(e.wada.text || e.wada) ? card('Sport (WADA)', renderValue(e.wada.text || e.wada, idsOf(e.wada))) : null,
       section('Human evidence', renderValue(e.humanEvidence)), section('Safety concerns', renderValue(e.safetyConcerns)));
   }
+  if (!R3 && e.wada && toText(e.wada.text || e.wada)) root.append(card('Sport (WADA)', renderValue(e.wada.text || e.wada, idsOf(e.wada))));
+  if (e.pass === 'R6') root.append(banner('warn', 'Prescription only', 'These medicines need a prescription and medical monitoring in Canada. Doses below are only for the uses the Canadian monograph covers.'));
   const used = (e.usedFor && e.usedFor.length) ? e.usedFor : e.indications;
   root.append(section('Used for', renderValue(used), toText(e.mechanism) ? h('p', { class: 'muted' }, toText(e.mechanism)) : null));
   root.append(doseTable(e.doseInfo));
