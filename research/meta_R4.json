@@ -1,0 +1,22 @@
+{
+  "pass": "R4",
+  "title": "Nutrition, hydration, targets and weight-loss rate",
+  "checkedOn": "2026-11-15",
+  "schema": "nutrition",
+  "groupOrder": [
+    "1. Weight-loss rate",
+    "2. Energy",
+    "3. Protein",
+    "4. Fluids, fibre, GI",
+    "5. Micronutrients",
+    "6. Warning signs"
+  ],
+  "useFilters": [],
+  "notes": [
+    "Every number shows a confidence label: High (regulator or major guideline value), Moderate (guideline statement or trial result reported secondhand), Low (expert proposal, secondary source, or a design choice).",
+    "Values marked 'computed' are simple arithmetic from the cited numbers (for example a 72-week total divided by 72)."
+  ],
+  "conflicts": [
+    "Protein: Health Canada RDA 0.8 g/kg vs 1.2-1.6 g/kg proposed during active weight loss (advisory); the advisory itself says actual-weight calculations can overestimate needs."
+  ]
+}

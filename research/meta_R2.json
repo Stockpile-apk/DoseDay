@@ -1,0 +1,24 @@
+{
+  "pass": "R2",
+  "title": "Investigational and pending incretin-class drugs",
+  "checkedOn": "2026-11-15",
+  "groupOrder": [
+    "Recently approved elsewhere",
+    "Under regulatory review",
+    "Phase 3 (not yet submitted)"
+  ],
+  "useFilters": [
+    "Weight management",
+    "Type 2 diabetes (in trials)",
+    "Cardiovascular risk reduction",
+    "MASH/MASLD (in trials)"
+  ],
+  "notes": [
+    "Health Canada's lists (current as of 2026-09-30) also show supplemental new-use submissions under review for semaglutide (accepted 2026-01) and tirzepatide (accepted 2025-12 and 2026-02). The lists do not name the new uses.",
+    "Doses below come from published trials only (basis 'Trial'). They are what was studied, not approved dosing, and not a recommendation.",
+    "Some efficacy numbers come from secondary news reports of sponsor releases; each is marked '(as reported)' and listed under open questions for R5 to confirm against the journal article."
+  ],
+  "openQuestions": [
+    "Re-check FDA decision on CagriSema (company guidance: Q4 2026) and Health Canada decisions on orforglipron and CagriSema after 2026-11-15"
+  ]
+}

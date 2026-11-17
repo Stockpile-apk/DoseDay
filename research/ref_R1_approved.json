@@ -1,0 +1,2413 @@
+[
+  {
+    "id": "semaglutide-injection-t2d",
+    "names": {
+      "generic": "semaglutide",
+      "brands": [
+        "Ozempic",
+        "Plosbrio",
+        "Semaglutide Injection (Dr. Reddy's)",
+        "Apo-Semaglutide",
+        "Aspen-Semaglutide",
+        "Semaglutide Injection (Aspen)",
+        "Sandoz Semaglutide"
+      ]
+    },
+    "class": "GLP-1 receptor agonist",
+    "group": "GLP-1 receptor agonist",
+    "usedFor": [
+      "Type 2 diabetes"
+    ],
+    "route": [
+      "subcutaneous"
+    ],
+    "status": "approved_ca",
+    "statusDetail": {
+      "healthCanada": "Ozempic: marketed (1 mg pen marketed since 2018). Plosbrio (Novo Nordisk second brand, same product as Ozempic per Health Canada spokesperson): approved 2025-12-22, not yet marketed at check. Generic semaglutide referencing Ozempic: Dr. Reddy's authorized 2026-04-28 (first in G7; marketed 2026-05-06), Apotex 2026-05-01; Aspen and Sandoz products also listed in the Drug Product Database.",
+      "fda": "Not re-verified in R1 (Canada-focused pass). See openQuestions.",
+      "other": "",
+      "checkedOn": "2026-11-15",
+      "sourceIds": [
+        "s2",
+        "s3",
+        "s4",
+        "s6",
+        "s7",
+        "s8",
+        "s9",
+        "s10",
+        "s11",
+        "s12"
+      ]
+    },
+    "indications": [
+      "Adults with type 2 diabetes: once-weekly treatment to improve glycemic control with diet and exercise, alone or combined with metformin, a sulfonylurea, an SGLT2 inhibitor, or basal insulin plus metformin (per the monograph's combinations)",
+      "Adults with type 2 diabetes: adjunct to reduce major adverse cardiovascular events in those with established cardiovascular disease and/or chronic kidney disease",
+      "Adults with type 2 diabetes and chronic kidney disease: reduce sustained eGFR decline, end-stage kidney disease and cardiovascular death",
+      "Not for type 1 diabetes or diabetic ketoacidosis; not a substitute for insulin"
+    ],
+    "mechanism": "Once-weekly GLP-1 receptor agonist; the monograph notes it delays gastric emptying.",
+    "products": [
+      {
+        "brand": "Ozempic",
+        "din": "02471477",
+        "strengths": [
+          "1.34 mg/mL pen delivering 0.25 mg or 0.5 mg doses"
+        ],
+        "device": "Multidose prefilled pen",
+        "monographUrl": "https://pdf.hres.ca/dpd_pm/00085314.PDF",
+        "monographDate": "2026-07-13"
+      },
+      {
+        "brand": "Ozempic",
+        "din": "02540258",
+        "strengths": [
+          "0.68 mg/mL pen delivering 0.25 mg or 0.5 mg doses"
+        ],
+        "device": "Multidose prefilled pen",
+        "monographUrl": "https://pdf.hres.ca/dpd_pm/00085314.PDF",
+        "monographDate": "2026-07-13"
+      },
+      {
+        "brand": "Ozempic",
+        "din": "02562618",
+        "strengths": [
+          "pen delivering 0.25 mg or 0.5 mg doses, 3 mL"
+        ],
+        "device": "Multidose prefilled pen",
+        "monographUrl": "https://pdf.hres.ca/dpd_pm/00085314.PDF",
+        "monographDate": "2026-07-13"
+      },
+      {
+        "brand": "Ozempic",
+        "din": "02471469",
+        "strengths": [
+          "pen delivering 1 mg doses"
+        ],
+        "device": "Multidose prefilled pen",
+        "monographUrl": "https://pdf.hres.ca/dpd_pm/00085314.PDF",
+        "monographDate": "2026-07-13"
+      },
+      {
+        "brand": "Ozempic",
+        "din": "02562626",
+        "strengths": [
+          "pen delivering 1 mg doses"
+        ],
+        "device": "Multidose prefilled pen",
+        "monographUrl": "https://pdf.hres.ca/dpd_pm/00085314.PDF",
+        "monographDate": "2026-07-13"
+      },
+      {
+        "brand": "Ozempic",
+        "din": "02523930",
+        "strengths": [
+          "2.68 mg/mL pen delivering 2 mg doses"
+        ],
+        "device": "Multidose prefilled pen",
+        "monographUrl": "https://pdf.hres.ca/dpd_pm/00085314.PDF",
+        "monographDate": "2026-07-13"
+      },
+      {
+        "brand": "Plosbrio",
+        "din": "02564041, 02564068, 02568233",
+        "strengths": [
+          "pens delivering 0.25 mg or 0.5 mg doses"
+        ],
+        "device": "Multidose prefilled pen",
+        "monographUrl": "https://pdf.hres.ca/dpd_pm/00085721.PDF",
+        "monographDate": "2026-08-06"
+      },
+      {
+        "brand": "Plosbrio",
+        "din": "02564076, 02568241",
+        "strengths": [
+          "pens delivering 1 mg doses"
+        ],
+        "device": "Multidose prefilled pen",
+        "monographUrl": "https://pdf.hres.ca/dpd_pm/00085721.PDF",
+        "monographDate": "2026-08-06"
+      },
+      {
+        "brand": "Plosbrio",
+        "din": "02564084",
+        "strengths": [
+          "pen delivering 2 mg doses"
+        ],
+        "device": "Multidose prefilled pen",
+        "monographUrl": "https://pdf.hres.ca/dpd_pm/00085721.PDF",
+        "monographDate": "2026-08-06"
+      },
+      {
+        "brand": "Semaglutide Injection (Dr. Reddy's)",
+        "din": "02567806 (0.25/0.5 mg doses), 02567814 (1 mg doses)",
+        "strengths": [
+          "0.25/0.5 mg",
+          "1 mg"
+        ],
+        "device": "Multidose prefilled pen",
+        "monographUrl": "",
+        "monographDate": ""
+      },
+      {
+        "brand": "Apo-Semaglutide (Apotex)",
+        "din": "02568020 (0.25/0.5 mg doses), 02568012 (1 mg doses)",
+        "strengths": [
+          "0.25/0.5 mg",
+          "1 mg"
+        ],
+        "device": "Multidose prefilled pen",
+        "monographUrl": "",
+        "monographDate": ""
+      },
+      {
+        "brand": "Aspen-Semaglutide (Aspen)",
+        "din": "02569930 (0.25/0.5 mg doses), 02569949 (1 mg doses)",
+        "strengths": [
+          "0.25/0.5 mg",
+          "1 mg"
+        ],
+        "device": "Multidose prefilled pen",
+        "monographUrl": "",
+        "monographDate": ""
+      },
+      {
+        "brand": "Semaglutide Injection (Aspen)",
+        "din": "02570920 (0.25/0.5 mg doses), 02570912 (1 mg doses)",
+        "strengths": [
+          "0.25/0.5 mg",
+          "1 mg"
+        ],
+        "device": "Multidose prefilled pen",
+        "monographUrl": "",
+        "monographDate": ""
+      },
+      {
+        "brand": "Sandoz Semaglutide",
+        "din": "02571501 (0.25/0.5 mg doses), 02571528 (1 mg doses)",
+        "strengths": [
+          "0.25/0.5 mg",
+          "1 mg"
+        ],
+        "device": "Multidose prefilled pen",
+        "monographUrl": "",
+        "monographDate": ""
+      }
+    ],
+    "deviceNotes": [
+      "Ozempic 0.25/0.5 mg pen: 2 mg (4 or 6 doses) or 4 mg (8 doses) per pen; cartons include 6 or 8 needles",
+      "Ozempic 1 mg pen: 4 mg (4 doses) or 8 mg (8 doses); cartons include 4 or 8 needles",
+      "Ozempic 2 mg pen: 8 mg (4 doses); carton includes 4 needles",
+      "Designed for NovoFine needles up to 8 mm; the monograph states the full volume of the pen should not be given at once"
+    ],
+    "doseInfo": [
+      {
+        "basis": "monograph",
+        "population": "Adults with type 2 diabetes (Ozempic)",
+        "regimen": "Start 0.25 mg once weekly (starting dose, not therapeutic). After 4 weeks increase to 0.5 mg once weekly. If more glycemic control is needed after at least 4 weeks, increase to 1 mg; if still needed after another 4 weeks, increase to 2 mg.",
+        "maxDose": "2 mg once weekly",
+        "durationOrContext": "Maintenance 0.5 mg, 1 mg or 2 mg once weekly",
+        "sourceIds": [
+          "s1"
+        ]
+      },
+      {
+        "basis": "monograph",
+        "population": "Adults with type 2 diabetes and chronic kidney disease (Ozempic)",
+        "regimen": "Maintenance 1 mg once weekly after at least 4 weeks at 0.5 mg",
+        "maxDose": "1 mg once weekly for this indication",
+        "durationOrContext": "Kidney outcome indication",
+        "sourceIds": [
+          "s1"
+        ]
+      },
+      {
+        "basis": "monograph",
+        "population": "Generic semaglutide and Plosbrio",
+        "regimen": "Each product has its own Health Canada monograph; Health Canada describes the generics as equivalent to Ozempic and Plosbrio as identical to Ozempic. Check the product's own monograph.",
+        "maxDose": "See product monograph",
+        "durationOrContext": "",
+        "sourceIds": [
+          "s5",
+          "s8",
+          "s9",
+          "s12"
+        ]
+      }
+    ],
+    "missedDose": {
+      "text": "Give the missed dose as soon as possible within 5 days after the missed dose. If more than 5 days have passed, skip it and give the next dose on the regular day.",
+      "windowHours": 120,
+      "sourceIds": [
+        "s1"
+      ]
+    },
+    "storage": {
+      "unopened": "Refrigerate at 2 to 8 C until the expiry date; keep away from the cooling element; do not freeze.",
+      "inUse": "After first use, store below 30 C for 8 weeks. Remove the needle after each injection and store the pen without a needle. One pen per patient only.",
+      "discardAfterDays": 56,
+      "sourceIds": [
+        "s1"
+      ]
+    },
+    "commonSideEffects": [
+      "Nausea: 17.0% (0.5 mg) / 19.9% (1 mg) vs 6.3% comparator",
+      "Diarrhea: 12.2% / 13.3% vs 5.7%",
+      "Abdominal pain: 8.7% / 8.1% vs 4.7%",
+      "Vomiting: 6.4% / 8.4% vs 3.3%",
+      "Constipation: 6.9% / 6.2% vs 2.7%",
+      "Stopped due to side effects: 6.1% (0.5 mg), 8.7% (1 mg), 3.0% comparator"
+    ],
+    "warnings": [
+      "Boxed warning: risk of thyroid C-cell tumours (seen in rodents; unknown in humans)",
+      "Pancreatitis: stop if suspected; do not restart if confirmed",
+      "Gallbladder disease (cholelithiasis, cholecystitis): investigate if suspected",
+      "Acute kidney injury from dehydration due to nausea, vomiting or diarrhea",
+      "Diabetic retinopathy complications: 3.0% vs 1.8% placebo, mostly in people with existing retinopathy",
+      "Pulmonary aspiration reported during general anesthesia or deep sedation (delayed gastric emptying); Health Canada review found a possible link",
+      "Low blood sugar risk is higher with a sulfonylurea or insulin"
+    ],
+    "contraindications": [
+      "Personal or family history of medullary thyroid carcinoma (MTC) or Multiple Endocrine Neoplasia type 2 (MEN 2)",
+      "Hypersensitivity to the product or its components",
+      "Pregnancy or breastfeeding"
+    ],
+    "interactions": [
+      "Oral medicines: delayed gastric emptying may affect absorption; no clinically relevant interactions seen with the drugs tested",
+      "Insulin or sulfonylurea: higher low-blood-sugar risk; the monograph says to consider lowering those doses",
+      "Warfarin/coumarins: decreased INR reported with acenocoumarol; frequent INR monitoring when starting",
+      "Drugs that raise heart rate or prolong the PR interval: use with caution (not formally studied)"
+    ],
+    "nutritionNotes": [
+      "Nausea, vomiting or diarrhea can cause dehydration and worsen kidney function (monograph warning)"
+    ],
+    "specialPopulations": [
+      "Pregnancy: should not be used; stop at least 2 months before a planned pregnancy",
+      "Breastfeeding: should not be used",
+      "Under 18: not studied, not indicated",
+      "Older adults: no overall differences; limited data at 75+",
+      "Kidney: mild or moderate impairment has no meaningful effect on drug levels; caution with severe GI reactions",
+      "Liver: not studied; use with caution"
+    ],
+    "evidenceLevel": "Approved in Canada; extensive Phase 3 and cardiovascular/kidney outcome trials",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "OZEMPIC (semaglutide injection) Product Monograph",
+        "publisher": "Health Canada Drug Product Database (sponsor monograph)",
+        "url": "https://pdf.hres.ca/dpd_pm/00085314.PDF",
+        "publishedOrRevised": "2026-07-13",
+        "accessed": "2026-11-15",
+        "type": "monograph"
+      },
+      {
+        "id": "s2",
+        "title": "Drug Product Database API: products with brand name 'Ozempic'",
+        "publisher": "Health Canada",
+        "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&brandname=ozempic",
+        "publishedOrRevised": "live database",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "s3",
+        "title": "Drug Product Database API: marketing status of drug code 96058 (Ozempic 1 mg pen)",
+        "publisher": "Health Canada",
+        "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=96058",
+        "publishedOrRevised": "live database",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "s4",
+        "title": "Drug Product Database API: products with brand name 'Plosbrio'",
+        "publisher": "Health Canada",
+        "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&brandname=plosbrio",
+        "publishedOrRevised": "live database",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "s5",
+        "title": "PLOSBRIO (semaglutide injection) Product Monograph",
+        "publisher": "Health Canada Drug Product Database (sponsor monograph)",
+        "url": "https://pdf.hres.ca/dpd_pm/00085721.PDF",
+        "publishedOrRevised": "2026-08-06",
+        "accessed": "2026-11-15",
+        "type": "monograph"
+      },
+      {
+        "id": "s6",
+        "title": "Drug Product Database API: marketing status of drug code 106678 (Plosbrio)",
+        "publisher": "Health Canada",
+        "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=106678",
+        "publishedOrRevised": "live database",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "s7",
+        "title": "Drug Product Database API: products with brand name 'semaglutide'",
+        "publisher": "Health Canada",
+        "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&brandname=semaglutide",
+        "publishedOrRevised": "live database",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "s8",
+        "title": "Canada becomes the first G7 country to approve a generic version of semaglutide",
+        "publisher": "Health Canada (news release)",
+        "url": "https://www.canada.ca/en/health-canada/news/2026/04/canada-becomes-the-first-g7-country-to-approve-a-generic-version-of-semaglutide.html",
+        "publishedOrRevised": "2026-04-28",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "s9",
+        "title": "Canada approves second generic semaglutide, the first G7 country to do so",
+        "publisher": "Health Canada (news release)",
+        "url": "https://www.canada.ca/en/health-canada/news/2026/05/canada-approves-second-generic-semaglutide-the-first-g7-country-to-do-so.html",
+        "publishedOrRevised": "2026-05-01",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "s10",
+        "title": "Regulatory Decision Summary: Semaglutide Injection (Dr. Reddy's)",
+        "publisher": "Health Canada",
+        "url": "https://dhpp.hpfb-dgpsa.ca/review-documents/resource/RDS1776954365092",
+        "publishedOrRevised": "2026-04-28",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "s11",
+        "title": "Drug Product Database API: marketing status of drug code 107018 (Dr. Reddy's semaglutide 0.25/0.5 mg pen)",
+        "publisher": "Health Canada",
+        "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=107018",
+        "publishedOrRevised": "live database",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "s12",
+        "title": "Novo Nordisk considers competing with generics through renamed lower-price Ozempic (Health Canada spokesperson quoted)",
+        "publisher": "CTV News / The Canadian Press",
+        "url": "https://www.ctvnews.ca/business/article/novo-nordisk-considers-competing-with-generics-through-renamed-lower-price-ozempic/",
+        "publishedOrRevised": "2026-01-07",
+        "accessed": "2026-11-15",
+        "type": "news"
+      },
+      {
+        "id": "sA",
+        "title": "Summary Safety Review: GLP-1 receptor agonists and pulmonary aspiration during general anesthesia or deep sedation",
+        "publisher": "Health Canada",
+        "url": "https://dhpp.hpfb-dgpsa.ca/review-documents/resource/SSR1773942015728/",
+        "publishedOrRevised": "2026",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "sC",
+        "title": "Public advisory: Thinking about buying GLP-1 drugs like Ozempic or Mounjaro? Beware of fake or unauthorized products",
+        "publisher": "Health Canada (Recalls and safety alerts)",
+        "url": "https://recalls-rappels.canada.ca/en/alert-recall/thinking-about-buying-glp-1-drugs-ozempic-or-mounjaro-beware-fake-or-unauthorized",
+        "publishedOrRevised": "2026-01-21",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      }
+    ],
+    "lastReviewed": "2026-11-15",
+    "openQuestions": [
+      "Generic and Plosbrio monographs not individually opened; their dosing is stated to match Ozempic but should be confirmed from each monograph (R5)",
+      "Ozempic monograph excerpt did not state an explicit discard instruction beyond the 8-week in-use period (discardAfterDays 56 is derived from that period)",
+      "Marketing status of Apotex, Aspen and Sandoz generics and of Plosbrio changes often; re-check DPD"
+    ],
+    "listSourceIds": {
+      "indications": [
+        "s1"
+      ],
+      "products": [
+        "s1",
+        "s2",
+        "s4",
+        "s7"
+      ],
+      "commonSideEffects": [
+        "s1"
+      ],
+      "warnings": [
+        "s1",
+        "sA"
+      ],
+      "contraindications": [
+        "s1"
+      ],
+      "interactions": [
+        "s1"
+      ],
+      "nutritionNotes": [
+        "s1"
+      ],
+      "specialPopulations": [
+        "s1"
+      ]
+    }
+  },
+  {
+    "id": "semaglutide-injection-weight",
+    "names": {
+      "generic": "semaglutide",
+      "brands": [
+        "Wegovy",
+        "Poviztra",
+        "Sevmia"
+      ]
+    },
+    "class": "GLP-1 receptor agonist",
+    "group": "GLP-1 receptor agonist",
+    "usedFor": [
+      "Weight management",
+      "Cardiovascular risk reduction",
+      "MASH (liver)"
+    ],
+    "route": [
+      "subcutaneous"
+    ],
+    "status": "approved_ca",
+    "statusDetail": {
+      "healthCanada": "Wegovy: first authorized 2021-11-23; multidose pens marketed (2.4 mg pen since 2024-04-22); single-dose pens approved but not marketed. MASH indication authorized with conditions (NOC/c), supplemental decision 2025-12-10; monograph dated 2026-10-02. Poviztra (Novo Nordisk second brand, same product as Wegovy per Health Canada spokesperson): approved 2025-12-22, not marketed at check. Sevmia (Apotex generic of Wegovy): approved 2026-06-29, the first generic semaglutide for weight loss; not marketed at check.",
+      "fda": "Not re-verified in R1 (Canada-focused pass). See openQuestions.",
+      "other": "",
+      "checkedOn": "2026-11-15",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s8",
+        "s9",
+        "s10",
+        "s11",
+        "s14"
+      ]
+    },
+    "indications": [
+      "Chronic weight management in adults with BMI 30 or more, or 27 or more with at least one weight-related condition, with a reduced-calorie diet and more physical activity",
+      "Adolescents 12 to under 18: BMI at or above the 95th percentile for age and sex, body weight above 60 kg, and inadequate response to diet and activity alone",
+      "Adults with established cardiovascular disease and BMI 27 or more: reduce the risk of non-fatal heart attack",
+      "Adults with non-cirrhotic MASH (fatty liver inflammation) with moderate to advanced fibrosis (F2 to F3): authorized with conditions (NOC/c)"
+    ],
+    "mechanism": "Once-weekly GLP-1 receptor agonist; delays gastric emptying (monograph).",
+    "products": [
+      {
+        "brand": "Wegovy",
+        "din": "02522551 (0.25 mg), 02522578 (0.5 mg), 02522586 (1 mg), 02522594 (1.7 mg), 02522608 (2.4 mg)",
+        "strengths": [
+          "0.25",
+          "0.5",
+          "1",
+          "1.7",
+          "2.4 mg per pen"
+        ],
+        "device": "Single-dose prefilled pen, packs of 4 (approved, not marketed at check)",
+        "monographUrl": "https://pdf.hres.ca/dpd_pm/00086293.PDF",
+        "monographDate": "2026-10-02"
+      },
+      {
+        "brand": "Wegovy",
+        "din": "02528509 (0.25 mg doses), 02528517 and 02552698 (0.5 mg doses), 02528525 (1 mg doses), 02528533 (1.7 mg doses), 02528541 (2.4 mg doses)",
+        "strengths": [
+          "0.25",
+          "0.5",
+          "1",
+          "1.7",
+          "2.4 mg per dose"
+        ],
+        "device": "Multidose prefilled pen (FlexTouch), 4 doses per pen, 4 needles per pack",
+        "monographUrl": "https://pdf.hres.ca/dpd_pm/00086293.PDF",
+        "monographDate": "2026-10-02"
+      },
+      {
+        "brand": "Poviztra",
+        "din": "02564106, 02564114, 02564122, 02564130, 02564149 (single-dose pens); 02564157, 02564165, 02564173, 02564181, 02564203, 02564211 (multidose pens)",
+        "strengths": [
+          "0.25",
+          "0.5",
+          "1",
+          "1.7",
+          "2.4 mg"
+        ],
+        "device": "Single-dose and multidose prefilled pens",
+        "monographUrl": "https://pdf.hres.ca/dpd_pm/00084283.PDF",
+        "monographDate": "2025-12-22"
+      },
+      {
+        "brand": "Sevmia (Apotex)",
+        "din": "02569582",
+        "strengths": [
+          "pen delivering 1 mg doses (only DIN listed at check)"
+        ],
+        "device": "Multidose prefilled pen",
+        "monographUrl": "",
+        "monographDate": ""
+      }
+    ],
+    "deviceNotes": [
+      "Multidose (FlexTouch) pen: 4 doses per pen with 4 disposable needles per pack",
+      "Single-dose pens: packs of 4"
+    ],
+    "doseInfo": [
+      {
+        "basis": "monograph",
+        "population": "Adults (weight management and cardiovascular indications)",
+        "regimen": "0.25 mg weekly in weeks 1-4; 0.5 mg weeks 5-8; 1 mg weeks 9-12; 1.7 mg weeks 13-16; 2.4 mg from week 17. If a step is not tolerated, the monograph says to consider delaying escalation by 4 weeks. If 2.4 mg is not tolerated, it may be temporarily reduced to 1.7 mg for up to 4 weeks, then re-escalated.",
+        "maxDose": "2.4 mg once weekly",
+        "durationOrContext": "16-week escalation to a 2.4 mg maintenance dose",
+        "sourceIds": [
+          "s1"
+        ]
+      },
+      {
+        "basis": "monograph",
+        "population": "Adolescents 12 to under 18",
+        "regimen": "Same escalation as adults. If 2.4 mg cannot be reached or is not tolerated, may stay at 1.7 mg; stop if 1.7 mg is not tolerated. Reassess after 12 weeks on the maintenance or maximum tolerated dose.",
+        "maxDose": "2.4 mg once weekly",
+        "durationOrContext": "",
+        "sourceIds": [
+          "s1"
+        ]
+      },
+      {
+        "basis": "monograph",
+        "population": "Poviztra and Sevmia",
+        "regimen": "Each has its own Health Canada monograph (Poviztra identical to Wegovy per Health Canada; Sevmia is a generic of Wegovy). Check the product's own monograph.",
+        "maxDose": "See product monograph",
+        "durationOrContext": "",
+        "sourceIds": [
+          "s7",
+          "s10",
+          "s11"
+        ]
+      }
+    ],
+    "missedDose": {
+      "text": "If the next scheduled dose is at least 48 hours away, give the missed dose as soon as possible. If the next dose is less than 48 hours away, skip the missed dose. After more than 2 missed doses in a row, either resume the usual schedule or restart the dose escalation (monograph wording; discuss with prescriber).",
+      "windowHours": null,
+      "minHoursBeforeNextDose": 48,
+      "sourceIds": [
+        "s1"
+      ]
+    },
+    "storage": {
+      "unopened": "Refrigerate at 2 to 8 C; do not freeze; keep away from the cooling element. Single-dose pens: before the cap is removed, may be kept below 30 C for a total of 28 days if needed; keep in the carton.",
+      "inUse": "Multidose pen: after first use, store below 30 C or refrigerated for up to 8 weeks; keep the cap on and remove the needle after each injection.",
+      "discardAfterDays": 56,
+      "sourceIds": [
+        "s1"
+      ]
+    },
+    "commonSideEffects": [
+      "Nausea 44% vs 16% placebo",
+      "Diarrhea 30% vs 16%",
+      "Vomiting 24% vs 6.3%",
+      "Constipation 24% vs 11%",
+      "Abdominal pain 20% vs 10%",
+      "Headache 16% vs 11%",
+      "Fatigue 11% vs 5.1%",
+      "Adolescents: nausea 42.1%, vomiting 36.1%, diarrhea 21.8%, headache 16.5%, abdominal pain 15.0%"
+    ],
+    "warnings": [
+      "Thyroid C-cell tumour risk: contraindicated with personal or family history of MTC or MEN 2",
+      "Pancreatitis: watch for severe abdominal pain, sometimes into the back; stop if suspected, do not restart if confirmed; caution with chronic pancreatitis or acute pancreatitis in the past 6 months",
+      "Gallbladder: cholelithiasis 1.6% vs 0.7% placebo; cholecystitis 0.6% vs 0.2%; cholelithiasis 3.8% in adolescents",
+      "Dehydration from GI side effects can worsen kidney function; the monograph advises avoiding fluid loss",
+      "Heart rate increases; report palpitations; stop if sustained rise in resting heart rate",
+      "Suicidal thoughts: not for people with a history of suicide attempts or active suicidal thoughts; monitor mood",
+      "Pulmonary aspiration risk during general anesthesia or sedation",
+      "Low blood sugar risk higher with insulin or a sulfonylurea",
+      "Diabetic retinopathy may temporarily worsen with rapid glucose improvement"
+    ],
+    "contraindications": [
+      "Hypersensitivity to semaglutide or any ingredient or container component",
+      "Personal or family history of MTC or MEN 2",
+      "Pregnancy or breastfeeding"
+    ],
+    "interactions": [
+      "No dose adjustment needed for atorvastatin, digoxin or oral contraceptives (per monograph)",
+      "Acenocoumarol: reduced INR reported; monitor INR closely when starting",
+      "Insulin or sulfonylureas: consider reducing their dose when starting",
+      "Drugs that raise heart rate or prolong the PR interval: use with caution",
+      "Should not be combined with other semaglutide products or other GLP-1 receptor agonists"
+    ],
+    "nutritionNotes": [
+      "Can be taken with or without meals",
+      "Following the dose escalation reduces GI symptoms",
+      "Take steps to avoid fluid loss (dehydration) when GI side effects occur",
+      "Used together with a reduced-calorie diet and more physical activity; no specific food guidance in the monograph"
+    ],
+    "specialPopulations": [
+      "Pregnancy: contraindicated; stop at least 2 months before a planned pregnancy",
+      "Breastfeeding: contraindicated",
+      "Children: approved 12 to under 18 meeting criteria; not under 12",
+      "Older adults: no dose change for age; limited experience at 85+",
+      "Kidney: no change for mild or moderate impairment; not recommended in end-stage kidney disease",
+      "Liver: caution in severe impairment (not studied)"
+    ],
+    "evidenceLevel": "Approved in Canada; extensive Phase 3 (STEP programme) and cardiovascular outcome trials",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "WEGOVY (semaglutide injection) Product Monograph",
+        "publisher": "Health Canada Drug Product Database (sponsor monograph)",
+        "url": "https://pdf.hres.ca/dpd_pm/00086293.PDF",
+        "publishedOrRevised": "2026-10-02",
+        "accessed": "2026-11-15",
+        "type": "monograph"
+      },
+      {
+        "id": "s2",
+        "title": "Drug Product Database API: products with brand name 'Wegovy'",
+        "publisher": "Health Canada",
+        "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&brandname=wegovy",
+        "publishedOrRevised": "live database",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "s3",
+        "title": "Drug Product Database API: marketing status of drug code 101776 (Wegovy multidose pen 2.4 mg doses)",
+        "publisher": "Health Canada",
+        "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=101776",
+        "publishedOrRevised": "live database",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "s4",
+        "title": "Drug Product Database API: marketing status of drug code 101167 (Wegovy single-dose pen)",
+        "publisher": "Health Canada",
+        "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=101167",
+        "publishedOrRevised": "live database",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "s5",
+        "title": "Drug Product Database API: products with brand name 'Poviztra'",
+        "publisher": "Health Canada",
+        "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&brandname=poviztra",
+        "publishedOrRevised": "live database",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "s6",
+        "title": "Drug Product Database API: marketing status of drug code 106683 (Poviztra)",
+        "publisher": "Health Canada",
+        "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=106683",
+        "publishedOrRevised": "live database",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "s7",
+        "title": "Poviztra Product Monograph (French)",
+        "publisher": "Health Canada Drug Product Database (sponsor monograph)",
+        "url": "https://pdf.hres.ca/dpd_pm/00084283.PDF",
+        "publishedOrRevised": "2025-12-22",
+        "accessed": "2026-11-15",
+        "type": "monograph"
+      },
+      {
+        "id": "s8",
+        "title": "Drug Product Database API: products with brand name 'Sevmia'",
+        "publisher": "Health Canada",
+        "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&brandname=sevmia",
+        "publishedOrRevised": "live database",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "s14",
+        "title": "Supplemental submissions completed (semaglutide 296143: NOC under NOC/c guidance 2025-12-10)",
+        "publisher": "Health Canada",
+        "url": "https://www.canada.ca/en/health-canada/services/drug-health-product-review-approval/submissions-under-review/supplemental-submissions-completed.html",
+        "publishedOrRevised": "2026-09-30",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "s9",
+        "title": "Drug Product Database API: marketing status of drug code 107181 (Sevmia)",
+        "publisher": "Health Canada",
+        "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=107181",
+        "publishedOrRevised": "live database",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "s10",
+        "title": "Canada approves first generic semaglutide for weight loss",
+        "publisher": "Health Canada (news release)",
+        "url": "https://www.canada.ca/en/health-canada/news/2026/06/canada-approves-first-generic-semaglutide-for-weight-loss.html",
+        "publishedOrRevised": "2026-06-29",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "s11",
+        "title": "Novo Nordisk considers competing with generics through renamed lower-price Ozempic (Health Canada spokesperson quoted)",
+        "publisher": "CTV News / The Canadian Press",
+        "url": "https://www.ctvnews.ca/business/article/novo-nordisk-considers-competing-with-generics-through-renamed-lower-price-ozempic/",
+        "publishedOrRevised": "2026-01-07",
+        "accessed": "2026-11-15",
+        "type": "news"
+      },
+      {
+        "id": "sA",
+        "title": "Summary Safety Review: GLP-1 receptor agonists and pulmonary aspiration during general anesthesia or deep sedation",
+        "publisher": "Health Canada",
+        "url": "https://dhpp.hpfb-dgpsa.ca/review-documents/resource/SSR1773942015728/",
+        "publishedOrRevised": "2026",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "sC",
+        "title": "Public advisory: Thinking about buying GLP-1 drugs like Ozempic or Mounjaro? Beware of fake or unauthorized products",
+        "publisher": "Health Canada (Recalls and safety alerts)",
+        "url": "https://recalls-rappels.canada.ca/en/alert-recall/thinking-about-buying-glp-1-drugs-ozempic-or-mounjaro-beware-fake-or-unauthorized",
+        "publishedOrRevised": "2026-01-21",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      }
+    ],
+    "lastReviewed": "2026-11-15",
+    "openQuestions": [
+      "Boxed warning text not captured in the fetched excerpt; contraindication captured. Confirm box wording (R5)",
+      "Confirm the multidose pen in-use period (8 weeks) against monograph section 11 (R5)",
+      "Sevmia: only the 1 mg-dose DIN was listed in the DPD at check; confirm other strengths"
+    ],
+    "listSourceIds": {
+      "indications": [
+        "s1"
+      ],
+      "products": [
+        "s1",
+        "s2",
+        "s4",
+        "s5",
+        "s8"
+      ],
+      "commonSideEffects": [
+        "s1"
+      ],
+      "warnings": [
+        "s1",
+        "sA"
+      ],
+      "contraindications": [
+        "s1"
+      ],
+      "interactions": [
+        "s1"
+      ],
+      "nutritionNotes": [
+        "s1"
+      ],
+      "specialPopulations": [
+        "s1"
+      ]
+    }
+  },
+  {
+    "id": "semaglutide-oral-t2d",
+    "names": {
+      "generic": "semaglutide (oral)",
+      "brands": [
+        "Rybelsus"
+      ]
+    },
+    "class": "GLP-1 receptor agonist",
+    "group": "GLP-1 receptor agonist",
+    "usedFor": [
+      "Type 2 diabetes"
+    ],
+    "route": [
+      "oral"
+    ],
+    "status": "approved_ca",
+    "statusDetail": {
+      "healthCanada": "Marketed. Original tablets 3/7/14 mg marketed (14 mg since 2020-04-19); newer 'optimized' tablets 1.5/4/9 mg marketed (9 mg since 2026-03-13). Oral semaglutide for chronic weight management is listed by BC PAD (Summer 2026) as under Health Canada review (see R2).",
+      "fda": "US label (2026) covers RYBELSUS tablets 3, 7, 14 mg and OZEMPIC tablets 1.5, 4, 9 mg for type 2 diabetes.",
+      "other": "",
+      "checkedOn": "2026-11-15",
+      "sourceIds": [
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    "indications": [
+      "Adults with type 2 diabetes: adjunct to diet and exercise to improve glycemic control",
+      "Also indicated to reduce major adverse cardiovascular events in adults with established cardiovascular disease or at high risk (wording to confirm, see openQuestions)"
+    ],
+    "mechanism": "Daily oral GLP-1 receptor agonist tablet.",
+    "products": [
+      {
+        "brand": "Rybelsus",
+        "din": "02497581 (3 mg), 02497603 (7 mg), 02497611 (14 mg)",
+        "strengths": [
+          "3 mg",
+          "7 mg",
+          "14 mg"
+        ],
+        "device": "Tablet (original formulation), blister pack",
+        "monographUrl": "https://pdf.hres.ca/dpd_pm/00085311.PDF",
+        "monographDate": "2026-07-13"
+      },
+      {
+        "brand": "Rybelsus",
+        "din": "02551012 (1.5 mg), 02551020 (4 mg), 02551039 (9 mg)",
+        "strengths": [
+          "1.5 mg",
+          "4 mg",
+          "9 mg"
+        ],
+        "device": "Tablet (optimized formulation), blister pack",
+        "monographUrl": "https://pdf.hres.ca/dpd_pm/00085311.PDF",
+        "monographDate": "2026-07-13"
+      }
+    ],
+    "deviceNotes": [
+      "Equivalent doses between formulations: 1.5 mg = 3 mg (starting only), 4 mg = 7 mg, 9 mg = 14 mg",
+      "Do not take two or more tablets to make a higher dose"
+    ],
+    "doseInfo": [
+      {
+        "basis": "monograph",
+        "population": "Adults with type 2 diabetes, original tablets",
+        "regimen": "3 mg once daily for 30 days (starting only, not for glycemic control), then 7 mg once daily; if more control is needed after at least 30 days, 14 mg once daily",
+        "maxDose": "14 mg once daily",
+        "durationOrContext": "",
+        "sourceIds": [
+          "s1"
+        ]
+      },
+      {
+        "basis": "monograph",
+        "population": "Adults with type 2 diabetes, optimized tablets",
+        "regimen": "1.5 mg once daily for 30 days, then 4 mg; then 9 mg if needed",
+        "maxDose": "9 mg once daily",
+        "durationOrContext": "",
+        "sourceIds": [
+          "s1"
+        ]
+      }
+    ],
+    "administration": [
+      "Take on an empty stomach at least 30 minutes before the first food, drink or other oral medicines of the day",
+      "Take with no more than half a glass of water (120 mL)",
+      "Swallow whole; do not split, crush or chew",
+      "Take each tablet right after removing it from the blister"
+    ],
+    "missedDose": {
+      "text": "If a dose is missed, skip it and take the next dose the following day.",
+      "windowHours": 0,
+      "sourceIds": [
+        "s1"
+      ]
+    },
+    "storage": {
+      "unopened": "Room temperature (15 to 30 C), in the original blister to protect from moisture and light, out of reach of children",
+      "inUse": "Same as unopened",
+      "discardAfterDays": null,
+      "sourceIds": [
+        "s1"
+      ]
+    },
+    "commonSideEffects": [
+      "Nausea 11.0% (7 mg) / 19.7% (14 mg) vs 6.4% placebo",
+      "Abdominal pain 10.1% / 10.7% vs 4.1%",
+      "Diarrhea 8.7% / 10.1% vs 4.1%",
+      "Vomiting 6.2% / 8.4% vs 3.0%",
+      "Decreased appetite 5.9% / 9.0% vs 0.8%",
+      "Constipation 5.9% / 5.3% vs 2.5%",
+      "Headache 4.8% / 4.5% vs 3.9%"
+    ],
+    "warnings": [
+      "Boxed warning: thyroid C-cell tumours (unknown in humans)",
+      "Pancreatitis: stop if suspected; do not restart if confirmed",
+      "Gallbladder disorders: evaluate promptly",
+      "Kidney: monitor function with severe GI effects; acute renal failure reported after marketing",
+      "Diabetic retinopathy may temporarily worsen with rapid glucose improvement",
+      "Pulmonary aspiration reported under general anesthesia or sedation",
+      "Low blood sugar risk with insulin or a sulfonylurea",
+      "Also noted: ileus, hypersensitivity/anaphylaxis, and NAION (sudden vision loss needs urgent referral)"
+    ],
+    "contraindications": [
+      "Hypersensitivity to semaglutide or any ingredient",
+      "Personal or family history of MTC or MEN 2",
+      "Pregnancy or breastfeeding"
+    ],
+    "interactions": [
+      "Levothyroxine: thyroxine exposure rose 33% when taken together; consider monitoring thyroid levels",
+      "Other oral medicines: wait at least 30 minutes after Rybelsus; taking it with five other tablets lowered semaglutide exposure by 34%",
+      "Food lowers semaglutide absorption",
+      "Warfarin/coumarins: decreased INR reported; monitor INR when starting",
+      "Drugs that raise heart rate or prolong the PR interval: caution"
+    ],
+    "nutritionNotes": [
+      "Food and drink reduce absorption: empty stomach, max 120 mL water, wait 30 minutes"
+    ],
+    "specialPopulations": [
+      "Pregnancy: should not be used; stop at least 2 months before a planned pregnancy",
+      "Breastfeeding: should not be used",
+      "Under 18: not indicated",
+      "Older adults: no overall safety differences seen",
+      "Kidney: no dose change for mild, moderate or severe impairment; monitor with severe GI effects",
+      "Liver: limited experience; no dose adjustment recommended"
+    ],
+    "evidenceLevel": "Approved in Canada; extensive Phase 3 (PIONEER programme) and outcome trials",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "RYBELSUS (semaglutide tablets) Product Monograph",
+        "publisher": "Health Canada Drug Product Database (sponsor monograph)",
+        "url": "https://pdf.hres.ca/dpd_pm/00085311.PDF",
+        "publishedOrRevised": "2026-07-13",
+        "accessed": "2026-11-15",
+        "type": "monograph"
+      },
+      {
+        "id": "s2",
+        "title": "Drug Product Database API: products with brand name 'Rybelsus'",
+        "publisher": "Health Canada",
+        "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&brandname=rybelsus",
+        "publishedOrRevised": "live database",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "s3",
+        "title": "Drug Product Database API: marketing status of drug code 103979 (Rybelsus 9 mg)",
+        "publisher": "Health Canada",
+        "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=103979",
+        "publishedOrRevised": "live database",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "s4",
+        "title": "Drug Product Database API: marketing status of drug code 98742 (Rybelsus 14 mg)",
+        "publisher": "Health Canada",
+        "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=98742",
+        "publishedOrRevised": "live database",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "s5",
+        "title": "RYBELSUS and OZEMPIC (semaglutide) tablets, US Prescribing Information",
+        "publisher": "U.S. FDA (Drugs@FDA)",
+        "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/213051s030lbl.pdf",
+        "publishedOrRevised": "2026",
+        "accessed": "2026-11-15",
+        "type": "label"
+      },
+      {
+        "id": "s6",
+        "title": "Medications for Chronic Weight Management in Adults: Update on semaglutide and tirzepatide (Summer 2026)",
+        "publisher": "BC Provincial Academic Detailing Service, BC Ministry of Health",
+        "url": "https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/provincial-academic-detailing-service/bc_pad_2026_semaglutide_tirzepatide_chronic_weight_management_summer_2026_update.pdf",
+        "publishedOrRevised": "2026 (Summer)",
+        "accessed": "2026-11-15",
+        "type": "guideline"
+      },
+      {
+        "id": "sA",
+        "title": "Summary Safety Review: GLP-1 receptor agonists and pulmonary aspiration during general anesthesia or deep sedation",
+        "publisher": "Health Canada",
+        "url": "https://dhpp.hpfb-dgpsa.ca/review-documents/resource/SSR1773942015728/",
+        "publishedOrRevised": "2026",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      }
+    ],
+    "lastReviewed": "2026-11-15",
+    "openQuestions": [
+      "Confirm exact wording of the cardiovascular indication in the July 2026 monograph (R5)",
+      "Oral semaglutide for weight management: under Health Canada review per BC PAD; not a Health Canada source (tracked in R2)"
+    ],
+    "listSourceIds": {
+      "indications": [
+        "s1"
+      ],
+      "products": [
+        "s1",
+        "s2",
+        "s4"
+      ],
+      "administration": [
+        "s1"
+      ],
+      "commonSideEffects": [
+        "s1"
+      ],
+      "warnings": [
+        "s1",
+        "sA"
+      ],
+      "contraindications": [
+        "s1"
+      ],
+      "interactions": [
+        "s1"
+      ],
+      "nutritionNotes": [
+        "s1"
+      ],
+      "specialPopulations": [
+        "s1"
+      ]
+    }
+  },
+  {
+    "id": "tirzepatide-t2d",
+    "names": {
+      "generic": "tirzepatide",
+      "brands": [
+        "Mounjaro",
+        "Mounjaro KwikPen"
+      ]
+    },
+    "class": "GIP and GLP-1 receptor agonist (dual agonist)",
+    "group": "GIP/GLP-1 dual receptor agonist",
+    "usedFor": [
+      "Type 2 diabetes"
+    ],
+    "route": [
+      "subcutaneous"
+    ],
+    "status": "approved_ca",
+    "statusDetail": {
+      "healthCanada": "Mounjaro first authorized 2022-11-24. KwikPen (multidose, 4 doses) marketed since 2024-12-10; vials marketed since 2023-10-23; single-dose pens approved but not marketed at check. Pediatric type 2 diabetes (10 years and older) added by supplemental NOC 2026-06-23.",
+      "fda": "Not re-verified in R1 (Canada-focused pass). See openQuestions.",
+      "other": "",
+      "checkedOn": "2026-11-15",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s9"
+      ]
+    },
+    "indications": [
+      "Adults with type 2 diabetes: adjunct to diet and exercise to improve glycemic control",
+      "Children 10 to under 18 with type 2 diabetes, with metformin and/or basal insulin",
+      "No cardiovascular or weight indication on the Mounjaro monograph (weight management is under the Zepbound brand)"
+    ],
+    "mechanism": "Once-weekly single molecule that activates both GIP and GLP-1 receptors; delays gastric emptying.",
+    "products": [
+      {
+        "brand": "Mounjaro KwikPen",
+        "din": "02551950 (2.5 mg), 02551969 (5 mg), 02551977 (7.5 mg), 02551985 (10 mg), 02551993 (12.5 mg), 02552000 (15 mg)",
+        "strengths": [
+          "2.5",
+          "5",
+          "7.5",
+          "10",
+          "12.5",
+          "15 mg per 0.6 mL dose"
+        ],
+        "device": "Multidose prefilled pen: 4 doses of one strength (2.4 mL total), one pen per month",
+        "monographUrl": "https://pdf.hres.ca/dpd_pm/00085122.PDF",
+        "monographDate": "2026-06-23"
+      },
+      {
+        "brand": "Mounjaro",
+        "din": "02541041 (2.5 mg), 02541068 (5 mg), 02541076 (7.5 mg), 02541084 (10 mg), 02541092 (12.5 mg), 02541106 (15 mg)",
+        "strengths": [
+          "2.5 to 15 mg per 0.5 mL"
+        ],
+        "device": "Single-dose vial; 4 vials per month; needs a syringe with a 28-31 gauge needle that can measure 0.5 mL",
+        "monographUrl": "https://pdf.hres.ca/dpd_pm/00085122.PDF",
+        "monographDate": "2026-06-23"
+      },
+      {
+        "brand": "Mounjaro",
+        "din": "02532891 (2.5 mg), 02532905 (5 mg), 02532913 (7.5 mg), 02532921 (10 mg), 02532948 (12.5 mg), 02532956 (15 mg)",
+        "strengths": [
+          "2.5 to 15 mg per 0.5 mL"
+        ],
+        "device": "Single-dose prefilled pen, packs of 4 (approved, not marketed at check)",
+        "monographUrl": "https://pdf.hres.ca/dpd_pm/00085122.PDF",
+        "monographDate": "2026-06-23"
+      }
+    ],
+    "deviceNotes": [
+      "KwikPen: one strength per pen, 4 weekly doses; discard after the fourth dose",
+      "Vials: discard after use even if medicine remains"
+    ],
+    "doseInfo": [
+      {
+        "basis": "monograph",
+        "population": "Adults with type 2 diabetes",
+        "regimen": "Start 2.5 mg once weekly for 4 weeks (starting dose, not for glycemic control), then 5 mg once weekly. Further increases in 2.5 mg steps, no sooner than every 4 weeks.",
+        "maxDose": "15 mg once weekly",
+        "durationOrContext": "",
+        "sourceIds": [
+          "s1"
+        ]
+      },
+      {
+        "basis": "monograph",
+        "population": "Children 10 to under 18 with type 2 diabetes",
+        "regimen": "Per monograph titration; caution above 5 mg in patients weighing 60 kg or less",
+        "maxDose": "10 mg once weekly",
+        "durationOrContext": "Not studied under age 10 or under 50 kg",
+        "sourceIds": [
+          "s1",
+          "s6"
+        ]
+      }
+    ],
+    "missedDose": {
+      "text": "Give the missed dose as soon as possible within 4 days (96 hours). If more than 4 days have passed, skip it and resume on the next scheduled day. The weekly day can be changed if at least 3 days (72 hours) separate two doses.",
+      "windowHours": 96,
+      "minHoursBetweenDoses": 72,
+      "sourceIds": [
+        "s1"
+      ]
+    },
+    "storage": {
+      "unopened": "Refrigerate at 2 to 8 C until expiry; protect from light; keep in carton.",
+      "inUse": "KwikPen: may be kept unrefrigerated up to 30 C for up to 30 days if needed; discard after four weekly doses. Single-dose pen or vial: may be unrefrigerated up to 30 C for up to 21 days.",
+      "discardAfterDays": 30,
+      "sourceIds": [
+        "s1"
+      ]
+    },
+    "commonSideEffects": [
+      "Nausea 13.2% / 18.3% / 22.2% (5 / 10 / 15 mg)",
+      "Diarrhea 13.2% / 15.8% / 16.0%",
+      "Decreased appetite 7.8% / 9.8% / 11.7%",
+      "Vomiting 5.5% / 7.8% / 9.7%",
+      "GI reactions overall 37-44% vs 20.4% placebo, mostly during dose escalation"
+    ],
+    "warnings": [
+      "Boxed warning: thyroid C-cell tumours in rats; unknown in humans",
+      "Pancreatitis: stop if suspected; do not restart if confirmed; caution with prior pancreatitis",
+      "Acute gallbladder events 0.6% vs 0% placebo",
+      "Dehydration and acute kidney injury from GI losses",
+      "Diabetic retinopathy may temporarily worsen; NAION reported",
+      "Pulmonary aspiration under general anesthesia or deep sedation",
+      "Low blood sugar higher with a sulfonylurea or insulin",
+      "Hypersensitivity including anaphylaxis or angioedema: stop if it occurs"
+    ],
+    "contraindications": [
+      "Hypersensitivity to tirzepatide or any ingredient or container component (including benzyl alcohol in the KwikPen)",
+      "Personal or family history of MTC or MEN 2",
+      "Pregnancy"
+    ],
+    "interactions": [
+      "Oral contraceptives: switch to a non-oral method, or add a barrier method, for 4 weeks after starting and for 4 weeks after each dose increase",
+      "Oral medicines: delayed gastric emptying may affect absorption; no adjustment needed for acetaminophen",
+      "Insulin or sulfonylureas: reduce their dose when starting to lower low-blood-sugar risk"
+    ],
+    "nutritionNotes": [
+      "Can be taken with or without meals",
+      "The monograph says nutritional guidance and supplementation should be considered; consider stopping for severe or persistent malnutrition",
+      "GI reactions can lead to dehydration"
+    ],
+    "specialPopulations": [
+      "Pregnancy: contraindicated; stop at least 1 month before a planned pregnancy",
+      "Breastfeeding: very low or undetectable levels in breast milk in a lactation study; weigh benefits and risks",
+      "Children: 10 to under 18 for type 2 diabetes",
+      "Older adults: no dose adjustment over 65",
+      "Kidney: no adjustment; not recommended in end-stage kidney disease",
+      "Liver: no adjustment; use with caution (limited experience)"
+    ],
+    "evidenceLevel": "Approved in Canada; extensive Phase 3 (SURPASS programme)",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "MOUNJARO / MOUNJARO KWIKPEN (tirzepatide injection) Product Monograph",
+        "publisher": "Health Canada Drug Product Database (sponsor monograph)",
+        "url": "https://pdf.hres.ca/dpd_pm/00085122.PDF",
+        "publishedOrRevised": "2026-06-23",
+        "accessed": "2026-11-15",
+        "type": "monograph"
+      },
+      {
+        "id": "s2",
+        "title": "Drug Product Database API: products with brand name 'Mounjaro'",
+        "publisher": "Health Canada",
+        "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&brandname=mounjaro",
+        "publishedOrRevised": "live database",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "s3",
+        "title": "Drug Product Database API: marketing status of drug code 104065 (Mounjaro KwikPen 2.5 mg)",
+        "publisher": "Health Canada",
+        "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=104065",
+        "publishedOrRevised": "live database",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "s4",
+        "title": "Drug Product Database API: marketing status of drug code 102190 (Mounjaro single-dose pen 2.5 mg)",
+        "publisher": "Health Canada",
+        "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=102190",
+        "publishedOrRevised": "live database",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "s5",
+        "title": "Drug Product Database API: marketing status of drug code 102972 (Mounjaro vial 2.5 mg)",
+        "publisher": "Health Canada",
+        "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=102972",
+        "publishedOrRevised": "live database",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "s9",
+        "title": "Supplemental submissions completed (tirzepatide 300244: Notice of Compliance 2026-06-23)",
+        "publisher": "Health Canada",
+        "url": "https://www.canada.ca/en/health-canada/services/drug-health-product-review-approval/submissions-under-review/supplemental-submissions-completed.html",
+        "publishedOrRevised": "2026-09-30",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "s6",
+        "title": "Health Canada approves Mounjaro (tirzepatide) for use in children 10 years and older living with type 2 diabetes",
+        "publisher": "Eli Lilly Canada (press release via BioSpace/CNW)",
+        "url": "https://www.biospace.com/press-releases/health-canada-approves-mounjaro-tirzepatide-for-use-in-children-10-years-and-older-living-with-type-2-diabetes",
+        "publishedOrRevised": "2026-07-07",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "sA",
+        "title": "Summary Safety Review: GLP-1 receptor agonists and pulmonary aspiration during general anesthesia or deep sedation",
+        "publisher": "Health Canada",
+        "url": "https://dhpp.hpfb-dgpsa.ca/review-documents/resource/SSR1773942015728/",
+        "publishedOrRevised": "2026",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "sC",
+        "title": "Public advisory: Thinking about buying GLP-1 drugs like Ozempic or Mounjaro? Beware of fake or unauthorized products",
+        "publisher": "Health Canada (Recalls and safety alerts)",
+        "url": "https://recalls-rappels.canada.ca/en/alert-recall/thinking-about-buying-glp-1-drugs-ozempic-or-mounjaro-beware-fake-or-unauthorized",
+        "publishedOrRevised": "2026-01-21",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      }
+    ],
+    "lastReviewed": "2026-11-15",
+    "openQuestions": [
+      "Warfarin interaction not addressed in fetched monograph content",
+      "discardAfterDays 30 reflects the unrefrigerated allowance; KwikPen is also discarded after 4 doses"
+    ],
+    "listSourceIds": {
+      "indications": [
+        "s1"
+      ],
+      "products": [
+        "s1",
+        "s2",
+        "s4",
+        "s5"
+      ],
+      "commonSideEffects": [
+        "s1"
+      ],
+      "warnings": [
+        "s1",
+        "sA"
+      ],
+      "contraindications": [
+        "s1"
+      ],
+      "interactions": [
+        "s1"
+      ],
+      "nutritionNotes": [
+        "s1"
+      ],
+      "specialPopulations": [
+        "s1"
+      ]
+    }
+  },
+  {
+    "id": "tirzepatide-weight",
+    "names": {
+      "generic": "tirzepatide",
+      "brands": [
+        "Zepbound"
+      ]
+    },
+    "class": "GIP and GLP-1 receptor agonist (dual agonist)",
+    "group": "GIP/GLP-1 dual receptor agonist",
+    "usedFor": [
+      "Weight management",
+      "Obstructive sleep apnea"
+    ],
+    "route": [
+      "subcutaneous"
+    ],
+    "status": "approved_ca",
+    "statusDetail": {
+      "healthCanada": "Zepbound: Notice of Compliance 2025-05-13 (Health Canada completed-submissions list); marketed (first market date 2025-07-09). Obstructive sleep apnea indication: supplemental NOC 2026-06-11.",
+      "fda": "Not re-verified in R1 (Canada-focused pass). See openQuestions.",
+      "other": "",
+      "checkedOn": "2026-11-15",
+      "sourceIds": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s6",
+        "s7"
+      ]
+    },
+    "indications": [
+      "Chronic weight management in adults with BMI 30 or more, or 27 to under 30 with at least one weight-related condition, with a reduced-calorie diet and more physical activity",
+      "Moderate to severe obstructive sleep apnea in adults with obesity (BMI 30 or more)"
+    ],
+    "mechanism": "Once-weekly single molecule that activates both GIP and GLP-1 receptors; delays gastric emptying.",
+    "products": [
+      {
+        "brand": "Zepbound KwikPen",
+        "din": "02557509 (2.5 mg), 02557517 (5 mg), 02557525 (7.5 mg), 02557533 (10 mg), 02557541 (12.5 mg), 02557568 (15 mg)",
+        "strengths": [
+          "2.5",
+          "5",
+          "7.5",
+          "10",
+          "12.5",
+          "15 mg per 0.6 mL dose"
+        ],
+        "device": "Multidose prefilled pen, 4 doses per pen (one pen per month)",
+        "monographUrl": "https://pdf.hres.ca/dpd_pm/00084997.PDF",
+        "monographDate": "2026-06-11"
+      }
+    ],
+    "deviceNotes": [
+      "Do not use a damaged pen, one dropped on a hard surface, or one with cloudy solution or particles",
+      "Discard the pen after the four weekly doses"
+    ],
+    "doseInfo": [
+      {
+        "basis": "monograph",
+        "population": "Adults, chronic weight management",
+        "regimen": "Start 2.5 mg once weekly (starting only); 5 mg after 4 weeks; further increases in 2.5 mg steps after at least 4 weeks on each dose",
+        "maxDose": "15 mg once weekly",
+        "durationOrContext": "Maintenance 5, 10 or 15 mg once weekly",
+        "sourceIds": [
+          "s1"
+        ]
+      },
+      {
+        "basis": "monograph",
+        "population": "Adults with obesity and moderate to severe obstructive sleep apnea",
+        "regimen": "Same escalation",
+        "maxDose": "15 mg once weekly",
+        "durationOrContext": "Maintenance 10 or 15 mg once weekly",
+        "sourceIds": [
+          "s1"
+        ]
+      }
+    ],
+    "missedDose": {
+      "text": "Give the missed dose as soon as possible within 4 days (96 hours). If more than 4 days have passed, skip it and resume the regular schedule. When changing the weekly day, keep at least 3 days (72 hours) between doses.",
+      "windowHours": 96,
+      "minHoursBetweenDoses": 72,
+      "sourceIds": [
+        "s1"
+      ]
+    },
+    "storage": {
+      "unopened": "Refrigerate at 2 to 8 C until expiry; do not freeze; protect from light.",
+      "inUse": "Each pen may be kept at no more than 30 C for up to 30 days if needed. Discard after the four weekly doses.",
+      "discardAfterDays": 30,
+      "sourceIds": [
+        "s1"
+      ]
+    },
+    "commonSideEffects": [
+      "Nausea 24.6-29.0% vs 8.5% placebo",
+      "Diarrhea 18.7-22.5% vs 7.8%",
+      "Constipation 10.8-16.8% vs 5.2%",
+      "Vomiting 8.3-12.5% vs 2.2%",
+      "Injection site reactions 5.7-8.2%"
+    ],
+    "warnings": [
+      "Boxed warning: thyroid C-cell tumours in rats; unknown in humans",
+      "Pancreatitis: stop if suspected; do not restart if confirmed",
+      "Gallbladder: cholelithiasis 1.1% vs 1.0%; cholecystitis 0.6% vs 0.2%; cholecystectomy 0.2% vs 0%",
+      "Dehydration and acute kidney injury from GI losses",
+      "Suicidal thoughts: monitor mood; avoid with prior attempts or active ideation",
+      "Pulmonary aspiration under general anesthesia or deep sedation; tell providers before procedures",
+      "Low blood sugar in type 2 diabetes: 10.3% with a sulfonylurea vs 2.1% without (one trial)",
+      "Heart rate: mean increase about 3 beats per minute"
+    ],
+    "contraindications": [
+      "Hypersensitivity to tirzepatide or any ingredient (including benzyl alcohol) or container component",
+      "Personal or family history of MTC or MEN 2",
+      "Pregnancy"
+    ],
+    "interactions": [
+      "Oral contraceptives: tirzepatide reduces their absorption; switch to a non-oral method or add a barrier method for 4 weeks after starting and after each dose increase",
+      "Oral medicines: delayed gastric emptying may affect absorption; no adjustment for acetaminophen",
+      "Insulin or sulfonylureas: consider reducing their dose",
+      "Do not combine with other GLP-1 receptor agonists or tirzepatide products such as Mounjaro"
+    ],
+    "nutritionNotes": [
+      "Can be taken with or without meals, any time of day",
+      "Watch for fluid loss from GI side effects",
+      "Malnutrition has been reported; nutritional guidance or supplementation should be considered (monograph)"
+    ],
+    "specialPopulations": [
+      "Pregnancy: contraindicated; stop at least 1 month before a planned pregnancy",
+      "Breastfeeding: milk levels undetectable or very low in a single-dose study; weigh benefits and risks",
+      "Under 18: not established or indicated",
+      "Older adults: no dose adjustment over 65",
+      "Kidney: no adjustment; not recommended in end-stage kidney disease",
+      "Liver: no adjustment; caution"
+    ],
+    "evidenceLevel": "Approved in Canada; extensive Phase 3 (SURMOUNT programme, SURMOUNT-OSA)",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "ZEPBOUND (tirzepatide injection) Product Monograph",
+        "publisher": "Health Canada Drug Product Database (sponsor monograph)",
+        "url": "https://pdf.hres.ca/dpd_pm/00084997.PDF",
+        "publishedOrRevised": "2026-06-11",
+        "accessed": "2026-11-15",
+        "type": "monograph"
+      },
+      {
+        "id": "s6",
+        "title": "New drug submissions completed (tirzepatide: Notice of Compliance 2025-05-13)",
+        "publisher": "Health Canada",
+        "url": "https://www.canada.ca/en/health-canada/services/drug-health-product-review-approval/submissions-under-review/new-drug-submissions-completed.html",
+        "publishedOrRevised": "2026-09-30",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "s7",
+        "title": "Supplemental submissions completed (tirzepatide 299409: NOC 2026-06-11; 300244: NOC 2026-06-23)",
+        "publisher": "Health Canada",
+        "url": "https://www.canada.ca/en/health-canada/services/drug-health-product-review-approval/submissions-under-review/supplemental-submissions-completed.html",
+        "publishedOrRevised": "2026-09-30",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "s2",
+        "title": "Drug Product Database API: products with brand name 'Zepbound'",
+        "publisher": "Health Canada",
+        "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&brandname=zepbound",
+        "publishedOrRevised": "live database",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "s3",
+        "title": "Drug Product Database API: marketing status of drug code 106082 (Zepbound 2.5 mg)",
+        "publisher": "Health Canada",
+        "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=106082",
+        "publishedOrRevised": "live database",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "s4",
+        "title": "Health Canada approves Zepbound as the first-ever obstructive sleep apnea medication in Canada for adults living with obesity",
+        "publisher": "Eli Lilly Canada (press release via BioSpace/CNW)",
+        "url": "https://www.biospace.com/press-releases/health-canada-approves-zepbound-as-the-first-ever-obstructive-sleep-apnea-medication-in-canada-for-adults-living-with-obesity",
+        "publishedOrRevised": "2026-06",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "s5",
+        "title": "Pharmacotherapy for obesity management in adults (Canadian Adult Obesity Clinical Practice Guideline, 2025 update)",
+        "publisher": "Obesity Canada",
+        "url": "https://obesitycanada.ca/wp-content/uploads/2025/08/11-Canadian-Adult-Obesity-CPG-Pharmacotherapy-2025-update.pdf",
+        "publishedOrRevised": "2025-08",
+        "accessed": "2026-11-15",
+        "type": "guideline"
+      },
+      {
+        "id": "sA",
+        "title": "Summary Safety Review: GLP-1 receptor agonists and pulmonary aspiration during general anesthesia or deep sedation",
+        "publisher": "Health Canada",
+        "url": "https://dhpp.hpfb-dgpsa.ca/review-documents/resource/SSR1773942015728/",
+        "publishedOrRevised": "2026",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "sC",
+        "title": "Public advisory: Thinking about buying GLP-1 drugs like Ozempic or Mounjaro? Beware of fake or unauthorized products",
+        "publisher": "Health Canada (Recalls and safety alerts)",
+        "url": "https://recalls-rappels.canada.ca/en/alert-recall/thinking-about-buying-glp-1-drugs-ozempic-or-mounjaro-beware-fake-or-unauthorized",
+        "publishedOrRevised": "2026-01-21",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      }
+    ],
+    "lastReviewed": "2026-11-15",
+    "openQuestions": [
+      "Needle details for the KwikPen not in fetched text"
+    ],
+    "listSourceIds": {
+      "indications": [
+        "s1"
+      ],
+      "products": [
+        "s1",
+        "s2"
+      ],
+      "commonSideEffects": [
+        "s1"
+      ],
+      "warnings": [
+        "s1",
+        "sA"
+      ],
+      "contraindications": [
+        "s1"
+      ],
+      "interactions": [
+        "s1"
+      ],
+      "nutritionNotes": [
+        "s1"
+      ],
+      "specialPopulations": [
+        "s1"
+      ]
+    }
+  },
+  {
+    "id": "liraglutide-t2d",
+    "names": {
+      "generic": "liraglutide",
+      "brands": [
+        "Victoza"
+      ]
+    },
+    "class": "GLP-1 receptor agonist",
+    "group": "GLP-1 receptor agonist",
+    "usedFor": [
+      "Type 2 diabetes",
+      "Cardiovascular risk reduction"
+    ],
+    "route": [
+      "subcutaneous"
+    ],
+    "status": "approved_ca",
+    "statusDetail": {
+      "healthCanada": "Marketed since 2010-05-27. Only three liraglutide products found in the DPD (Victoza, Saxenda, and the cancelled Xultophy); no Canadian generic liraglutide found at check.",
+      "fda": "Not re-verified in R1 (Canada-focused pass). See openQuestions.",
+      "other": "",
+      "checkedOn": "2026-11-15",
+      "sourceIds": [
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "indications": [
+      "Adults with type 2 diabetes: glycemic control with diet, exercise and other agents (metformin, sulfonylurea, SGLT2 inhibitor or basal insulin as listed)",
+      "Children 10 and older with type 2 diabetes: adjunct to metformin with or without basal insulin",
+      "Adults with type 2 diabetes and established cardiovascular disease: adjunct to reduce cardiovascular death"
+    ],
+    "mechanism": "Once-daily GLP-1 receptor agonist; delays gastric emptying.",
+    "products": [
+      {
+        "brand": "Victoza",
+        "din": "02351064",
+        "strengths": [
+          "6 mg/mL; 18 mg in 3 mL"
+        ],
+        "device": "Multidose pen: 30 doses of 0.6 mg, 15 doses of 1.2 mg or 10 doses of 1.8 mg; for NovoFine needles up to 8 mm",
+        "monographUrl": "https://pdf.hres.ca/dpd_pm/00081455.PDF",
+        "monographDate": "2025-08-21"
+      }
+    ],
+    "deviceNotes": [
+      "Remove the needle after each injection and store the pen without a needle"
+    ],
+    "doseInfo": [
+      {
+        "basis": "monograph",
+        "population": "Adults with type 2 diabetes",
+        "regimen": "0.6 mg once daily for at least one week (to reduce GI symptoms), then 1.2 mg once daily; after at least one more week may increase to 1.8 mg once daily",
+        "maxDose": "1.8 mg once daily",
+        "durationOrContext": "",
+        "sourceIds": [
+          "s1"
+        ]
+      },
+      {
+        "basis": "monograph",
+        "population": "Children 10 and older with type 2 diabetes",
+        "regimen": "Start 0.6 mg for at least one week; increase to 1.2 mg then 1.8 mg only if more glycemic control is needed",
+        "maxDose": "1.8 mg once daily",
+        "durationOrContext": "No data under 10 years",
+        "sourceIds": [
+          "s1"
+        ]
+      }
+    ],
+    "missedDose": {
+      "text": "Take your dose on the next day as usual. Do not take an extra dose or increase the dose on the following day.",
+      "windowHours": 0,
+      "sourceIds": [
+        "s1"
+      ]
+    },
+    "storage": {
+      "unopened": "Refrigerate at 2 to 8 C, away from the freezer and cooling element; do not freeze",
+      "inUse": "After first use, can be stored for 30 days at room temperature (not above 30 C) or in the refrigerator",
+      "discardAfterDays": 30,
+      "sourceIds": [
+        "s1"
+      ]
+    },
+    "commonSideEffects": [
+      "Nausea and diarrhea were the most common",
+      "GI adverse events in 41% of treated patients in pooled long-term trials",
+      "Nausea 29.3% at 1.8 mg in LEAD-3",
+      "Stopped due to side effects 7.8% vs 3.4% comparators"
+    ],
+    "warnings": [
+      "Boxed warning: thyroid C-cell tumours in rodents (human relevance unknown)",
+      "Pancreatitis: persistent severe abdominal pain; stop if suspected; do not restart if confirmed",
+      "Acute gallbladder events 3.1% vs 1.9% placebo (LEADER)",
+      "Avoid fluid depletion; acute renal failure reported, sometimes needing dialysis",
+      "Low blood sugar higher with a sulfonylurea or insulin; in children higher regardless",
+      "Pulmonary aspiration under general anesthesia or sedation"
+    ],
+    "contraindications": [
+      "Hypersensitivity to liraglutide or any ingredient",
+      "Personal or family history of MTC or MEN 2",
+      "Pregnancy or breastfeeding"
+    ],
+    "interactions": [
+      "Oral medicines: no clinically relevant effect of delayed gastric emptying in tests; diarrhea may affect absorption",
+      "No dose adjustment for acetaminophen, atorvastatin, digoxin, lisinopril or oral contraceptives",
+      "Warfarin/coumarins: more frequent INR monitoring when starting",
+      "Insulin or sulfonylureas: higher low-blood-sugar risk; give as separate injections, never mix"
+    ],
+    "nutritionNotes": [
+      "Take precautions to avoid fluid depletion"
+    ],
+    "specialPopulations": [
+      "Pregnancy: should not be used",
+      "Breastfeeding: stop treatment",
+      "Children: 10 and older as add-on to metformin",
+      "Older adults: no overall difference; greater sensitivity cannot be ruled out",
+      "Kidney: no adjustment for mild to severe; not recommended in end-stage disease",
+      "Liver: no adjustment; limited experience"
+    ],
+    "evidenceLevel": "Approved in Canada; extensive Phase 3 (LEAD) and cardiovascular outcome (LEADER) trials",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "VICTOZA (liraglutide injection) Product Monograph",
+        "publisher": "Health Canada Drug Product Database (sponsor monograph)",
+        "url": "https://pdf.hres.ca/dpd_pm/00081455.PDF",
+        "publishedOrRevised": "2025-08-21",
+        "accessed": "2026-11-15",
+        "type": "monograph"
+      },
+      {
+        "id": "s2",
+        "title": "Drug Product Database API: marketing status of drug code 83627 (Victoza)",
+        "publisher": "Health Canada",
+        "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=83627",
+        "publishedOrRevised": "live database",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "s3",
+        "title": "Drug Product Database API: Victoza product record",
+        "publisher": "Health Canada",
+        "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&id=83627",
+        "publishedOrRevised": "live database",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "s4",
+        "title": "Drug Product Database API: active ingredient liraglutide (all products)",
+        "publisher": "Health Canada",
+        "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=liraglutide",
+        "publishedOrRevised": "live database",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "sA",
+        "title": "Summary Safety Review: GLP-1 receptor agonists and pulmonary aspiration during general anesthesia or deep sedation",
+        "publisher": "Health Canada",
+        "url": "https://dhpp.hpfb-dgpsa.ca/review-documents/resource/SSR1773942015728/",
+        "publishedOrRevised": "2026",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      }
+    ],
+    "lastReviewed": "2026-11-15",
+    "openQuestions": [
+      "Monograph patient section gives no separate rule for missing more than 3 days (Saxenda does: restart at 0.6 mg)",
+      "Whether needles are included in the Canadian pack not stated"
+    ],
+    "listSourceIds": {
+      "indications": [
+        "s1"
+      ],
+      "products": [
+        "s1",
+        "s2",
+        "s4"
+      ],
+      "commonSideEffects": [
+        "s1"
+      ],
+      "warnings": [
+        "s1",
+        "sA"
+      ],
+      "contraindications": [
+        "s1"
+      ],
+      "interactions": [
+        "s1"
+      ],
+      "nutritionNotes": [
+        "s1"
+      ],
+      "specialPopulations": [
+        "s1"
+      ]
+    }
+  },
+  {
+    "id": "liraglutide-weight",
+    "names": {
+      "generic": "liraglutide",
+      "brands": [
+        "Saxenda"
+      ]
+    },
+    "class": "GLP-1 receptor agonist",
+    "group": "GLP-1 receptor agonist",
+    "usedFor": [
+      "Weight management"
+    ],
+    "route": [
+      "subcutaneous"
+    ],
+    "status": "approved_ca",
+    "statusDetail": {
+      "healthCanada": "Marketed since 2015-05-27",
+      "fda": "Not re-verified in R1 (Canada-focused pass). See openQuestions.",
+      "other": "",
+      "checkedOn": "2026-11-15",
+      "sourceIds": [
+        "s2",
+        "s3"
+      ]
+    },
+    "indications": [
+      "Chronic weight management in adults with BMI 30 or more, or 27 or more with at least one weight-related condition, who have failed a previous weight management intervention",
+      "Adolescents 12 to under 18 with body weight above 60 kg and BMI at the adult obesity cut-off, after inadequate response to diet and activity"
+    ],
+    "mechanism": "Once-daily GLP-1 receptor agonist; delays gastric emptying.",
+    "products": [
+      {
+        "brand": "Saxenda",
+        "din": "02437899",
+        "strengths": [
+          "6 mg/mL; 18 mg in 3 mL"
+        ],
+        "device": "Multidose pen delivering 0.6, 1.2, 1.8, 2.4 or 3.0 mg; packs of 3 or 5 pens",
+        "monographUrl": "https://pdf.hres.ca/dpd_pm/00081736.PDF",
+        "monographDate": "2025-09-10"
+      }
+    ],
+    "deviceNotes": [
+      "Remove the needle after each injection; never share a pen even if the needle is changed"
+    ],
+    "doseInfo": [
+      {
+        "basis": "monograph",
+        "population": "Adults",
+        "regimen": "0.6 mg, 1.2 mg, 1.8 mg and 2.4 mg daily, one week each, then 3.0 mg daily. If a step is not tolerated, escalation can be delayed by up to 7 days in total.",
+        "maxDose": "3.0 mg daily (higher doses not recommended)",
+        "durationOrContext": "Stop if at least 5% of initial body weight has not been lost after 12 weeks on 3.0 mg",
+        "sourceIds": [
+          "s1"
+        ]
+      },
+      {
+        "basis": "monograph",
+        "population": "Adolescents 12 to under 18",
+        "regimen": "Same steps; escalation may take up to 8 weeks. If 3 mg is not tolerated, maintenance may be 2.4 mg; stop if 2.4 mg is not tolerated.",
+        "maxDose": "3.0 mg daily",
+        "durationOrContext": "Stop if BMI has not fallen by at least 1% after 12 weeks on the maintenance dose",
+        "sourceIds": [
+          "s1"
+        ]
+      }
+    ],
+    "missedDose": {
+      "text": "Resume the once-daily schedule with the next scheduled dose; do not take an extra or larger dose. If more than 3 days have passed since the last dose, restart at 0.6 mg.",
+      "windowHours": 0,
+      "restartIfMissedHours": 72,
+      "sourceIds": [
+        "s1"
+      ]
+    },
+    "storage": {
+      "unopened": "Refrigerate at 2 to 8 C; do not freeze; keep away from freezer and cooling element",
+      "inUse": "After first use, 30 days at room temperature (not above 30 C) or refrigerated",
+      "discardAfterDays": 30,
+      "sourceIds": [
+        "s1"
+      ]
+    },
+    "commonSideEffects": [
+      "Nausea 39.3% vs 13.8% placebo",
+      "Diarrhea 20.9% vs 9.9%",
+      "Constipation 19.4% vs 8.5%",
+      "Vomiting 15.7% vs 3.9%",
+      "Headache 13.6% vs 12.6%"
+    ],
+    "warnings": [
+      "Boxed warning: thyroid C-cell tumours in rodents (human relevance unknown)",
+      "Pancreatitis: 0.3% vs 0.1% placebo; stop if suspected",
+      "Gallbladder: cholelithiasis 2.2% vs 0.8%; cholecystitis 0.8% vs 0.4%",
+      "Dehydration from GI side effects; kidney impairment reported, sometimes needing dialysis",
+      "Heart rate: mean increase 2-3 bpm; stop if sustained increase",
+      "Suicidal thoughts: 0.3% vs 0.1%; stop if they occur; avoid with prior attempts or active ideation",
+      "Low blood sugar: 1.6% vs 1.1% in adults without diabetes; 15.2% vs 4.0% in adolescents without diabetes",
+      "Pulmonary aspiration under general anesthesia or sedation"
+    ],
+    "contraindications": [
+      "Personal or family history of MTC or MEN 2",
+      "Hypersensitivity to liraglutide or any ingredient",
+      "Pregnancy",
+      "Breastfeeding"
+    ],
+    "interactions": [
+      "No clinically significant interactions demonstrated; caution with oral medicines because of delayed gastric emptying",
+      "Warfarin/coumarins: monitor INR more often when starting",
+      "Do not use with insulin or another GLP-1 receptor agonist (including Victoza)",
+      "Consider lowering sulfonylurea doses",
+      "Caution with drugs that raise heart rate or prolong the PR interval"
+    ],
+    "nutritionNotes": [
+      "Take once daily at any time, regardless of meals",
+      "Take precautions to avoid dehydration from GI side effects"
+    ],
+    "specialPopulations": [
+      "Pregnancy: contraindicated",
+      "Breastfeeding: stop the drug",
+      "Children: 12 to under 18 only",
+      "Older adults: 65+ may have more GI side effects; very limited experience at 75+",
+      "Kidney: limited experience in moderate; not recommended in severe or end-stage",
+      "Liver: not recommended in hepatic insufficiency"
+    ],
+    "evidenceLevel": "Approved in Canada; extensive Phase 3 (SCALE programme)",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "SAXENDA (liraglutide injection) Product Monograph",
+        "publisher": "Health Canada Drug Product Database (sponsor monograph)",
+        "url": "https://pdf.hres.ca/dpd_pm/00081736.PDF",
+        "publishedOrRevised": "2025-09-10",
+        "accessed": "2026-11-15",
+        "type": "monograph"
+      },
+      {
+        "id": "s2",
+        "title": "Drug Product Database API: marketing status of drug code 92226 (Saxenda)",
+        "publisher": "Health Canada",
+        "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=92226",
+        "publishedOrRevised": "live database",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "s3",
+        "title": "Drug Product Database API: Saxenda product record",
+        "publisher": "Health Canada",
+        "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&id=92226",
+        "publishedOrRevised": "live database",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "sA",
+        "title": "Summary Safety Review: GLP-1 receptor agonists and pulmonary aspiration during general anesthesia or deep sedation",
+        "publisher": "Health Canada",
+        "url": "https://dhpp.hpfb-dgpsa.ca/review-documents/resource/SSR1773942015728/",
+        "publishedOrRevised": "2026",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      }
+    ],
+    "lastReviewed": "2026-11-15",
+    "openQuestions": [
+      "Needle size and inclusion not stated in fetched monograph text"
+    ],
+    "listSourceIds": {
+      "indications": [
+        "s1"
+      ],
+      "products": [
+        "s1",
+        "s2"
+      ],
+      "commonSideEffects": [
+        "s1"
+      ],
+      "warnings": [
+        "s1",
+        "sA"
+      ],
+      "contraindications": [
+        "s1"
+      ],
+      "interactions": [
+        "s1"
+      ],
+      "nutritionNotes": [
+        "s1"
+      ],
+      "specialPopulations": [
+        "s1"
+      ]
+    }
+  },
+  {
+    "id": "dulaglutide-t2d",
+    "names": {
+      "generic": "dulaglutide",
+      "brands": [
+        "Trulicity"
+      ]
+    },
+    "class": "GLP-1 receptor agonist",
+    "group": "GLP-1 receptor agonist",
+    "usedFor": [
+      "Type 2 diabetes",
+      "Cardiovascular risk reduction"
+    ],
+    "route": [
+      "subcutaneous"
+    ],
+    "status": "approved_ca",
+    "statusDetail": {
+      "healthCanada": "Still marketed: 1.5 mg pen marketed since 2015-11-24. The 4.5 mg pen is approved but was not marketed at check (status date 2022-08-25). Marketing status of the 0.75 mg and 3 mg pens and the syringes not individually checked.",
+      "fda": "Not re-verified in R1 (Canada-focused pass). See openQuestions.",
+      "other": "",
+      "checkedOn": "2026-11-15",
+      "sourceIds": [
+        "s2",
+        "s3",
+        "s4"
+      ]
+    },
+    "indications": [
+      "Adults with type 2 diabetes: once-weekly treatment to improve glycemic control",
+      "Adults with type 2 diabetes who have multiple cardiovascular risk factors or established cardiovascular disease: adjunct to reduce the risk of non-fatal stroke"
+    ],
+    "mechanism": "Once-weekly GLP-1 receptor agonist.",
+    "products": [
+      {
+        "brand": "Trulicity",
+        "din": "02448599 (0.75 mg), 02448602 (1.5 mg), 02530163 (3 mg), 02530171 (4.5 mg)",
+        "strengths": [
+          "0.75",
+          "1.5",
+          "3",
+          "4.5 mg per 0.5 mL"
+        ],
+        "device": "Single-use prefilled pen, packs of 2 or 4",
+        "monographUrl": "https://pdf.hres.ca/dpd_pm/00076182.PDF",
+        "monographDate": "2024-07-05"
+      },
+      {
+        "brand": "Trulicity",
+        "din": "02448572 (0.75 mg), 02448580 (1.5 mg)",
+        "strengths": [
+          "0.75",
+          "1.5 mg per 0.5 mL"
+        ],
+        "device": "Prefilled syringe",
+        "monographUrl": "https://pdf.hres.ca/dpd_pm/00076182.PDF",
+        "monographDate": "2024-07-05"
+      }
+    ],
+    "deviceNotes": [
+      "Single-use pens; the fetched packaging text did not say whether the needle is attached"
+    ],
+    "doseInfo": [
+      {
+        "basis": "monograph",
+        "population": "Adults with type 2 diabetes",
+        "regimen": "Start 0.75 mg once weekly. May increase to 1.5 mg once weekly for more glycemic control; then to 3 mg after at least 4 weeks on 1.5 mg; then to 4.5 mg after at least 4 weeks on 3 mg",
+        "maxDose": "4.5 mg once weekly",
+        "durationOrContext": "",
+        "sourceIds": [
+          "s1"
+        ]
+      }
+    ],
+    "missedDose": {
+      "text": "Give the missed dose as soon as possible if there are at least 3 days (72 hours) until the next scheduled dose; otherwise skip it. The weekly day can be changed if the last dose was 3 days (72 hours) or more before.",
+      "windowHours": null,
+      "minHoursBeforeNextDose": 72,
+      "sourceIds": [
+        "s1"
+      ]
+    },
+    "storage": {
+      "unopened": "Refrigerate at 2 to 8 C up to the expiry date",
+      "inUse": "May be stored unrefrigerated for up to 14 days at no more than 30 C",
+      "discardAfterDays": 14,
+      "sourceIds": [
+        "s1"
+      ]
+    },
+    "commonSideEffects": [
+      "Nausea 12.9% (0.75 mg) / 21.2% (1.5 mg)",
+      "Vomiting 6.8% / 11.5%",
+      "Diarrhea 10.7% / 13.7%"
+    ],
+    "warnings": [
+      "Boxed warning: unknown whether it causes thyroid C-cell tumours including MTC in humans",
+      "Pancreatitis: stop promptly if suspected",
+      "Cholelithiasis 0.62 per 100 patient-years in trials",
+      "Dehydration could worsen kidney function including acute renal failure",
+      "Low blood sugar risk with insulin or insulin secretagogues",
+      "Pulmonary aspiration reported with long-acting GLP-1 receptor agonists"
+    ],
+    "contraindications": [
+      "Hypersensitivity to the drug or any ingredient",
+      "Personal or family history of MTC",
+      "MEN 2",
+      "Pregnancy or breastfeeding"
+    ],
+    "interactions": [
+      "Oral medicines: no clinically relevant effect on absorption of the tested drugs",
+      "Insulin or secretagogues: consider reducing their dose",
+      "Do not mix with insulin in the same syringe"
+    ],
+    "nutritionNotes": [
+      "Dehydration warning applies with GI side effects"
+    ],
+    "specialPopulations": [
+      "Pregnancy: should not be used",
+      "Breastfeeding: stop treatment",
+      "Children: no pediatric indication authorized",
+      "Older adults: no dose adjustment over 65",
+      "Kidney: no dose adjustment",
+      "Liver: use with caution"
+    ],
+    "evidenceLevel": "Approved in Canada; extensive Phase 3 (AWARD) and cardiovascular outcome (REWIND) trials",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "TRULICITY (dulaglutide injection) Product Monograph",
+        "publisher": "Health Canada Drug Product Database (sponsor monograph)",
+        "url": "https://pdf.hres.ca/dpd_pm/00076182.PDF",
+        "publishedOrRevised": "2024-07-05",
+        "accessed": "2026-11-15",
+        "type": "monograph"
+      },
+      {
+        "id": "s2",
+        "title": "Drug Product Database API: products with brand name 'Trulicity'",
+        "publisher": "Health Canada",
+        "url": "https://health-products.canada.ca/api/drug/drugproduct/?lang=en&type=json&brandname=trulicity",
+        "publishedOrRevised": "live database",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "s3",
+        "title": "Drug Product Database API: marketing status of drug code 93431 (Trulicity 1.5 mg pen)",
+        "publisher": "Health Canada",
+        "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=93431",
+        "publishedOrRevised": "live database",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "s4",
+        "title": "Drug Product Database API: marketing status of drug code 101938 (Trulicity 4.5 mg pen)",
+        "publisher": "Health Canada",
+        "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=101938",
+        "publishedOrRevised": "live database",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "sA",
+        "title": "Summary Safety Review: GLP-1 receptor agonists and pulmonary aspiration during general anesthesia or deep sedation",
+        "publisher": "Health Canada",
+        "url": "https://dhpp.hpfb-dgpsa.ca/review-documents/resource/SSR1773942015728/",
+        "publishedOrRevised": "2026",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "sB",
+        "title": "Health Product InfoWatch: April 2026 (GLP-1 RA aspiration review)",
+        "publisher": "Health Canada",
+        "url": "https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada/health-product-infowatch/april-2026.html",
+        "publishedOrRevised": "2026-04",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      }
+    ],
+    "lastReviewed": "2026-11-15",
+    "openQuestions": [
+      "Monograph in DPD dated 2024-07-05 even though Health Canada's 2026 aspiration review updated GLP-1 RA monographs; check for a newer version (R5)",
+      "discardAfterDays 14 reflects the out-of-fridge allowance for single-use pens",
+      "Diabetic retinopathy not addressed in fetched text"
+    ],
+    "listSourceIds": {
+      "indications": [
+        "s1"
+      ],
+      "products": [
+        "s1",
+        "s2",
+        "s4"
+      ],
+      "commonSideEffects": [
+        "s1"
+      ],
+      "warnings": [
+        "s1",
+        "sA"
+      ],
+      "contraindications": [
+        "s1"
+      ],
+      "interactions": [
+        "s1"
+      ],
+      "nutritionNotes": [
+        "s1"
+      ],
+      "specialPopulations": [
+        "s1"
+      ]
+    }
+  },
+  {
+    "id": "insulin-glargine-lixisenatide",
+    "names": {
+      "generic": "insulin glargine + lixisenatide",
+      "brands": [
+        "Soliqua"
+      ]
+    },
+    "class": "Basal insulin + GLP-1 receptor agonist fixed-ratio combination",
+    "group": "Insulin/GLP-1 combination",
+    "usedFor": [
+      "Type 2 diabetes"
+    ],
+    "route": [
+      "subcutaneous"
+    ],
+    "status": "approved_ca",
+    "statusDetail": {
+      "healthCanada": "Marketed since 2018-09-12 (current formulation, DIN 02478293)",
+      "fda": "Not re-verified in R1 (Canada-focused pass). See openQuestions.",
+      "other": "",
+      "checkedOn": "2026-11-15",
+      "sourceIds": [
+        "s2",
+        "s3"
+      ]
+    },
+    "indications": [
+      "Adults with type 2 diabetes, with metformin, inadequately controlled on basal insulin (under 60 units daily) or on a GLP-1 receptor agonist with metformin"
+    ],
+    "mechanism": "Fixed-ratio combination of a long-acting insulin and the GLP-1 receptor agonist lixisenatide, once daily.",
+    "products": [
+      {
+        "brand": "Soliqua",
+        "din": "02478293",
+        "strengths": [
+          "insulin glargine 100 units/mL + lixisenatide 33 mcg/mL"
+        ],
+        "device": "3 mL SoloSTAR prefilled pen (300 units + 100 mcg); delivers 15 to 60 units per day; attach a new needle each time",
+        "monographUrl": "https://pdf.hres.ca/dpd_pm/00082751.PDF",
+        "monographDate": "2025-12-11"
+      }
+    ],
+    "deviceNotes": [
+      "Never share a pen between people, even if the needle is changed",
+      "Check the pen label before every injection"
+    ],
+    "doseInfo": [
+      {
+        "basis": "monograph",
+        "population": "Adults with type 2 diabetes",
+        "regimen": "Starting dose 15 units if previously on a GLP-1 receptor agonist or under 30 units of basal insulin; 30 units if on 30 to under 60 units of basal insulin. Adjust by 2 to 4 units weekly based on fasting glucose. Inject once daily within 1 hour before the first meal.",
+        "maxDose": "60 units daily (60 units insulin glargine + 20 mcg lixisenatide)",
+        "durationOrContext": "Dose in units (insulin-based)",
+        "sourceIds": [
+          "s1"
+        ]
+      }
+    ],
+    "missedDose": {
+      "text": "Inject within the hour before the next meal. Do not take an extra dose or increase the dose to make up for the missed dose.",
+      "windowHours": null,
+      "sourceIds": [
+        "s1"
+      ]
+    },
+    "storage": {
+      "unopened": "Refrigerate at 2 to 8 C, in the carton, protected from light; do not freeze. Let the pen stand at room temperature 1 to 2 hours before first use.",
+      "inUse": "Store up to 25 C; do not refrigerate; do not store with the needle attached",
+      "discardAfterDays": 28,
+      "sourceIds": [
+        "s1"
+      ]
+    },
+    "commonSideEffects": [
+      "Nausea 10.0%",
+      "Diarrhea 7.0%",
+      "Nasopharyngitis 7.0%",
+      "Upper respiratory infection 5.5%",
+      "Headache 5.4%",
+      "Documented symptomatic low blood sugar 31.9%"
+    ],
+    "warnings": [
+      "Boxed warning: low blood sugar is the most common adverse effect; uncorrected low or high blood sugar can cause loss of consciousness, coma or death; do not give IV or IM; do not mix or dilute",
+      "Pancreatitis: stop if suspected; do not restart if confirmed",
+      "Dehydration from GI reactions can worsen kidney function",
+      "Medication errors: check the label before each injection"
+    ],
+    "contraindications": [
+      "Hypersensitivity",
+      "Personal or family history of MTC or MEN 2",
+      "Pregnancy or breastfeeding",
+      "During low blood sugar episodes"
+    ],
+    "interactions": [
+      "Antibiotics and acetaminophen: take at least 1 hour before Soliqua; atorvastatin 1 hour before",
+      "Oral contraceptives: at least 1 hour before or at least 11 hours after the injection",
+      "Warfarin: monitor INR when starting or stopping",
+      "Sulfonylureas and basal insulin: may need dose reduction",
+      "Thiazolidinediones should not be used with Soliqua"
+    ],
+    "nutritionNotes": [
+      "Take within 1 hour before the first meal of the day",
+      "Avoid fluid depletion with GI side effects"
+    ],
+    "specialPopulations": [
+      "Pregnancy: should not be used",
+      "Breastfeeding: should not be used",
+      "Children: not established",
+      "Older adults: caution at 65+; limited at 75+",
+      "Kidney: not recommended if CrCl under 30 mL/min, end-stage or dialysis",
+      "Liver: not studied; insulin needs may fall"
+    ],
+    "evidenceLevel": "Approved in Canada; Phase 3 (LixiLan programme)",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "SOLIQUA (insulin glargine and lixisenatide injection) Product Monograph",
+        "publisher": "Health Canada Drug Product Database (sponsor monograph)",
+        "url": "https://pdf.hres.ca/dpd_pm/00082751.PDF",
+        "publishedOrRevised": "2025-12-11",
+        "accessed": "2026-11-15",
+        "type": "monograph"
+      },
+      {
+        "id": "s2",
+        "title": "Drug Product Database API: marketing status of drug code 96906 (Soliqua)",
+        "publisher": "Health Canada",
+        "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=96906",
+        "publishedOrRevised": "live database",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "s3",
+        "title": "Drug Product Database: Soliqua product page",
+        "publisher": "Health Canada",
+        "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=96906",
+        "publishedOrRevised": "live database",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      }
+    ],
+    "lastReviewed": "2026-11-15",
+    "openQuestions": [
+      "Whether pen needles are included in the pack not stated in fetched text"
+    ],
+    "listSourceIds": {
+      "indications": [
+        "s1"
+      ],
+      "products": [
+        "s1",
+        "s2"
+      ],
+      "commonSideEffects": [
+        "s1"
+      ],
+      "warnings": [
+        "s1"
+      ],
+      "contraindications": [
+        "s1"
+      ],
+      "interactions": [
+        "s1"
+      ],
+      "nutritionNotes": [
+        "s1"
+      ],
+      "specialPopulations": [
+        "s1"
+      ]
+    }
+  }
+]

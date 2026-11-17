@@ -1,0 +1,56 @@
+{
+  "pass": "R1",
+  "title": "Products approved in Canada",
+  "checkedOn": "2026-11-15",
+  "groupOrder": [
+    "GLP-1 receptor agonist",
+    "GIP/GLP-1 dual receptor agonist",
+    "Insulin/GLP-1 combination"
+  ],
+  "useFilters": [
+    "Type 2 diabetes",
+    "Weight management",
+    "Cardiovascular risk reduction",
+    "Obstructive sleep apnea",
+    "MASH (liver)"
+  ],
+  "excluded": [
+    {
+      "name": "Byetta (exenatide)",
+      "reason": "Cancelled post market 2022-01-06 (no longer sold in Canada)",
+      "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=84685"
+    },
+    {
+      "name": "Bydureon (exenatide extended-release)",
+      "reason": "Cancelled post market 2022-04-01",
+      "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=93433"
+    },
+    {
+      "name": "Bydureon BCise",
+      "reason": "Cancelled pre market 2022-05-30 (never sold)",
+      "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=97365"
+    },
+    {
+      "name": "Adlyxine (lixisenatide alone)",
+      "reason": "Cancelled post market 2023-05-04",
+      "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=95243"
+    },
+    {
+      "name": "Xultophy (insulin degludec + liraglutide)",
+      "reason": "Cancelled post market 2025-12-31",
+      "url": "https://health-products.canada.ca/api/drug/status/?lang=en&type=json&id=96506"
+    },
+    {
+      "name": "Generic liraglutide",
+      "reason": "None found in the Drug Product Database at check",
+      "url": "https://health-products.canada.ca/api/drug/activeingredient/?lang=en&type=json&ingredientname=liraglutide"
+    }
+  ],
+  "openQuestions": [
+    "FDA (US) status was not re-verified for these Canadian products in R1; the US column says so. R2/R5 can fill it from FDA labels."
+  ],
+  "notes": [
+    "Health Canada (Jan 2026) warns not to buy or use unauthorized or counterfeit GLP-1 products; buy only from licensed pharmacies with a prescription.",
+    "Health Canada's 2026 safety review found a possible link between GLP-1 receptor agonists and pulmonary aspiration during general anesthesia or deep sedation; all GLP-1 RA monographs are being updated."
+  ]
+}

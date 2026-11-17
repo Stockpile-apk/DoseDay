@@ -1,0 +1,1688 @@
+[
+  {
+    "products": [],
+    "missedDose": {
+      "text": "",
+      "windowHours": null,
+      "sourceIds": []
+    },
+    "storage": {
+      "unopened": "",
+      "inUse": "",
+      "discardAfterDays": null,
+      "sourceIds": []
+    },
+    "nutritionNotes": [],
+    "interactions": [],
+    "contraindications": [],
+    "warnings": [
+      "US label carries a boxed warning for thyroid C-cell tumours; not for people with personal/family history of MTC or MEN 2"
+    ],
+    "lastReviewed": "2026-11-15",
+    "id": "orforglipron",
+    "names": {
+      "generic": "orforglipron",
+      "brands": [
+        "Foundayo (US)"
+      ]
+    },
+    "class": "Oral small-molecule (non-peptide) GLP-1 receptor agonist",
+    "group": "Recently approved elsewhere",
+    "usedFor": [
+      "Weight management"
+    ],
+    "route": [
+      "oral"
+    ],
+    "status": "approved_elsewhere",
+    "statusDetail": {
+      "healthCanada": "Under review: orforglipron calcium accepted into review 2026-01 as a new active substance (aligned review with a health technology assessment body). Not approved in Canada as of the list dated 2026-09-30.",
+      "fda": "Approved 2026-04-01 (Foundayo) for chronic weight management in adults with obesity, or overweight with at least one weight-related condition, with reduced-calorie diet and more activity. FDA describes once-daily dosing starting at 0.8 mg, increased to 2.5 mg after at least 30 days, then 5.5 mg after another 30 days (US label; not a Canadian monograph). Boxed warning for thyroid C-cell tumours.",
+      "other": "",
+      "checkedOn": "2026-11-15",
+      "sourceIds": [
+        "hc1",
+        "f1"
+      ]
+    },
+    "statusTimeline": [
+      {
+        "date": "2025-09-16",
+        "regulator": "Journal",
+        "event": "ATTAIN-1 Phase 3 published (NEJM)",
+        "sourceIds": [
+          "t1"
+        ]
+      },
+      {
+        "date": "2026-01",
+        "regulator": "Health Canada",
+        "event": "New drug submission accepted into review",
+        "sourceIds": [
+          "hc1"
+        ]
+      },
+      {
+        "date": "2026-04-01",
+        "regulator": "FDA",
+        "event": "Approved for chronic weight management (Foundayo)",
+        "sourceIds": [
+          "f1"
+        ]
+      }
+    ],
+    "indications": [
+      "US (FDA): chronic weight management in adults with obesity or overweight with at least one weight-related condition"
+    ],
+    "mechanism": "Once-daily pill that activates the GLP-1 receptor; a small molecule, not a peptide. FDA notes it can be taken without food or water restrictions.",
+    "trialProgramme": [
+      "ATTAIN (obesity): ATTAIN-1 Phase 3, 72 weeks, 3,127 adults with obesity without diabetes (NCT05869903)",
+      "ACHIEVE (type 2 diabetes) Phase 3 programme"
+    ],
+    "doseInfo": [
+      {
+        "basis": "trial",
+        "population": "Adults with obesity without diabetes (ATTAIN-1, n=3,127)",
+        "regimen": "Once-daily oral orforglipron 6 mg, 12 mg or 36 mg vs placebo, with healthy diet and activity",
+        "maxDose": "36 mg once daily (highest trial dose)",
+        "durationOrContext": "72 weeks, Phase 3",
+        "sourceIds": [
+          "t1"
+        ]
+      }
+    ],
+    "efficacySummary": [
+      "ATTAIN-1: mean weight change at 72 weeks -12.4% on 36 mg vs -0.9% placebo (on-treatment estimand); about -11.1% vs -2.1% regardless of adherence (as reported)",
+      "Stopped due to side effects: 5.3% to 10.3% across doses vs 2.7% placebo"
+    ],
+    "commonSideEffects": [
+      "Mostly gastrointestinal: nausea, constipation, diarrhea, vomiting, indigestion, abdominal pain (FDA lists also headache, fatigue, burping, reflux, gas, hair loss)"
+    ],
+    "unpublished": [
+      "Canadian monograph not yet issued; Canadian dosing not established",
+      "Long-term cardiovascular outcomes in obesity"
+    ],
+    "evidenceLevel": "Approved in the US; Phase 3 published (NEJM 2025); under Health Canada review",
+    "sources": [
+      {
+        "id": "hc1",
+        "title": "New drug submissions under review (current as of 2026-09-30)",
+        "publisher": "Health Canada",
+        "url": "https://www.canada.ca/en/health-canada/services/drug-health-product-review-approval/submissions-under-review/new-drug-submissions-under-review.html",
+        "publishedOrRevised": "2026-09-30",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "f1",
+        "title": "FDA approves Foundayo (orforglipron) — fastest approval of a new molecular entity since 2002 (FDA news bulletin)",
+        "publisher": "U.S. FDA",
+        "url": "https://content.govdelivery.com/accounts/USFDA/bulletins/4110b78",
+        "publishedOrRevised": "2026-04-01",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "t1",
+        "title": "Wharton S, et al. Orforglipron, an Oral Small-Molecule GLP-1 Receptor Agonist for Obesity Treatment (ATTAIN-1). N Engl J Med 2025;393(18):1796-1806",
+        "publisher": "NEJM (PubMed record)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40960239/",
+        "publishedOrRevised": "2025-09-16",
+        "accessed": "2026-11-15",
+        "type": "trial"
+      },
+      {
+        "id": "n1",
+        "title": "FDA Approves Orforglipron (Foundayo) for Chronic Weight Management",
+        "publisher": "Consultant360 (secondary report of FDA/Lilly releases)",
+        "url": "https://www.consultant360.com/fda-alerts/fda-approves-orforglipron-foundayo-chronic-weight-management",
+        "publishedOrRevised": "2026-04",
+        "accessed": "2026-11-15",
+        "type": "news"
+      }
+    ],
+    "openQuestions": [
+      "US label strengths (0.8 to 17.2 mg) differ from trial doses (6/12/36 mg); confirm explanation from FDA label (R5)",
+      "Efficacy figures taken from a secondary report of Lilly/FDA releases; confirm against the NEJM full text"
+    ],
+    "listSourceIds": {
+      "indications": [
+        "f1"
+      ],
+      "trialProgramme": [
+        "t1"
+      ],
+      "efficacySummary": [
+        "t1",
+        "n1"
+      ],
+      "commonSideEffects": [
+        "f1",
+        "n1"
+      ],
+      "warnings": [
+        "f1"
+      ],
+      "unpublished": [
+        "hc1"
+      ]
+    }
+  },
+  {
+    "products": [],
+    "missedDose": {
+      "text": "",
+      "windowHours": null,
+      "sourceIds": []
+    },
+    "storage": {
+      "unopened": "",
+      "inUse": "",
+      "discardAfterDays": null,
+      "sourceIds": []
+    },
+    "nutritionNotes": [],
+    "interactions": [],
+    "contraindications": [],
+    "warnings": [],
+    "lastReviewed": "2026-11-15",
+    "id": "semaglutide-oral-25mg",
+    "names": {
+      "generic": "semaglutide (oral, 25 mg)",
+      "brands": [
+        "Wegovy pill (US)"
+      ]
+    },
+    "class": "GLP-1 receptor agonist (oral)",
+    "group": "Recently approved elsewhere",
+    "usedFor": [
+      "Weight management",
+      "Cardiovascular risk reduction"
+    ],
+    "route": [
+      "oral"
+    ],
+    "status": "approved_elsewhere",
+    "statusDetail": {
+      "healthCanada": "Not approved in Canada for weight management. BC PAD (Summer 2026) states oral semaglutide for chronic weight management is under Health Canada review; Health Canada's supplemental list shows a semaglutide new-use submission accepted 2026-01 without naming the use (unconfirmed which product).",
+      "fda": "Approved 2025-12-22 (Wegovy pill, oral semaglutide 25 mg once daily) for weight reduction and maintenance and to reduce major adverse cardiovascular events (as reported).",
+      "other": "",
+      "checkedOn": "2026-11-15",
+      "sourceIds": [
+        "hc2",
+        "hc3",
+        "n1",
+        "n2"
+      ]
+    },
+    "statusTimeline": [
+      {
+        "date": "2025-09",
+        "regulator": "Journal",
+        "event": "OASIS 4 Phase 3 published (NEJM)",
+        "sourceIds": [
+          "t1"
+        ]
+      },
+      {
+        "date": "2025-12-22",
+        "regulator": "FDA",
+        "event": "Approved (Wegovy pill)",
+        "sourceIds": [
+          "n1",
+          "n2"
+        ]
+      },
+      {
+        "date": "2026-01",
+        "regulator": "Health Canada",
+        "event": "Semaglutide supplemental new-use submission accepted (use not named)",
+        "sourceIds": [
+          "hc2"
+        ]
+      }
+    ],
+    "indications": [
+      "US: chronic weight management and cardiovascular risk reduction (as reported)"
+    ],
+    "mechanism": "Daily semaglutide tablet at a higher dose than Rybelsus because oral absorption is limited.",
+    "trialProgramme": [
+      "OASIS 4: Phase 3, 64 weeks, 307 adults with overweight or obesity without diabetes (NCT05564117)"
+    ],
+    "doseInfo": [
+      {
+        "basis": "trial",
+        "population": "Adults with overweight or obesity without diabetes (OASIS 4, n=307)",
+        "regimen": "Oral semaglutide 25 mg once daily vs placebo, with lifestyle intervention",
+        "maxDose": "25 mg once daily (trial dose)",
+        "durationOrContext": "64 weeks, Phase 3",
+        "sourceIds": [
+          "t1"
+        ]
+      }
+    ],
+    "efficacySummary": [
+      "OASIS 4: -16.6% vs -2.7% placebo at 64 weeks if all stayed on treatment; about 1 in 3 lost at least 20% (as reported)"
+    ],
+    "commonSideEffects": [
+      "Mostly gastrointestinal: nausea, vomiting, constipation"
+    ],
+    "unpublished": [
+      "Canadian decision pending; Canadian monograph dosing not available"
+    ],
+    "evidenceLevel": "Approved in the US; Phase 3 published (NEJM 2025); Canadian review reported but product not named on Health Canada list",
+    "sources": [
+      {
+        "id": "hc2",
+        "title": "Supplemental submissions under review (current as of 2026-09-30)",
+        "publisher": "Health Canada",
+        "url": "https://www.canada.ca/en/health-canada/services/drug-health-product-review-approval/submissions-under-review/supplemental-submissions-under-review.html",
+        "publishedOrRevised": "2026-09-30",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "hc3",
+        "title": "Medications for Chronic Weight Management in Adults: Update on semaglutide and tirzepatide (Summer 2026)",
+        "publisher": "BC Provincial Academic Detailing Service",
+        "url": "https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/provincial-academic-detailing-service/bc_pad_2026_semaglutide_tirzepatide_chronic_weight_management_summer_2026_update.pdf",
+        "publishedOrRevised": "2026 (Summer)",
+        "accessed": "2026-11-15",
+        "type": "guideline"
+      },
+      {
+        "id": "t1",
+        "title": "Wharton S, et al. Oral Semaglutide at a Dose of 25 mg in Adults with Overweight or Obesity (OASIS 4). N Engl J Med 2025;393(11):1077-1087",
+        "publisher": "NEJM (PubMed record)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40934115/",
+        "publishedOrRevised": "2025-09-18",
+        "accessed": "2026-11-15",
+        "type": "trial"
+      },
+      {
+        "id": "n1",
+        "title": "FDA Approves First Oral GLP-1 for Weight Management",
+        "publisher": "Pharmacy Times (secondary report of Novo Nordisk release)",
+        "url": "https://www.pharmacytimes.com/view/fda-approves-first-oral-glp-1-for-weight-management",
+        "publishedOrRevised": "2025-12-23",
+        "accessed": "2026-11-15",
+        "type": "news"
+      },
+      {
+        "id": "n2",
+        "title": "FDA approves Wegovy pill, the first oral GLP-1 to treat obesity",
+        "publisher": "Healio (secondary)",
+        "url": "https://www.healio.com/news/endocrinology/20260213/fda-approves-wegovy-pill-the-first-oral-glp1-to-treat-obesity",
+        "publishedOrRevised": "2025-12-23",
+        "accessed": "2026-11-15",
+        "type": "news"
+      }
+    ],
+    "openQuestions": [
+      "Health Canada's 2026-01 semaglutide new-use submission does not say which product or use; BC PAD says oral semaglutide for weight management is under review. Treat as unconfirmed until Health Canada decides",
+      "Titration schedule from the US label not captured here (only trial dose)"
+    ],
+    "listSourceIds": {
+      "indications": [
+        "n1",
+        "n2"
+      ],
+      "trialProgramme": [
+        "t1"
+      ],
+      "efficacySummary": [
+        "n2"
+      ],
+      "commonSideEffects": [
+        "n2"
+      ],
+      "unpublished": [
+        "hc2",
+        "hc3"
+      ]
+    }
+  },
+  {
+    "products": [],
+    "missedDose": {
+      "text": "",
+      "windowHours": null,
+      "sourceIds": []
+    },
+    "storage": {
+      "unopened": "",
+      "inUse": "",
+      "discardAfterDays": null,
+      "sourceIds": []
+    },
+    "nutritionNotes": [],
+    "interactions": [],
+    "contraindications": [],
+    "warnings": [
+      "Boxed warning for thyroid C-cell tumours (as for all semaglutide)",
+      "FDA says it is further investigating the skin-sensation (dysesthesia) reaction"
+    ],
+    "lastReviewed": "2026-11-15",
+    "id": "semaglutide-7-2mg",
+    "names": {
+      "generic": "semaglutide 7.2 mg (higher-dose injection)",
+      "brands": [
+        "Wegovy HD (US)",
+        "Wegovy 7.2 mg (EU)"
+      ]
+    },
+    "class": "GLP-1 receptor agonist",
+    "group": "Recently approved elsewhere",
+    "usedFor": [
+      "Weight management"
+    ],
+    "route": [
+      "subcutaneous"
+    ],
+    "status": "approved_elsewhere",
+    "statusDetail": {
+      "healthCanada": "Not approved in Canada (Canadian Wegovy maximum is 2.4 mg weekly; see R1). Whether the semaglutide new-use submission accepted by Health Canada in 2026-01 concerns 7.2 mg is unconfirmed.",
+      "fda": "Approved 2026-03 (Wegovy HD 7.2 mg) for weight reduction and long-term maintenance in adults with obesity, or overweight with at least one weight-related condition; reported to be for people who have tolerated 2.4 mg.",
+      "other": "European Commission approved a 7.2 mg weekly maintenance dose in 2026-02 (CHMP opinion 2025-12-12), reported as given as three 2.4 mg injections in one session; also authorised in the UK (as reported).",
+      "checkedOn": "2026-11-15",
+      "sourceIds": [
+        "hc2",
+        "f1",
+        "n1",
+        "n3"
+      ]
+    },
+    "statusTimeline": [
+      {
+        "date": "2025-09-14",
+        "regulator": "Journal",
+        "event": "STEP UP and STEP UP T2D published (Lancet Diabetes Endocrinol)",
+        "sourceIds": [
+          "t1",
+          "t2"
+        ]
+      },
+      {
+        "date": "2026-02",
+        "regulator": "European Commission",
+        "event": "7.2 mg maintenance dose approved (as reported)",
+        "sourceIds": [
+          "n3"
+        ]
+      },
+      {
+        "date": "2026-03",
+        "regulator": "FDA",
+        "event": "Wegovy HD 7.2 mg approved",
+        "sourceIds": [
+          "f1"
+        ]
+      }
+    ],
+    "indications": [
+      "US/EU: weight reduction and maintenance in adults with obesity (or overweight with a weight-related condition)"
+    ],
+    "mechanism": "Same drug as Wegovy at three times the 2.4 mg maximum weekly dose.",
+    "trialProgramme": [
+      "STEP UP: Phase 3b, 72 weeks, 1,407 adults with BMI 30 or more without diabetes (NCT05646706)",
+      "STEP UP T2D: Phase 3b, 72 weeks, about 512 adults with obesity and type 2 diabetes (NCT05649137)"
+    ],
+    "doseInfo": [
+      {
+        "basis": "trial",
+        "population": "Adults with obesity without diabetes (STEP UP)",
+        "regimen": "Semaglutide 7.2 mg once weekly vs 2.4 mg vs placebo, with lifestyle intervention",
+        "maxDose": "7.2 mg once weekly (trial dose)",
+        "durationOrContext": "72 weeks, Phase 3b",
+        "sourceIds": [
+          "t1"
+        ]
+      },
+      {
+        "basis": "trial",
+        "population": "Adults with obesity and type 2 diabetes (STEP UP T2D)",
+        "regimen": "Semaglutide 7.2 mg vs 2.4 mg vs placebo once weekly",
+        "maxDose": "7.2 mg once weekly (trial dose)",
+        "durationOrContext": "72 weeks, Phase 3b",
+        "sourceIds": [
+          "t2"
+        ]
+      }
+    ],
+    "efficacySummary": [
+      "STEP UP: -18.7% (7.2 mg) vs -15.6% (2.4 mg) vs -3.9% placebo at 72 weeks",
+      "STEP UP T2D: about -13% (7.2 mg) vs -10% (2.4 mg) vs -3.9% placebo"
+    ],
+    "commonSideEffects": [
+      "GI events about 71% (7.2 mg) vs 61% (2.4 mg) vs 43% placebo",
+      "Dysesthesia (abnormal skin sensations such as burning or tingling): 22.9% (7.2 mg) vs 6.0% (2.4 mg) vs 0.5% placebo",
+      "Serious adverse events 6.8% (7.2 mg) vs 10.9% (2.4 mg) vs 5.5% placebo"
+    ],
+    "unpublished": [
+      "No Canadian decision; no Canadian monograph dosing above 2.4 mg"
+    ],
+    "evidenceLevel": "Approved in the US and EU; Phase 3b published (Lancet Diabetes Endocrinol 2025); not approved in Canada",
+    "sources": [
+      {
+        "id": "hc2",
+        "title": "Supplemental submissions under review (current as of 2026-09-30)",
+        "publisher": "Health Canada",
+        "url": "https://www.canada.ca/en/health-canada/services/drug-health-product-review-approval/submissions-under-review/supplemental-submissions-under-review.html",
+        "publishedOrRevised": "2026-09-30",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "f1",
+        "title": "FDA approves higher dose (7.2 mg) Wegovy injection, Wegovy HD (FDA news bulletin)",
+        "publisher": "U.S. FDA",
+        "url": "https://content.govdelivery.com/accounts/USFDA/bulletins/40f1461",
+        "publishedOrRevised": "2026-03",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "t1",
+        "title": "Wharton S, et al. Once-weekly semaglutide 7.2 mg in adults with obesity (STEP UP): a randomised, controlled, phase 3b trial. Lancet Diabetes Endocrinol 2025;13(11):949-963",
+        "publisher": "The Lancet Diabetes & Endocrinology",
+        "url": "https://www.thelancet.com/journals/landia/article/PIIS2213-8587(25)00226-8/fulltext",
+        "publishedOrRevised": "2025-09-14",
+        "accessed": "2026-11-15",
+        "type": "trial"
+      },
+      {
+        "id": "t2",
+        "title": "Lingvay I, et al. Once-weekly semaglutide 7.2 mg in adults with obesity and type 2 diabetes (STEP UP T2D): a randomised, controlled, phase 3b trial",
+        "publisher": "The Lancet Diabetes & Endocrinology",
+        "url": "https://www.thelancet.com/journals/landia/article/PIIS2213-8587(25)00225-6/fulltext",
+        "publishedOrRevised": "2025-09-14",
+        "accessed": "2026-11-15",
+        "type": "trial"
+      },
+      {
+        "id": "n1",
+        "title": "Higher-dose semaglutide approved under new FDA accelerated review process",
+        "publisher": "AJMC (secondary)",
+        "url": "https://ajmc.com/view/higher-dose-semaglutide-approved-under-new-fda-accelerated-review-process",
+        "publishedOrRevised": "2026-03-20",
+        "accessed": "2026-11-15",
+        "type": "news"
+      },
+      {
+        "id": "n2",
+        "title": "What pharmacists should know: high-dose semaglutide safety profile",
+        "publisher": "Pharmacy Times (secondary)",
+        "url": "https://www.pharmacytimes.com/view/what-pharmacists-should-know-high-dose-semaglutide-safety-profile",
+        "publishedOrRevised": "2026-05-14",
+        "accessed": "2026-11-15",
+        "type": "news"
+      },
+      {
+        "id": "n3",
+        "title": "New higher-dose Wegovy approved in Europe",
+        "publisher": "Gulf News (secondary report of European Commission decision)",
+        "url": "https://gulfnews.com/world/europe/new-higher-dose-wegovy-approved-in-europe-after-study-shows-21-weight-loss-1.500448407",
+        "publishedOrRevised": "2026-02",
+        "accessed": "2026-11-15",
+        "type": "news"
+      }
+    ],
+    "openQuestions": [
+      "EU approval details come from a news report of the European Commission decision; confirm against the EMA EPAR variation (R5)",
+      "Confirm whether Health Canada's 2026-01 semaglutide new-use submission is for 7.2 mg"
+    ],
+    "listSourceIds": {
+      "indications": [
+        "f1",
+        "n3"
+      ],
+      "trialProgramme": [
+        "t1",
+        "t2",
+        "n1"
+      ],
+      "efficacySummary": [
+        "n1"
+      ],
+      "commonSideEffects": [
+        "n2"
+      ],
+      "warnings": [
+        "f1",
+        "n2"
+      ],
+      "unpublished": [
+        "hc2"
+      ]
+    }
+  },
+  {
+    "products": [],
+    "missedDose": {
+      "text": "",
+      "windowHours": null,
+      "sourceIds": []
+    },
+    "storage": {
+      "unopened": "",
+      "inUse": "",
+      "discardAfterDays": null,
+      "sourceIds": []
+    },
+    "nutritionNotes": [],
+    "interactions": [],
+    "contraindications": [],
+    "warnings": [],
+    "lastReviewed": "2026-11-15",
+    "id": "cagrilintide-semaglutide",
+    "names": {
+      "generic": "cagrilintide + semaglutide",
+      "brands": [
+        "CagriSema (development name)"
+      ]
+    },
+    "class": "Amylin analogue + GLP-1 receptor agonist (fixed-dose combination)",
+    "group": "Under regulatory review",
+    "usedFor": [
+      "Weight management",
+      "Type 2 diabetes (in trials)"
+    ],
+    "route": [
+      "subcutaneous"
+    ],
+    "status": "investigational",
+    "statusDetail": {
+      "healthCanada": "Under review: cagrilintide/semaglutide accepted into review 2026-03 as a new active substance (therapeutic area 'drugs used in diabetes'). Not approved in Canada.",
+      "fda": "New Drug Application submitted 2025-12-18 for chronic weight management (cagrilintide 2.4 mg / semaglutide 2.4 mg). Not approved at the time of the company's filing announcement; Novo Nordisk guided to an FDA decision in Q4 2026. No FDA decision announced as of 2026-11-06 (news report).",
+      "other": "Not approved in the EU (company statement at filing).",
+      "checkedOn": "2026-11-15",
+      "sourceIds": [
+        "hc1",
+        "p1",
+        "n1",
+        "n2"
+      ]
+    },
+    "statusTimeline": [
+      {
+        "date": "2025",
+        "regulator": "Journal",
+        "event": "REDEFINE 1 Phase 3 published (NEJM)",
+        "sourceIds": [
+          "t1"
+        ]
+      },
+      {
+        "date": "2025-12-18",
+        "regulator": "FDA",
+        "event": "NDA submitted (company announcement)",
+        "sourceIds": [
+          "p1"
+        ]
+      },
+      {
+        "date": "2026-02-23",
+        "regulator": "Sponsor",
+        "event": "REDEFINE 4 (vs tirzepatide 15 mg) missed its non-inferiority primary endpoint",
+        "sourceIds": [
+          "p2"
+        ]
+      },
+      {
+        "date": "2026-03",
+        "regulator": "Health Canada",
+        "event": "Accepted into review as new active substance",
+        "sourceIds": [
+          "hc1"
+        ]
+      }
+    ],
+    "indications": [
+      "Sought (US): chronic weight management in adults with obesity or overweight with at least one weight-related condition"
+    ],
+    "mechanism": "Once-weekly injection combining cagrilintide (a long-acting amylin analogue) with semaglutide (GLP-1 receptor agonist).",
+    "trialProgramme": [
+      "REDEFINE (obesity) Phase 3: REDEFINE 1 (68 weeks, without diabetes) and REDEFINE 2",
+      "REIMAGINE (type 2 diabetes) Phase 3"
+    ],
+    "doseInfo": [
+      {
+        "basis": "trial",
+        "population": "Adults with obesity or overweight without diabetes (REDEFINE 1)",
+        "regimen": "Once-weekly cagrilintide 2.4 mg + semaglutide 2.4 mg vs semaglutide 2.4 mg alone vs cagrilintide 2.4 mg alone vs placebo, with lifestyle intervention",
+        "maxDose": "2.4 mg / 2.4 mg once weekly (trial dose)",
+        "durationOrContext": "68 weeks, Phase 3",
+        "sourceIds": [
+          "t1",
+          "p1"
+        ]
+      },
+      {
+        "basis": "trial",
+        "population": "Cagrilintide alone",
+        "regimen": "No established human dose outside the combination trials; cagrilintide alone is not submitted for approval",
+        "maxDose": "",
+        "durationOrContext": "",
+        "sourceIds": [
+          "p1"
+        ]
+      }
+    ],
+    "efficacySummary": [
+      "REDEFINE 1: -22.7% vs -2.3% placebo if all stayed on treatment; -20.4% vs -3.0% regardless of adherence",
+      "91.9% reached at least 5% weight loss vs 31.5% placebo",
+      "REDEFINE 4 (open-label, 84 weeks, n=809, vs tirzepatide 15 mg): -23.0% vs -25.5% (efficacy estimand), -20.2% vs -23.6% (treatment-regimen); non-inferiority to tirzepatide not shown (sponsor topline)"
+    ],
+    "commonSideEffects": [
+      "GI adverse events 79.6% vs 39.9% placebo: nausea 55% vs 12.6%, constipation 30.7% vs 11.6%, vomiting 26.1% vs 4.1%",
+      "Stopped due to adverse events: under 10% in REDEFINE 1 and 2"
+    ],
+    "unpublished": [
+      "Regulatory decisions pending in US and Canada; final labelled dosing unknown"
+    ],
+    "evidenceLevel": "Phase 3 published (NEJM 2025); under FDA and Health Canada review",
+    "sources": [
+      {
+        "id": "hc1",
+        "title": "New drug submissions under review (current as of 2026-09-30)",
+        "publisher": "Health Canada",
+        "url": "https://www.canada.ca/en/health-canada/services/drug-health-product-review-approval/submissions-under-review/new-drug-submissions-under-review.html",
+        "publishedOrRevised": "2026-09-30",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "p1",
+        "title": "Novo Nordisk files for FDA approval of CagriSema (NDA submission announcement)",
+        "publisher": "Novo Nordisk (company announcement)",
+        "url": "https://www.novonordisk.com/content/nncorp/global/en/news-and-media/news-and-ir-materials/news-details.html?id=916470",
+        "publishedOrRevised": "2025-12-18",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "t1",
+        "title": "Garvey WT, et al. Coadministered cagrilintide and semaglutide in adults with overweight or obesity (REDEFINE 1). N Engl J Med 2025;393:635-647",
+        "publisher": "NEJM (cited in Novo Nordisk announcement)",
+        "url": "https://www.novonordisk.com/content/nncorp/global/en/news-and-media/news-and-ir-materials/news-details.html?id=916470",
+        "publishedOrRevised": "2025",
+        "accessed": "2026-11-15",
+        "type": "trial"
+      },
+      {
+        "id": "n1",
+        "title": "Novo Nordisk Files NDA for CagriSema",
+        "publisher": "Patient Care Online (secondary)",
+        "url": "https://www.patientcareonline.com/view/novo-nordisk-files-nda-for-cagrisema-novel-glp-1-amylin-combination-for-chronic-weight-management",
+        "publishedOrRevised": "2025-12-18",
+        "accessed": "2026-11-15",
+        "type": "news"
+      },
+      {
+        "id": "p2",
+        "title": "CagriSema demonstrated 23% weight loss in open-label head-to-head REDEFINE 4 trial; the primary endpoint was not achieved",
+        "publisher": "Novo Nordisk (company release via GlobeNewswire)",
+        "url": "https://www.globenewswire.com/news-release/2026/02/23/3242381/0/en/novo-nordisk-a-s-cagrisema-demonstrated-23-weight-loss-in-an-open-label-head-to-head-redefine-4-trial-in-people-with-obesity-the-primary-endpoint-was-not-achieved.html",
+        "publishedOrRevised": "2026-02-23",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "n2",
+        "title": "Novo Nordisk: FDA hurdle for CagriSema? (CEO: US launch early 2027 possible if approved late 2026; decision still pending)",
+        "publisher": "Boerse Global (secondary, German)",
+        "url": "https://www.boerse-global.de/novo-nordisk-aktie-fda-huerde-fuer-cagrisema/839486",
+        "publishedOrRevised": "2026-11-06",
+        "accessed": "2026-11-15",
+        "type": "news"
+      }
+    ],
+    "openQuestions": [
+      "FDA decision expected Q4 2026 per company guidance; check for an approval or complete response letter after 2026-11-15",
+      "REDEFINE 1 NEJM URL not opened directly; citation taken from Novo Nordisk's announcement"
+    ],
+    "listSourceIds": {
+      "indications": [
+        "p1"
+      ],
+      "trialProgramme": [
+        "p1",
+        "n1"
+      ],
+      "efficacySummary": [
+        "p1",
+        "n1",
+        "p2"
+      ],
+      "commonSideEffects": [
+        "p1",
+        "n1"
+      ],
+      "unpublished": [
+        "hc1",
+        "p1"
+      ]
+    }
+  },
+  {
+    "products": [],
+    "missedDose": {
+      "text": "",
+      "windowHours": null,
+      "sourceIds": []
+    },
+    "storage": {
+      "unopened": "",
+      "inUse": "",
+      "discardAfterDays": null,
+      "sourceIds": []
+    },
+    "nutritionNotes": [],
+    "interactions": [],
+    "contraindications": [],
+    "warnings": [],
+    "lastReviewed": "2026-11-15",
+    "id": "retatrutide",
+    "names": {
+      "generic": "retatrutide",
+      "brands": [
+        "(no brand; LY3437943)"
+      ]
+    },
+    "class": "GIP, GLP-1 and glucagon receptor agonist (triple agonist)",
+    "group": "Phase 3 (not yet submitted)",
+    "usedFor": [
+      "Weight management",
+      "Type 2 diabetes (in trials)",
+      "Knee osteoarthritis pain (in trials)",
+      "Obstructive sleep apnea (in trials)"
+    ],
+    "route": [
+      "subcutaneous"
+    ],
+    "status": "investigational",
+    "statusDetail": {
+      "healthCanada": "Not on Health Canada's lists of drug submissions under review (current as of 2026-09-30); no Canadian approval found.",
+      "fda": "Not approved. Lilly stated (2026-07-23) it has the data package to support global submissions; a US submission was reported as planned (timing reported differently: late 2026 or Q1 2027).",
+      "other": "Not approved anywhere found.",
+      "checkedOn": "2026-11-15",
+      "sourceIds": [
+        "hc1",
+        "p1",
+        "n2"
+      ]
+    },
+    "statusTimeline": [
+      {
+        "date": "2023-06-26",
+        "regulator": "Journal",
+        "event": "Phase 2 obesity trial published (NEJM)",
+        "sourceIds": [
+          "t1"
+        ]
+      },
+      {
+        "date": "2026-07-23",
+        "regulator": "Sponsor",
+        "event": "TRIUMPH-2 and TRIUMPH-3 positive topline; data package for submissions",
+        "sourceIds": [
+          "p1"
+        ]
+      },
+      {
+        "date": "2026-09-29",
+        "regulator": "Journal",
+        "event": "TRIUMPH-1 (NEJM) and TRIUMPH-2 (Lancet) published",
+        "sourceIds": [
+          "t2",
+          "t3"
+        ]
+      }
+    ],
+    "indications": [
+      "None approved"
+    ],
+    "mechanism": "Once-weekly single molecule that activates GIP, GLP-1 and glucagon receptors.",
+    "trialProgramme": [
+      "TRIUMPH-1: Phase 3, 80 weeks, 2,339 adults with obesity/overweight without diabetes (NCT05929066)",
+      "TRIUMPH-2: Phase 3, 80 weeks, 1,152 adults with obesity and type 2 diabetes (NCT05929079)",
+      "TRIUMPH-3: Phase 3, 80 weeks, 1,949 adults with BMI 35+ and established cardiovascular disease (NCT05882045)",
+      "TRIUMPH-4 (knee osteoarthritis) and TRANSCEND-T2D programme"
+    ],
+    "doseInfo": [
+      {
+        "basis": "trial",
+        "population": "Adults with obesity without diabetes (Phase 2, NEJM 2023)",
+        "regimen": "Once-weekly retatrutide 1 mg, 4 mg (start 2 or 4 mg), 8 mg (start 2 or 4 mg) or 12 mg (start 2 mg) vs placebo",
+        "maxDose": "12 mg once weekly",
+        "durationOrContext": "48 weeks, Phase 2",
+        "sourceIds": [
+          "t1"
+        ]
+      },
+      {
+        "basis": "trial",
+        "population": "Adults with obesity/overweight without diabetes (TRIUMPH-1)",
+        "regimen": "Once-weekly retatrutide 4 mg, 9 mg or 12 mg vs placebo; escalation every 4 weeks from 2 mg (as reported)",
+        "maxDose": "12 mg once weekly",
+        "durationOrContext": "80 weeks, Phase 3",
+        "sourceIds": [
+          "t2",
+          "n1"
+        ]
+      },
+      {
+        "basis": "trial",
+        "population": "Adults with obesity and type 2 diabetes (TRIUMPH-2)",
+        "regimen": "Once-weekly retatrutide 4 mg, 9 mg or 12 mg vs placebo",
+        "maxDose": "12 mg once weekly",
+        "durationOrContext": "80 weeks, Phase 3",
+        "sourceIds": [
+          "t3",
+          "p1"
+        ]
+      }
+    ],
+    "efficacySummary": [
+      "Phase 2: up to -24.2% at 48 weeks on 12 mg",
+      "TRIUMPH-1 topline at 80 weeks: -17.6% (4 mg), -23.7% (9 mg), -25.0% (12 mg) vs -3.9% placebo; up to about 30% at 104 weeks in severe obesity (as reported)",
+      "TRIUMPH-3 at 80 weeks: -21.6% (9 mg) and -22.6% (12 mg) vs -3.2% placebo; cardiovascular event analyses inconclusive"
+    ],
+    "commonSideEffects": [
+      "TRIUMPH-1 highest dose: nausea 42.4%, diarrhea 32.0%, constipation 26.1%, vomiting 25.3% (as reported)",
+      "Dysesthesia (skin sensations) and urinary tract infections reported in about 1 in 10 on highest doses (TRIUMPH-1, as reported)",
+      "Stopped due to side effects TRIUMPH-1: 4.1%, 6.9%, 11.3% (4/9/12 mg) vs 4.9% placebo"
+    ],
+    "unpublished": [
+      "No regulatory submission found in Canada; labelled dosing unknown",
+      "TRIUMPH-3 full publication pending at check",
+      "Long-term cardiovascular outcome results"
+    ],
+    "safetyConcerns": [
+      "Dysesthesia signal at higher doses",
+      "Higher discontinuation at 12 mg"
+    ],
+    "evidenceLevel": "Phase 3 published (NEJM 2026, Lancet 2026); not submitted for approval in Canada",
+    "sources": [
+      {
+        "id": "hc1",
+        "title": "New drug submissions under review (current as of 2026-09-30)",
+        "publisher": "Health Canada",
+        "url": "https://www.canada.ca/en/health-canada/services/drug-health-product-review-approval/submissions-under-review/new-drug-submissions-under-review.html",
+        "publishedOrRevised": "2026-09-30",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "t1",
+        "title": "Jastreboff AM, et al. Triple-Hormone-Receptor Agonist Retatrutide for Obesity — A Phase 2 Trial. N Engl J Med 2023;389:514-526",
+        "publisher": "NEJM",
+        "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2301972",
+        "publishedOrRevised": "2023-06-26",
+        "accessed": "2026-11-15",
+        "type": "trial"
+      },
+      {
+        "id": "t2",
+        "title": "Jastreboff AM, et al. Retatrutide, a Triple Hormone Receptor Agonist, for Treatment of Obesity (TRIUMPH-1). N Engl J Med, 2026-09-29",
+        "publisher": "NEJM",
+        "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2604169",
+        "publishedOrRevised": "2026-09-29",
+        "accessed": "2026-11-15",
+        "type": "trial"
+      },
+      {
+        "id": "t3",
+        "title": "Bellido V, et al. Retatrutide in adults with obesity and type 2 diabetes (TRIUMPH-2): phase 3 trial. Lancet, 2026-09-29",
+        "publisher": "The Lancet (cited by La Revue du Praticien)",
+        "url": "https://www.larevuedupraticien.fr/article/obesite-25-de-perte-de-poids-avec-le-triple-agoniste",
+        "publishedOrRevised": "2026-09-29",
+        "accessed": "2026-11-15",
+        "type": "trial"
+      },
+      {
+        "id": "p1",
+        "title": "Lilly's triple agonist retatrutide successful in two additional Phase 3 obesity trials (TRIUMPH-2, TRIUMPH-3)",
+        "publisher": "Eli Lilly and Company (press release via BioSpace/PR Newswire)",
+        "url": "https://www.biospace.com/press-releases/lillys-triple-agonist-retatrutide-successful-in-two-additional-phase-3-obesity-trials-delivering-significant-improvements-in-weight-and-a1c",
+        "publishedOrRevised": "2026-07-23",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "n1",
+        "title": "Phase III retatrutide study demonstrates 30% weight loss (TRIUMPH-1 topline)",
+        "publisher": "The Pharmaceutical Journal",
+        "url": "https://pharmaceutical-journal.com/article/news/phase-iii-retatrutide-study-demonstrates-30-weight-loss",
+        "publishedOrRevised": "2026-05",
+        "accessed": "2026-11-15",
+        "type": "news"
+      },
+      {
+        "id": "n2",
+        "title": "Retatrutide meets Phase 3 weight-loss endpoints in 2 obesity trials",
+        "publisher": "ConsultantLive (secondary)",
+        "url": "https://www.consultantlive.com/view/retatrutide-meets-phase-3-weight-loss-endpoints-in-2-obesity-trials",
+        "publishedOrRevised": "2026-07-23",
+        "accessed": "2026-11-15",
+        "type": "news"
+      }
+    ],
+    "openQuestions": [
+      "TRIUMPH-1 figures are from the sponsor topline as reported by the Pharmaceutical Journal; confirm against the NEJM paper",
+      "TRIUMPH-2 Lancet URL not opened directly (citation via La Revue du Praticien)"
+    ],
+    "listSourceIds": {
+      "trialProgramme": [
+        "t2",
+        "t3",
+        "p1",
+        "n2"
+      ],
+      "efficacySummary": [
+        "t1",
+        "n1",
+        "n2"
+      ],
+      "commonSideEffects": [
+        "n1"
+      ],
+      "unpublished": [
+        "hc1"
+      ],
+      "safetyConcerns": [
+        "n1",
+        "p1"
+      ],
+      "indications": [
+        "hc1"
+      ]
+    }
+  },
+  {
+    "products": [],
+    "missedDose": {
+      "text": "",
+      "windowHours": null,
+      "sourceIds": []
+    },
+    "storage": {
+      "unopened": "",
+      "inUse": "",
+      "discardAfterDays": null,
+      "sourceIds": []
+    },
+    "nutritionNotes": [],
+    "interactions": [],
+    "contraindications": [],
+    "warnings": [],
+    "lastReviewed": "2026-11-15",
+    "id": "survodutide",
+    "names": {
+      "generic": "survodutide",
+      "brands": [
+        "(no brand; BI 456906)"
+      ]
+    },
+    "class": "Glucagon and GLP-1 receptor dual agonist",
+    "group": "Phase 3 (not yet submitted)",
+    "usedFor": [
+      "Weight management",
+      "MASH/MASLD (in trials)",
+      "Type 2 diabetes (in trials)"
+    ],
+    "route": [
+      "subcutaneous"
+    ],
+    "status": "investigational",
+    "statusDetail": {
+      "healthCanada": "Not on Health Canada's lists of drug submissions under review (current as of 2026-09-30); no Canadian approval found.",
+      "fda": "Not approved; Boehringer Ingelheim reported planning submissions after 2026 Phase 3 readouts.",
+      "other": "Not approved anywhere found.",
+      "checkedOn": "2026-11-15",
+      "sourceIds": [
+        "hc1",
+        "n1",
+        "n2"
+      ]
+    },
+    "statusTimeline": [
+      {
+        "date": "2026-06-07",
+        "regulator": "Journal",
+        "event": "SYNCHRONIZE-1 published (NEJM)",
+        "sourceIds": [
+          "t1"
+        ]
+      },
+      {
+        "date": "2026-10-01",
+        "regulator": "Sponsor/Journal",
+        "event": "SYNCHRONIZE-2 (type 2 diabetes) results presented and published",
+        "sourceIds": [
+          "n2"
+        ]
+      }
+    ],
+    "indications": [
+      "None approved"
+    ],
+    "mechanism": "Once-weekly injection activating glucagon and GLP-1 receptors; studied for effects on liver fat as well as weight.",
+    "trialProgramme": [
+      "SYNCHRONIZE-1: Phase 3, 76 weeks, 725 adults with obesity without diabetes (NCT06066515)",
+      "SYNCHRONIZE-2: Phase 3, 76 weeks, adults with obesity and type 2 diabetes (NCT06066528)",
+      "SYNCHRONIZE-MASLD (Nature Medicine), LIVERAGE (MASH), SYNCHRONIZE-CVOT"
+    ],
+    "doseInfo": [
+      {
+        "basis": "trial",
+        "population": "Adults with obesity without diabetes (SYNCHRONIZE-1, n=725)",
+        "regimen": "Once-weekly survodutide adjusted up to 3.6 mg or 6.0 mg vs placebo, with lifestyle counselling",
+        "maxDose": "6.0 mg once weekly (trial dose)",
+        "durationOrContext": "76 weeks, Phase 3",
+        "sourceIds": [
+          "t1"
+        ]
+      },
+      {
+        "basis": "trial",
+        "population": "Adults with obesity and type 2 diabetes (SYNCHRONIZE-2)",
+        "regimen": "Once-weekly survodutide 3.6 mg or 6.0 mg vs placebo",
+        "maxDose": "6.0 mg once weekly",
+        "durationOrContext": "76 weeks, Phase 3",
+        "sourceIds": [
+          "n2"
+        ]
+      }
+    ],
+    "efficacySummary": [
+      "SYNCHRONIZE-1: -12.2% (3.6 mg) and -13.0% (6.0 mg) vs -5.4% placebo at 76 weeks (treatment-regimen estimand); up to -16.6% on-treatment",
+      "SYNCHRONIZE-2: up to -13.1% vs -3.1% placebo"
+    ],
+    "commonSideEffects": [
+      "GI events 80.9% (3.6 mg) and 89.7% (6.0 mg) vs 47.9% placebo, mostly mild to moderate",
+      "Stopped due to GI events 17.8% and 20.2% vs 2.9% placebo"
+    ],
+    "unpublished": [
+      "No regulatory submissions found; labelled dosing unknown",
+      "Cardiovascular outcomes (SYNCHRONIZE-CVOT) and MASH outcomes (LIVERAGE) pending"
+    ],
+    "safetyConcerns": [
+      "High GI-related discontinuation in Phase 3"
+    ],
+    "evidenceLevel": "Phase 3 published (NEJM 2026); not submitted for approval",
+    "sources": [
+      {
+        "id": "hc1",
+        "title": "New drug submissions under review (current as of 2026-09-30)",
+        "publisher": "Health Canada",
+        "url": "https://www.canada.ca/en/health-canada/services/drug-health-product-review-approval/submissions-under-review/new-drug-submissions-under-review.html",
+        "publishedOrRevised": "2026-09-30",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "t1",
+        "title": "le Roux CW, et al. Survodutide once weekly for the treatment of adults with obesity (SYNCHRONIZE-1). N Engl J Med 2026;395(8):776-787",
+        "publisher": "NEJM (University of Glasgow Enlighten record)",
+        "url": "https://eprints.gla.ac.uk/388916/",
+        "publishedOrRevised": "2026-06-07",
+        "accessed": "2026-11-15",
+        "type": "trial"
+      },
+      {
+        "id": "n1",
+        "title": "Survodutide phase 3 data signal metabolic gains beyond weight loss",
+        "publisher": "AJMC (secondary)",
+        "url": "https://www.ajmc.com/view/survodutide-phase-3-data-signal-metabolic-gains-beyond-weight-loss",
+        "publishedOrRevised": "2026-06-08",
+        "accessed": "2026-11-15",
+        "type": "news"
+      },
+      {
+        "id": "n2",
+        "title": "Dual agonist survodutide delivers up to 13.1% weight loss in T2D (SYNCHRONIZE-2)",
+        "publisher": "AJMC (secondary)",
+        "url": "https://www.ajmc.com/view/dual-agonist-survodutide-delivers-up-to-13-1-weight-loss-in-t2d",
+        "publishedOrRevised": "2026-10-01",
+        "accessed": "2026-11-15",
+        "type": "news"
+      }
+    ],
+    "openQuestions": [],
+    "listSourceIds": {
+      "trialProgramme": [
+        "t1",
+        "n1",
+        "n2"
+      ],
+      "efficacySummary": [
+        "t1",
+        "n1",
+        "n2"
+      ],
+      "commonSideEffects": [
+        "t1",
+        "n1"
+      ],
+      "unpublished": [
+        "hc1",
+        "n1"
+      ],
+      "safetyConcerns": [
+        "n1"
+      ],
+      "indications": [
+        "hc1"
+      ]
+    }
+  },
+  {
+    "products": [],
+    "missedDose": {
+      "text": "",
+      "windowHours": null,
+      "sourceIds": []
+    },
+    "storage": {
+      "unopened": "",
+      "inUse": "",
+      "discardAfterDays": null,
+      "sourceIds": []
+    },
+    "nutritionNotes": [],
+    "interactions": [],
+    "contraindications": [],
+    "warnings": [],
+    "lastReviewed": "2026-11-15",
+    "id": "mazdutide",
+    "names": {
+      "generic": "mazdutide",
+      "brands": [
+        "Xinermei (China)"
+      ]
+    },
+    "class": "Glucagon and GLP-1 receptor dual agonist (oxyntomodulin analogue)",
+    "group": "Recently approved elsewhere",
+    "usedFor": [
+      "Weight management",
+      "Type 2 diabetes (China)"
+    ],
+    "route": [
+      "subcutaneous"
+    ],
+    "status": "approved_elsewhere",
+    "statusDetail": {
+      "healthCanada": "Not on Health Canada's lists of drug submissions under review (current as of 2026-09-30); no Canadian approval found.",
+      "fda": "Not approved in the US.",
+      "other": "China (NMPA) approved mazdutide for chronic weight management in Chinese adults with overweight or obesity (announced June 2025). Innovent holds the China licence from Eli Lilly.",
+      "checkedOn": "2026-11-15",
+      "sourceIds": [
+        "hc1",
+        "p1"
+      ]
+    },
+    "statusTimeline": [
+      {
+        "date": "2025-05-25",
+        "regulator": "Journal",
+        "event": "GLORY-1 Phase 3 published (NEJM)",
+        "sourceIds": [
+          "t1"
+        ]
+      },
+      {
+        "date": "2025-06",
+        "regulator": "China NMPA",
+        "event": "Approved for chronic weight management",
+        "sourceIds": [
+          "p1"
+        ]
+      }
+    ],
+    "indications": [
+      "China: chronic weight management in adults with overweight or obesity"
+    ],
+    "mechanism": "Once-weekly injection activating GLP-1 and glucagon receptors.",
+    "trialProgramme": [
+      "GLORY-1: Phase 3, 48 weeks, 610 Chinese adults with BMI 28+ or 24 to under 28 with a weight-related condition (NCT05607680)",
+      "GLORY-2 (higher dose), DREAMS (type 2 diabetes) Phase 3 trials in China"
+    ],
+    "doseInfo": [
+      {
+        "basis": "trial",
+        "population": "Chinese adults with obesity or overweight (GLORY-1, n=610)",
+        "regimen": "Once-weekly mazdutide 4 mg or 6 mg vs placebo",
+        "maxDose": "6 mg once weekly (GLORY-1)",
+        "durationOrContext": "48 weeks, Phase 3; population mean BMI 31.1, mean weight 87.2 kg",
+        "sourceIds": [
+          "t1"
+        ]
+      }
+    ],
+    "efficacySummary": [
+      "GLORY-1 week 48 (efficacy estimand): -12.0% (4 mg), -14.8% (6 mg) vs -0.5% placebo (company release)",
+      "Stopped due to side effects: 1.5% (4 mg), 0.5% (6 mg), 1.0% placebo"
+    ],
+    "commonSideEffects": [
+      "Mostly gastrointestinal, mild to moderate"
+    ],
+    "unpublished": [
+      "Not studied in a Canadian or Western population at these doses in published Phase 3; no Canadian submission"
+    ],
+    "evidenceLevel": "Approved in China; Phase 3 published (NEJM 2025) in Chinese adults",
+    "sources": [
+      {
+        "id": "hc1",
+        "title": "New drug submissions under review (current as of 2026-09-30)",
+        "publisher": "Health Canada",
+        "url": "https://www.canada.ca/en/health-canada/services/drug-health-product-review-approval/submissions-under-review/new-drug-submissions-under-review.html",
+        "publishedOrRevised": "2026-09-30",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "p1",
+        "title": "Innovent announces mazdutide received approval from China's NMPA for chronic weight management",
+        "publisher": "Innovent Biologics (press release via BioSpace)",
+        "url": "https://www.biospace.com/press-releases/innovent-announces-mazdutide-first-dual-gcg-glp-1-receptor-agonist-received-approval-from-chinas-nmpa-for-chronic-weight-management",
+        "publishedOrRevised": "2025-06",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "t1",
+        "title": "Ji L, et al. Once-Weekly Mazdutide in Chinese Adults with Obesity or Overweight (GLORY-1). N Engl J Med 2025;392(22):2215-2225",
+        "publisher": "NEJM (PubMed record)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40421736/",
+        "publishedOrRevised": "2025-05-25",
+        "accessed": "2026-11-15",
+        "type": "trial"
+      },
+      {
+        "id": "p2",
+        "title": "Innovent press release on GLORY-1 results (week 48 efficacy estimand)",
+        "publisher": "Innovent Biologics (via Pharma Focus Asia)",
+        "url": "https://www.pharmafocusasia.com/index.php/pressreleases/innovent-announces-mazdutide-first-dual-gcgglp-1-receptor-agonist",
+        "publishedOrRevised": "2025-06",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      }
+    ],
+    "openQuestions": [
+      "Type 2 diabetes approval in China reported by secondary sources only; not confirmed here"
+    ],
+    "listSourceIds": {
+      "indications": [
+        "p1"
+      ],
+      "trialProgramme": [
+        "t1",
+        "p1"
+      ],
+      "efficacySummary": [
+        "p2",
+        "t1"
+      ],
+      "commonSideEffects": [
+        "t1"
+      ],
+      "unpublished": [
+        "hc1",
+        "t1"
+      ]
+    }
+  },
+  {
+    "products": [],
+    "missedDose": {
+      "text": "",
+      "windowHours": null,
+      "sourceIds": []
+    },
+    "storage": {
+      "unopened": "",
+      "inUse": "",
+      "discardAfterDays": null,
+      "sourceIds": []
+    },
+    "nutritionNotes": [],
+    "interactions": [],
+    "contraindications": [],
+    "warnings": [],
+    "lastReviewed": "2026-11-15",
+    "id": "maridebart-cafraglutide",
+    "names": {
+      "generic": "maridebart cafraglutide",
+      "brands": [
+        "MariTide (development name)"
+      ]
+    },
+    "class": "GLP-1 receptor agonist peptides joined to a GIP receptor-blocking antibody",
+    "group": "Phase 3 (not yet submitted)",
+    "usedFor": [
+      "Weight management",
+      "Type 2 diabetes (in trials)"
+    ],
+    "route": [
+      "subcutaneous"
+    ],
+    "status": "investigational",
+    "statusDetail": {
+      "healthCanada": "Not on Health Canada's lists of drug submissions under review (current as of 2026-09-30); no Canadian approval found.",
+      "fda": "Not approved; Phase 3 MARITIME programme ongoing.",
+      "other": "",
+      "checkedOn": "2026-11-15",
+      "sourceIds": [
+        "hc1",
+        "n1"
+      ]
+    },
+    "statusTimeline": [
+      {
+        "date": "2025-06",
+        "regulator": "Journal",
+        "event": "Phase 2 published (NEJM); Phase 3 MARITIME started",
+        "sourceIds": [
+          "t1",
+          "n1"
+        ]
+      }
+    ],
+    "indications": [
+      "None approved"
+    ],
+    "mechanism": "Monthly (or less frequent) injection: two GLP-1 peptides attached to an antibody that blocks the GIP receptor.",
+    "trialProgramme": [
+      "Phase 2: 52 weeks, adults with obesity with or without type 2 diabetes (NCT05669599)",
+      "MARITIME Phase 3 programme (72-week weight trials plus cardiovascular, heart failure and sleep apnea studies)"
+    ],
+    "doseInfo": [
+      {
+        "basis": "trial",
+        "population": "Adults with obesity (Phase 2, n=465 without diabetes)",
+        "regimen": "Subcutaneous 140, 280 or 420 mg every 4 weeks (with or without dose escalation), or 420 mg every 8 weeks, vs placebo",
+        "maxDose": "420 mg every 4 weeks (trial dose)",
+        "durationOrContext": "52 weeks, Phase 2",
+        "sourceIds": [
+          "t1",
+          "n1"
+        ]
+      }
+    ],
+    "efficacySummary": [
+      "Up to about 20% mean weight loss at 52 weeks without diabetes and up to about 17% with type 2 diabetes (as reported); no plateau at 52 weeks"
+    ],
+    "commonSideEffects": [
+      "Mostly gastrointestinal; GI-related discontinuation much higher without dose escalation (as reported)"
+    ],
+    "unpublished": [
+      "Phase 3 results not yet reported at check",
+      "Labelled dosing unknown"
+    ],
+    "evidenceLevel": "Phase 2 only published (NEJM 2025); Phase 3 ongoing",
+    "sources": [
+      {
+        "id": "hc1",
+        "title": "New drug submissions under review (current as of 2026-09-30)",
+        "publisher": "Health Canada",
+        "url": "https://www.canada.ca/en/health-canada/services/drug-health-product-review-approval/submissions-under-review/new-drug-submissions-under-review.html",
+        "publishedOrRevised": "2026-09-30",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "t1",
+        "title": "Jastreboff AM, et al. Once-Monthly Maridebart Cafraglutide for the Treatment of Obesity — A Phase 2 Trial. N Engl J Med 2025;393(9):843-857",
+        "publisher": "NEJM",
+        "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2504214",
+        "publishedOrRevised": "2025-06",
+        "accessed": "2026-11-15",
+        "type": "trial"
+      },
+      {
+        "id": "n1",
+        "title": "MariTide shows up to 20% weight loss in Phase II trial for obesity, type 2 diabetes",
+        "publisher": "Applied Clinical Trials (secondary)",
+        "url": "https://www.appliedclinicaltrialsonline.com/view/maritide-weight-loss-obesity-type-2-diabetes",
+        "publishedOrRevised": "2025-06",
+        "accessed": "2026-11-15",
+        "type": "news"
+      }
+    ],
+    "openQuestions": [
+      "Phase 2 detailed safety numbers not captured; confirm from NEJM full text"
+    ],
+    "listSourceIds": {
+      "trialProgramme": [
+        "t1",
+        "n1"
+      ],
+      "efficacySummary": [
+        "n1"
+      ],
+      "commonSideEffects": [
+        "n1"
+      ],
+      "unpublished": [
+        "hc1"
+      ],
+      "indications": [
+        "hc1"
+      ]
+    }
+  },
+  {
+    "products": [],
+    "missedDose": {
+      "text": "",
+      "windowHours": null,
+      "sourceIds": []
+    },
+    "storage": {
+      "unopened": "",
+      "inUse": "",
+      "discardAfterDays": null,
+      "sourceIds": []
+    },
+    "nutritionNotes": [],
+    "interactions": [],
+    "contraindications": [],
+    "warnings": [],
+    "lastReviewed": "2026-11-15",
+    "id": "vk2735",
+    "names": {
+      "generic": "VK2735",
+      "brands": [
+        "(no brand; Viking Therapeutics)"
+      ]
+    },
+    "class": "GIP and GLP-1 receptor dual agonist (weekly injection and daily tablet in development)",
+    "group": "Phase 3 (not yet submitted)",
+    "usedFor": [
+      "Weight management",
+      "Type 2 diabetes (in trials)"
+    ],
+    "route": [
+      "subcutaneous",
+      "oral"
+    ],
+    "status": "investigational",
+    "statusDetail": {
+      "healthCanada": "Not on Health Canada's lists of drug submissions under review (current as of 2026-09-30); no Canadian approval found.",
+      "fda": "Not approved; no submission. Injectable Phase 3 (VANQUISH-1 and -2, 78 weeks) fully enrolled; oral Phase 3 (SUNRISE-1 and -2, 68 weeks) announced 2026-10-14.",
+      "other": "Not approved anywhere found.",
+      "checkedOn": "2026-11-15",
+      "sourceIds": [
+        "hc1",
+        "p1"
+      ]
+    },
+    "statusTimeline": [
+      {
+        "date": "2026-01-08",
+        "regulator": "Journal",
+        "event": "VENTURE Phase 2 (injection) published (Obesity)",
+        "sourceIds": [
+          "t1"
+        ]
+      },
+      {
+        "date": "2026-09-22",
+        "regulator": "Sponsor",
+        "event": "Maintenance-dosing study topline (monthly and every-other-week injections)",
+        "sourceIds": [
+          "p2"
+        ]
+      },
+      {
+        "date": "2026-10-14",
+        "regulator": "Sponsor",
+        "event": "Oral Phase 3 programme (SUNRISE) initiated",
+        "sourceIds": [
+          "p1"
+        ]
+      }
+    ],
+    "indications": [
+      "None approved"
+    ],
+    "mechanism": "Activates GIP and GLP-1 receptors (same class as tirzepatide); developed as a weekly injection and a daily tablet.",
+    "trialProgramme": [
+      "VENTURE: Phase 2, 13 weeks, 176 adults with obesity or overweight without diabetes (NCT06068946)",
+      "VANQUISH-1 (about 4,500 adults without diabetes) and VANQUISH-2 (about 1,000 with type 2 diabetes): Phase 3, weekly injection 7.5, 12.5 or 17.5 mg vs placebo, 78 weeks, fully enrolled",
+      "SUNRISE-1 and SUNRISE-2: Phase 3, once-daily tablet 27.5, 35 or 55 mg vs placebo, 68 weeks, about 560 adults each",
+      "VK2735-102 maintenance study: weekly injections for 21 weeks, then monthly or every-other-week dosing for 12 weeks (about 180 adults)"
+    ],
+    "doseInfo": [
+      {
+        "basis": "trial",
+        "population": "Adults with obesity or overweight without diabetes (VENTURE, n=176)",
+        "regimen": "Once-weekly subcutaneous VK2735 2.5, 5, 10 or 15 mg vs placebo (higher doses reached by stepwise escalation)",
+        "maxDose": "15 mg once weekly (trial dose)",
+        "durationOrContext": "13 weeks, Phase 2",
+        "sourceIds": [
+          "t1",
+          "n1",
+          "n2"
+        ]
+      },
+      {
+        "basis": "trial",
+        "population": "Adults with obesity or overweight (VANQUISH-1 and -2, ongoing)",
+        "regimen": "Once-weekly subcutaneous VK2735 7.5, 12.5 or 17.5 mg vs placebo",
+        "maxDose": "17.5 mg once weekly (trial dose)",
+        "durationOrContext": "78 weeks, Phase 3, results pending",
+        "sourceIds": [
+          "p1"
+        ]
+      }
+    ],
+    "efficacySummary": [
+      "VENTURE at 13 weeks: -9.1% (2.5 mg), -10.9% (5 mg), -12.9% (10 mg), -14.7% (15 mg) vs -1.7% placebo; up to -13.1% placebo-adjusted; no plateau at 13 weeks",
+      "93% of treated participants lost at least 5% vs 12% on placebo; 78% of those with prediabetes had normal glucose at week 13",
+      "Oral VENTURE-Oral (Phase 2, 13 weeks, sponsor topline): up to -12.2%; up to 97% reached at least 5% and up to 80% at least 10% (placebo 10% and 5%)",
+      "Maintenance study (sponsor topline): after 21 weeks of weekly dosing, monthly dosing kept up to 90% and every-other-week up to 97% of the weight lost over the next 12 weeks, vs 61% on placebo"
+    ],
+    "commonSideEffects": [
+      "Most common adverse events in VENTURE: nausea, constipation and vomiting; 92% of drug-related events were mild or moderate",
+      "Oral: 98% of drug-related events mild or moderate; GI events most common, early and transient (sponsor)"
+    ],
+    "unpublished": [
+      "Phase 3 results pending (injection readouts reported for 2027)",
+      "Oral Phase 2 and maintenance results are sponsor toplines, not peer reviewed"
+    ],
+    "safetyConcerns": [
+      "Only 13-week controlled data published; long-term safety unknown"
+    ],
+    "evidenceLevel": "Phase 2 published (Obesity 2026); Phase 3 ongoing; not submitted for approval",
+    "sources": [
+      {
+        "id": "hc1",
+        "title": "New drug submissions under review (current as of 2026-09-30)",
+        "publisher": "Health Canada",
+        "url": "https://www.canada.ca/en/health-canada/services/drug-health-product-review-approval/submissions-under-review/new-drug-submissions-under-review.html",
+        "publishedOrRevised": "2026-09-30",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "t1",
+        "title": "Bays HE, et al. Weekly Subcutaneous VK2735, a GIP/GLP-1 Receptor Dual Agonist, for Weight Management: Phase 2, Randomized, 13-Week VENTURE Study. Obesity 2026",
+        "publisher": "Obesity (Wiley; doi 10.1002/oby.70106)",
+        "url": "https://doi.org/10.1002/oby.70106",
+        "publishedOrRevised": "2026-01-08",
+        "accessed": "2026-11-15",
+        "type": "trial"
+      },
+      {
+        "id": "p1",
+        "title": "Viking Therapeutics announces initiation of VK2735 oral Phase 3 clinical program (SUNRISE) in patients with obesity",
+        "publisher": "Viking Therapeutics (company release)",
+        "url": "https://ir.vikingtherapeutics.com/2026-10-14-Viking-Therapeutics-Announces-Initiation-of-VK2735-Oral-Phase-3-Clinical-Program-in-Patients-with-Obesity",
+        "publishedOrRevised": "2026-10-14",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "p2",
+        "title": "Viking Therapeutics announces positive topline results from maintenance study of VK2735 (monthly and every-other-week dosing)",
+        "publisher": "Viking Therapeutics (company release via Finviz)",
+        "url": "https://finviz.com/news/394115/viking-therapeutics-announces-positive-topline-results-from-maintenance-study-of-glp-1gip-agonist-vk2735-demonstrating-the-promise-of-multiple-maintenance-dosing-regimens",
+        "publishedOrRevised": "2026-09-22",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      },
+      {
+        "id": "n1",
+        "title": "GLP-1/GIP dual agonist confers 'robust' weight loss at 13 weeks for adults with obesity (VENTURE)",
+        "publisher": "Healio Endocrinology",
+        "url": "https://www.healio.com/news/endocrinology/20260126/glp1gip-dual-agonist-confers-robust-weight-loss-at-13-weeks-for-adults-with-obesity",
+        "publishedOrRevised": "2026-01-26",
+        "accessed": "2026-11-15",
+        "type": "news"
+      },
+      {
+        "id": "n2",
+        "title": "Results from the 13-week VENTURE Phase 2a study of VK2735 (poster: placebo-adjusted results)",
+        "publisher": "Viking Therapeutics (conference poster)",
+        "url": "https://vikingtherapeutics.com/wp-content/uploads/2026/03/Results-From-the-13-Week-VENTURE-Phase-2a-Study-of-the-GLP-1GIP-Co-Agonist-VK2735-in-Obese-Patients.pdf",
+        "publishedOrRevised": "2026-03",
+        "accessed": "2026-11-15",
+        "type": "trial"
+      }
+    ],
+    "openQuestions": [
+      "VANQUISH readout timing (2027) taken from sponsor and news reports"
+    ],
+    "listSourceIds": {
+      "trialProgramme": [
+        "t1",
+        "p1",
+        "p2"
+      ],
+      "efficacySummary": [
+        "t1",
+        "n1",
+        "n2",
+        "p1",
+        "p2"
+      ],
+      "commonSideEffects": [
+        "n1",
+        "n2",
+        "p1"
+      ],
+      "unpublished": [
+        "p1",
+        "p2"
+      ],
+      "safetyConcerns": [
+        "t1"
+      ],
+      "indications": [
+        "hc1"
+      ]
+    }
+  }
+]

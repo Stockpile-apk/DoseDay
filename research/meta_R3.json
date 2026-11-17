@@ -1,0 +1,32 @@
+{
+  "pass": "R3",
+  "title": "Other peptides people ask about",
+  "checkedOn": "2026-11-15",
+  "groupOrder": [
+    "Seller blends (mixtures)",
+    "Approved for a specific use (elsewhere)",
+    "Formerly approved / discontinued",
+    "Not approved anywhere"
+  ],
+  "useFilters": [
+    "Tissue/injury repair claims",
+    "Skin and hair claims",
+    "Gut / inflammation claims",
+    "Immune claims",
+    "Sleep claims",
+    "Growth hormone / body composition claims",
+    "Fat loss claims",
+    "Anti-aging / energy claims",
+    "Metabolic / weight claims"
+  ],
+  "prefaceHtmlFile": "/home/claude/research/scripts/../R3/status_preface.html",
+  "notes": [
+    "None of these peptides is authorized for sale as a drug in Canada. Health Canada's 2026 advisory says authorized prescription drugs carry an eight-digit DIN and should be bought from licensed pharmacies.",
+    "Doses shown are only from published human trials and are what was studied, not a recommendation. Where none exist, the entry says 'No established human dose'.",
+    "WADA (sport) status is from the 2026 Prohibited List. Its S0 class also covers any substance with no current human therapeutic approval, so unapproved peptides that are not named can still be prohibited; the 2027 List names peptides in general.",
+    "Updated 2026-11-15 after a claim check of a seller's blend article: the article was used only to find studies; every fact here is cited to a regulator or study. See 03_reports/R3_claim_check.md."
+  ],
+  "openQuestions": [
+    "Re-check US status after the HHS interim peptide policy comment period and any FDA rulemaking; next FDA advisory review reported for February 2027 (incl. injectable GHK-Cu and Melanotan II)"
+  ]
+}

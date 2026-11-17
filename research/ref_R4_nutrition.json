@@ -1,0 +1,1237 @@
+[
+  {
+    "id": "weight-loss-rate",
+    "topic": "Rate of weight loss: what is typical, what is risky",
+    "group": "1. Weight-loss rate",
+    "usedFor": [
+      "Weight-loss rate"
+    ],
+    "summary": "Guidelines and GLP-1/GIP trials point to much slower average weekly rates than the planned app tiers.",
+    "items": [
+      {
+        "label": "Guideline pace (lifestyle weight loss)",
+        "value": "0.5 to 2 lb (about 0.23 to 0.9 kg) per week",
+        "population": "Adults losing weight",
+        "confidence": "Moderate",
+        "note": "US NIH guidance written for diet-based weight loss, not drug therapy; older document (archived)",
+        "sourceIds": [
+          "nid"
+        ]
+      },
+      {
+        "label": "NICE expectation for weight-loss programmes",
+        "value": "No more than 0.5 to 1 kg (1 to 2 lb) per week",
+        "population": "Adults in weight-loss programmes",
+        "confidence": "Low",
+        "note": "Seen in a secondary summary of NICE NG246; not confirmed on the NICE page itself",
+        "sourceIds": [
+          "nice2"
+        ]
+      },
+      {
+        "label": "Gallstone risk threshold",
+        "value": "More than 3 lb (about 1.4 kg) per week",
+        "population": "Adults losing weight",
+        "confidence": "Moderate",
+        "note": "Studies cited by NIH show higher gallstone risk above this pace; very-low-calorie diets: 10 to 25% developed gallstones",
+        "sourceIds": [
+          "nid"
+        ]
+      },
+      {
+        "label": "Gallbladder events on GLP-1 drugs",
+        "value": "Gallstones and cholecystitis in about 1% to 2% of people",
+        "population": "People on semaglutide or tirzepatide",
+        "confidence": "High",
+        "note": "From BC PAD summary of trials; see R1 for product-specific rates",
+        "sourceIds": [
+          "bc"
+        ]
+      },
+      {
+        "label": "Average result, semaglutide 2.4 mg (STEP 1)",
+        "value": "About 15% at about 1 year (about 0.2% per week on average, computed)",
+        "population": "Adults with obesity, no diabetes",
+        "confidence": "High",
+        "note": "Weekly figure is a simple average across the trial; loss is faster early and slows later",
+        "sourceIds": [
+          "bc"
+        ]
+      },
+      {
+        "label": "Average result, tirzepatide 5/10/15 mg (SURMOUNT-1)",
+        "value": "-15.0% / -19.5% / -20.9% at 72 weeks (about 0.21 / 0.27 / 0.29% per week average, computed)",
+        "population": "Adults with obesity, no diabetes",
+        "confidence": "High",
+        "note": "Escalation started at 2.5 mg and increased by 2.5 mg every 4 weeks",
+        "sourceIds": [
+          "sm1"
+        ]
+      },
+      {
+        "label": "Average result, semaglutide 7.2 mg (STEP UP)",
+        "value": "-18.7% at 72 weeks (about 0.26% per week average, computed)",
+        "population": "Adults with obesity, no diabetes",
+        "confidence": "Moderate",
+        "note": "From a secondary report of the Lancet Diabetes Endocrinol paper",
+        "sourceIds": [
+          "stu"
+        ]
+      },
+      {
+        "label": "Average result, retatrutide 12 mg (TRIUMPH-1, investigational)",
+        "value": "-25.0% at 80 weeks (about 0.31% per week average, computed)",
+        "population": "Adults with obesity, no diabetes",
+        "confidence": "Moderate",
+        "note": "Sponsor topline as reported; not an approved drug",
+        "sourceIds": [
+          "tr1"
+        ]
+      },
+      {
+        "label": "When loss is fastest",
+        "value": "Faster in the first 6 months, then slows; plateau around 52 to 72 weeks; onset expected by 4 weeks",
+        "population": "People on GLP-1 / GIP-GLP-1 drugs",
+        "confidence": "Moderate",
+        "note": "Sources do not give a per-week rate for the early months",
+        "sourceIds": [
+          "adv",
+          "bc"
+        ]
+      },
+      {
+        "label": "Rapid loss and bone",
+        "value": "Substantial (14%) and rapid (over 3 to 4 months) weight loss is associated with significant bone loss",
+        "population": "Adults losing weight",
+        "confidence": "Moderate",
+        "note": "Advisory statement; slower, moderate loss may better preserve bone",
+        "sourceIds": [
+          "adv"
+        ]
+      },
+      {
+        "label": "Lean mass share of weight lost",
+        "value": "About 35 to 38% (semaglutide, STEP 1) and about 25% (tirzepatide, SURMOUNT-1); calorie restriction alone about 20 to 25%",
+        "population": "Trial participants with DXA scans",
+        "confidence": "Moderate",
+        "note": "Lean mass is not all muscle; functional impact unknown",
+        "sourceIds": [
+          "bc",
+          "adv",
+          "smx"
+        ]
+      },
+      {
+        "label": "Label response check (Saxenda only)",
+        "value": "Stop if less than 5% of starting weight lost after 12 weeks on 3.0 mg",
+        "population": "Adults on Saxenda",
+        "confidence": "High",
+        "note": "A labelled stopping rule; other products' monographs have no weekly-rate rule",
+        "sourceIds": [
+          "spm"
+        ]
+      },
+      {
+        "label": "After stopping a GLP-1 drug",
+        "value": "About 1 to 2% regained at 4 weeks; about one-half to two-thirds of the loss regained at 1 year",
+        "population": "People who stop semaglutide/tirzepatide",
+        "confidence": "Moderate",
+        "note": "BC PAD summary",
+        "sourceIds": [
+          "bc"
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "title": "Rick's planned tiers compared with the evidence (example: 150 kg person)",
+        "columns": [
+          "Planned tier",
+          "Planned % per week",
+          "kg per week at 150 kg (computed)",
+          "How it compares"
+        ],
+        "rows": [
+          [
+            "Slow notice",
+            "under 0.75%",
+            "under 1.1 kg",
+            "Trial averages were about 0.2 to 0.3% per week, so most trial participants would be flagged 'slow' by this tier"
+          ],
+          [
+            "Target",
+            "1.0 to 1.5%",
+            "1.5 to 2.25 kg",
+            "Above the NIH guideline pace (up to about 0.9 kg) and at or above the NIH gallstone-risk pace (over about 1.4 kg)"
+          ],
+          [
+            "Warning",
+            "1.75%",
+            "about 2.6 kg",
+            "Well above the gallstone-risk pace"
+          ],
+          [
+            "Strong warning",
+            "2.0% or more",
+            "3.0 kg or more",
+            "More than twice the gallstone-risk pace"
+          ]
+        ],
+        "sourceIds": [
+          "nid",
+          "bc",
+          "sm1"
+        ],
+        "note": "kg values are computed (150 kg x %). The planned tiers look high: the 'target' is faster than guidelines and faster than average GLP-1 trial results."
+      },
+      {
+        "title": "Evidence-based default tiers (proposal for the app; review with a clinician)",
+        "columns": [
+          "Tier",
+          "Rule (rolling average of weekly weigh-ins)",
+          "Basis"
+        ],
+        "rows": [
+          [
+            "Below trial average (information only)",
+            "under 0.2% per week averaged over 4 or more weeks, after dose escalation",
+            "GLP-1 trial averages about 0.2 to 0.3% per week; app should not suggest dose changes (labels leave this to the prescriber)"
+          ],
+          [
+            "Typical",
+            "0.2% to 0.75% per week AND no more than about 0.9 kg per week",
+            "Trial averages; NIH 0.5 to 2 lb per week"
+          ],
+          [
+            "Fast: notice",
+            "over 0.75% per week OR over 0.9 kg per week",
+            "Above NIH/NICE guideline pace"
+          ],
+          [
+            "Warning",
+            "over 1.4 kg (3 lb) per week sustained for 2 or more weeks",
+            "NIH gallstone-risk pace; also show gallbladder and dehydration warning signs"
+          ]
+        ],
+        "sourceIds": [
+          "nid",
+          "nice2",
+          "bc",
+          "sm1"
+        ],
+        "note": "The rolling-average idea and the 0.2% / 0.75% cut points are design choices derived from the cited figures, not thresholds stated by any guideline. Confidence: low to moderate."
+      }
+    ],
+    "statements": [
+      {
+        "text": "No guideline found sets a weekly percent target for GLP-1 therapy; guidelines describe absolute kg or lb per week for lifestyle weight loss, and trials report total percent change over 1 to 2 years.",
+        "sourceIds": [
+          "nid",
+          "bc"
+        ]
+      },
+      {
+        "text": "The advisory says dietary recommendations should be adjusted based on the rate of weight reduction.",
+        "sourceIds": [
+          "adv"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "nid",
+        "title": "Dieting and Gallstones (Weight-control Information Network)",
+        "publisher": "NIDDK, U.S. National Institutes of Health (archived copy)",
+        "url": "https://webarchive.library.unt.edu/eot2008/20080916145707/http:/win.niddk.nih.gov/publications/gallstones.htm",
+        "publishedOrRevised": "2008 (archived)",
+        "accessed": "2026-11-15",
+        "type": "guideline"
+      },
+      {
+        "id": "nice2",
+        "title": "Conservative management of obesity (summary of NICE NG246: programmes should expect no more than 0.5-1 kg a week)",
+        "publisher": "GPnotebook (secondary summary)",
+        "url": "https://gpnotebook.com/pages/obesity/management-of-obesity/conservative-management-of-obesity",
+        "publishedOrRevised": "2025",
+        "accessed": "2026-11-15",
+        "type": "news"
+      },
+      {
+        "id": "bc",
+        "title": "Medications for Chronic Weight Management in Adults: Update on semaglutide and tirzepatide (Summer 2026)",
+        "publisher": "BC Provincial Academic Detailing Service, BC Ministry of Health",
+        "url": "https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/provincial-academic-detailing-service/bc_pad_2026_semaglutide_tirzepatide_chronic_weight_management_summer_2026_update.pdf",
+        "publishedOrRevised": "2026-07-22",
+        "accessed": "2026-11-15",
+        "type": "guideline"
+      },
+      {
+        "id": "adv",
+        "title": "Mozaffarian D, et al. Nutritional priorities to support GLP-1 therapy for obesity: a joint Advisory (ACLM, ASN, OMA, TOS). Am J Clin Nutr 2025;122:344-367",
+        "publisher": "American Journal of Clinical Nutrition (PubMed record)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40450457/",
+        "publishedOrRevised": "2025-05-30",
+        "accessed": "2026-11-15",
+        "type": "guideline"
+      },
+      {
+        "id": "sm1",
+        "title": "Jastreboff AM, et al. Tirzepatide Once Weekly for the Treatment of Obesity (SURMOUNT-1). N Engl J Med 2022;387:205-16 (ACC summary)",
+        "publisher": "American College of Cardiology",
+        "url": "https://www.acc.org/latest-in-cardiology/clinical-trials/2022/08/04/15/32/surmount-1",
+        "publishedOrRevised": "2022 (updated 2024-12-20)",
+        "accessed": "2026-11-15",
+        "type": "trial"
+      },
+      {
+        "id": "smx",
+        "title": "Body composition changes during weight reduction with tirzepatide in the SURMOUNT-1 study (DXA substudy). Diabetes Obes Metab 2025",
+        "publisher": "Diabetes, Obesity and Metabolism (PMC)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11965027/",
+        "publishedOrRevised": "2025",
+        "accessed": "2026-11-15",
+        "type": "trial"
+      },
+      {
+        "id": "stu",
+        "title": "Higher-dose semaglutide approved under new FDA accelerated review process (reports STEP UP: -18.7% vs -3.9% at 72 weeks)",
+        "publisher": "AJMC (secondary)",
+        "url": "https://ajmc.com/view/higher-dose-semaglutide-approved-under-new-fda-accelerated-review-process",
+        "publishedOrRevised": "2026-03-20",
+        "accessed": "2026-11-15",
+        "type": "news"
+      },
+      {
+        "id": "tr1",
+        "title": "Phase III retatrutide study demonstrates 30% weight loss (TRIUMPH-1 topline, 80 weeks)",
+        "publisher": "The Pharmaceutical Journal",
+        "url": "https://pharmaceutical-journal.com/article/news/phase-iii-retatrutide-study-demonstrates-30-weight-loss",
+        "publishedOrRevised": "2026-05",
+        "accessed": "2026-11-15",
+        "type": "news"
+      },
+      {
+        "id": "spm",
+        "title": "SAXENDA Product Monograph (stopping rule)",
+        "publisher": "Health Canada Drug Product Database (sponsor monograph)",
+        "url": "https://pdf.hres.ca/dpd_pm/00081736.PDF",
+        "publishedOrRevised": "2025-09-10",
+        "accessed": "2026-11-15",
+        "type": "monograph"
+      }
+    ],
+    "lastReviewed": "2026-11-15",
+    "openQuestions": [
+      "Confirm NICE NG246 wording on 0.5 to 1 kg per week directly from NICE",
+      "No source found giving per-week rates during the first months of GLP-1 therapy; early-phase thresholds are therefore not evidence-based",
+      "Planned feature 'suggest a dose increase if under 0.75%' conflicts with labels, which leave escalation decisions to the prescriber; consider showing the label's response rules instead"
+    ]
+  },
+  {
+    "id": "energy",
+    "topic": "Energy: calorie estimates and calorie floors",
+    "group": "2. Energy",
+    "usedFor": [
+      "Energy"
+    ],
+    "summary": "Mifflin-St Jeor with actual body weight is the most reliable common equation, including in obesity; supervised care is needed below 800 kcal.",
+    "items": [
+      {
+        "label": "Mifflin-St Jeor, men (resting energy)",
+        "value": "10 x weight (kg) + 6.25 x height (cm) - 5 x age (y) + 5",
+        "population": "Adult men",
+        "confidence": "High",
+        "note": "Derived from 498 adults including 234 with obesity",
+        "sourceIds": [
+          "mif"
+        ]
+      },
+      {
+        "label": "Mifflin-St Jeor, women (resting energy)",
+        "value": "10 x weight (kg) + 6.25 x height (cm) - 5 x age (y) - 161",
+        "population": "Adult women",
+        "confidence": "High",
+        "note": "Same study",
+        "sourceIds": [
+          "mif"
+        ]
+      },
+      {
+        "label": "Accuracy of Mifflin-St Jeor",
+        "value": "Most reliable common equation; within 10% of measured in about 70% of people with obesity (using actual weight)",
+        "population": "Adults, non-obese and obese",
+        "confidence": "Moderate",
+        "note": "Individual errors still occur; measured RMR (indirect calorimetry) is more accurate",
+        "sourceIds": [
+          "frk",
+          "and"
+        ]
+      },
+      {
+        "label": "Which weight to use with BMI 30 or more",
+        "value": "Actual body weight",
+        "population": "Adults with obesity",
+        "confidence": "Moderate",
+        "note": "Using adjusted weight with Harris-Benedict increased errors (74% outside 10%); Mifflin with actual weight performed best",
+        "sourceIds": [
+          "frk3",
+          "and"
+        ]
+      },
+      {
+        "label": "Activity multipliers",
+        "value": "Not part of Mifflin-St Jeor; Health Canada's energy equations use activity categories by PAL: inactive 1.00-1.53, low active 1.53-1.68, active 1.68-1.85, very active 1.85-2.50",
+        "population": "Adults 19+",
+        "confidence": "High",
+        "note": "The common 1.2 to 1.9 multipliers were not found in the sources checked; Health Canada's EER equations are the sourced alternative",
+        "sourceIds": [
+          "dri4"
+        ]
+      },
+      {
+        "label": "Health Canada on energy adequacy",
+        "value": "Relative body weight (loss, stable, gain) is the preferred indicator of energy adequacy",
+        "population": "All",
+        "confidence": "High",
+        "note": "EER equations are estimates; no separate adult equations for obesity",
+        "sourceIds": [
+          "dri4"
+        ]
+      },
+      {
+        "label": "Typical calorie prescriptions for weight loss",
+        "value": "1,200 to 1,500 kcal/day for women; 1,500 to 1,800 kcal/day for men; or a 500 to 750 kcal/day deficit",
+        "population": "Adults with overweight or obesity",
+        "confidence": "High",
+        "note": "2013 AHA/ACC/TOS guideline; levels usually adjusted for body weight",
+        "sourceIds": [
+          "aha"
+        ]
+      },
+      {
+        "label": "Micronutrient risk at low intake",
+        "value": "Higher risk of micronutrient inadequacy below 1,200 kcal/day (women) and 1,800 kcal/day (men)",
+        "population": "Adults on GLP-1s",
+        "confidence": "Moderate",
+        "note": "Joint advisory statement",
+        "sourceIds": [
+          "adv"
+        ]
+      },
+      {
+        "label": "Very-low-calorie diets",
+        "value": "Under 800 kcal/day only with trained practitioners and medical monitoring",
+        "population": "Adults",
+        "confidence": "High",
+        "note": "AHA/ACC/TOS 2013; NICE: low-energy (800-1,200) and very-low-energy (<800) diets only in specialist services, nutritionally complete, no more than 12 weeks",
+        "sourceIds": [
+          "aha",
+          "nice"
+        ]
+      },
+      {
+        "label": "Calorie reduction on GLP-1s",
+        "value": "Observed intake reductions of 16% to 39% vs placebo",
+        "population": "Trial participants",
+        "confidence": "Moderate",
+        "note": "Joint advisory",
+        "sourceIds": [
+          "adv"
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "title": "Health Canada adult EER equations (kcal/day; age y, height cm, weight kg)",
+        "columns": [
+          "Activity category (PAL)",
+          "Men",
+          "Women"
+        ],
+        "rows": [
+          [
+            "Inactive (1.00-1.53)",
+            "753.07 - 10.83 x age + 6.50 x height + 14.10 x weight",
+            "584.90 - 7.01 x age + 5.72 x height + 11.71 x weight"
+          ],
+          [
+            "Low active (1.53-1.68)",
+            "581.47 - 10.83 x age + 8.30 x height + 14.94 x weight",
+            "575.77 - 7.01 x age + 6.60 x height + 12.14 x weight"
+          ],
+          [
+            "Active (1.68-1.85)",
+            "1,004.82 - 10.83 x age + 6.52 x height + 15.91 x weight",
+            "710.25 - 7.01 x age + 6.54 x height + 12.34 x weight"
+          ],
+          [
+            "Very active (1.85-2.50)",
+            "-517.88 - 10.83 x age + 15.61 x height + 19.11 x weight",
+            "511.83 - 7.01 x age + 9.07 x height + 12.56 x weight"
+          ]
+        ],
+        "sourceIds": [
+          "dri4"
+        ],
+        "note": "Total daily energy estimate (not resting). Proposed app default floors: warn below 1,200 kcal (women) or 1,500 kcal (men); strong warning below 800 kcal (needs medical supervision). Floors are derived from the guideline ranges above."
+      }
+    ],
+    "sources": [
+      {
+        "id": "mif",
+        "title": "Mifflin MD, St Jeor ST, et al. A new predictive equation for resting energy expenditure in healthy individuals. Am J Clin Nutr 1990",
+        "publisher": "AJCN (PubMed record)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2305711/",
+        "publishedOrRevised": "1990",
+        "accessed": "2026-11-15",
+        "type": "trial"
+      },
+      {
+        "id": "frk",
+        "title": "Frankenfield D, et al. Comparison of predictive equations for resting metabolic rate in healthy nonobese and obese adults: a systematic review. J Am Diet Assoc 2005;105:775-789",
+        "publisher": "Journal of the American Dietetic Association (Penn State record)",
+        "url": "https://pure.psu.edu/en/publications/comparison-of-predictive-equations-for-resting-metabolic-rate-in-/",
+        "publishedOrRevised": "2005-05",
+        "accessed": "2026-11-15",
+        "type": "guideline"
+      },
+      {
+        "id": "frk3",
+        "title": "Frankenfield DC, et al. Validation of several established equations for resting metabolic rate in obese and nonobese people. J Am Diet Assoc 2003;103:1152-9",
+        "publisher": "J Am Diet Assoc (PubMed record)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12963943/",
+        "publishedOrRevised": "2003-09",
+        "accessed": "2026-11-15",
+        "type": "trial"
+      },
+      {
+        "id": "and",
+        "title": "Evidence Analysis Library: RMR prediction accuracy in obese adults (Mifflin-St Jeor with actual weight)",
+        "publisher": "Academy of Nutrition and Dietetics",
+        "url": "https://www.andeal.org/topic.cfm?cat=3061",
+        "publishedOrRevised": "n.d.",
+        "accessed": "2026-11-15",
+        "type": "guideline"
+      },
+      {
+        "id": "dri4",
+        "title": "Dietary reference intakes tables: Equations to estimate energy requirement",
+        "publisher": "Health Canada",
+        "url": "https://www.canada.ca/en/health-canada/services/food-nutrition/healthy-eating/dietary-reference-intakes/tables/equations-estimate-energy-requirement.html",
+        "publishedOrRevised": "2025-11-19",
+        "accessed": "2026-11-15",
+        "type": "guideline"
+      },
+      {
+        "id": "aha",
+        "title": "Jensen MD, et al. 2013 AHA/ACC/TOS Guideline for the Management of Overweight and Obesity in Adults (Table 4, summary of recommendations)",
+        "publisher": "Circulation (PMC author manuscript)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5819889/table/T4",
+        "publishedOrRevised": "2013-11-12",
+        "accessed": "2026-11-15",
+        "type": "guideline"
+      },
+      {
+        "id": "nice",
+        "title": "Overweight and obesity management (NG246): Physical activity and diet (recommendations 1.16.8 to 1.16.11)",
+        "publisher": "NICE (UK)",
+        "url": "https://www.nice.org.uk/guidance/NG246/chapter/physical-activity-and-diet",
+        "publishedOrRevised": "2025-01-14 (updated 2026-01-08)",
+        "accessed": "2026-11-15",
+        "type": "guideline"
+      },
+      {
+        "id": "adv",
+        "title": "Mozaffarian D, et al. Nutritional priorities to support GLP-1 therapy for obesity: a joint Advisory (ACLM, ASN, OMA, TOS). Am J Clin Nutr 2025;122:344-367",
+        "publisher": "American Journal of Clinical Nutrition (PubMed record)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40450457/",
+        "publishedOrRevised": "2025-05-30",
+        "accessed": "2026-11-15",
+        "type": "guideline"
+      }
+    ],
+    "lastReviewed": "2026-11-15",
+    "openQuestions": [
+      "App design: choose either Mifflin x activity factor or Health Canada's EER equations; only the EER categories are sourced from Health Canada"
+    ]
+  },
+  {
+    "id": "protein",
+    "topic": "Protein during weight loss and GLP-1 therapy",
+    "group": "3. Protein",
+    "usedFor": [
+      "Protein"
+    ],
+    "summary": "RDA 0.8 g/kg; 1.2 to 1.6 g/kg proposed during active loss; with obesity, an absolute 80 to 120 g/day avoids overestimating from body weight.",
+    "items": [
+      {
+        "label": "Health Canada RDA",
+        "value": "0.80 g/kg/day (reference 56 g/day men, 46 g/day women)",
+        "population": "Adults 19+",
+        "confidence": "High",
+        "note": "Set for weight-stable healthy adults",
+        "sourceIds": [
+          "dri3"
+        ]
+      },
+      {
+        "label": "Proposed during active weight reduction",
+        "value": "1.2 to 1.6 g/kg/day",
+        "population": "Adults losing weight",
+        "confidence": "Low",
+        "note": "'Have also been proposed'; not a formal recommendation; body-weight basis unclear",
+        "sourceIds": [
+          "adv"
+        ]
+      },
+      {
+        "label": "More accurate basis if body composition known",
+        "value": "1.5 g per kg of fat-free (lean) mass per day",
+        "population": "Adults with known body composition",
+        "confidence": "Moderate",
+        "note": "Requires a body-composition measurement",
+        "sourceIds": [
+          "adv"
+        ]
+      },
+      {
+        "label": "Absolute target option",
+        "value": "80 to 120 g/day (16% to 24% of energy on a 2,000 kcal diet)",
+        "population": "Adults on GLP-1s",
+        "confidence": "Moderate",
+        "note": "Advisory option that avoids overestimating from actual weight",
+        "sourceIds": [
+          "adv"
+        ]
+      },
+      {
+        "label": "Which body weight to use (BMI 30 or more)",
+        "value": "Unclear; actual weight can significantly overestimate needs",
+        "population": "Adults with obesity",
+        "confidence": "Moderate",
+        "note": "Advisory caution; consider the absolute 80-120 g/day option",
+        "sourceIds": [
+          "adv"
+        ]
+      },
+      {
+        "label": "Lower limit",
+        "value": "Should not fall below 0.4 to 0.5 g/kg/day",
+        "population": "Adults",
+        "confidence": "Moderate",
+        "note": "Advisory",
+        "sourceIds": [
+          "adv"
+        ]
+      },
+      {
+        "label": "Upper caution",
+        "value": "Avoid prolonged intake at or above 2 g/kg/day",
+        "population": "Adults",
+        "confidence": "Moderate",
+        "note": "Advisory",
+        "sourceIds": [
+          "adv"
+        ]
+      },
+      {
+        "label": "Exercise to preserve muscle",
+        "value": "Strength training at least 3 times weekly plus at least 150 minutes of moderate aerobic exercise weekly",
+        "population": "Adults on GLP-1s",
+        "confidence": "Moderate",
+        "note": "Resistance training is linked to the least lean-mass loss (BC PAD)",
+        "sourceIds": [
+          "adv",
+          "bc"
+        ]
+      }
+    ],
+    "statements": [
+      {
+        "text": "Obesity Canada (2025) recommends adequate nutritional and protein intake and regular physical activity to preserve muscle (as summarized by BC PAD).",
+        "sourceIds": [
+          "bc"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "dri3",
+        "title": "Dietary reference intakes tables: Reference values for macronutrients",
+        "publisher": "Health Canada",
+        "url": "https://www.canada.ca/en/health-canada/services/food-nutrition/healthy-eating/dietary-reference-intakes/tables/reference-values-macronutrients.html",
+        "publishedOrRevised": "2026-11-03",
+        "accessed": "2026-11-15",
+        "type": "guideline"
+      },
+      {
+        "id": "adv",
+        "title": "Mozaffarian D, et al. Nutritional priorities to support GLP-1 therapy for obesity: a joint Advisory (ACLM, ASN, OMA, TOS). Am J Clin Nutr 2025;122:344-367",
+        "publisher": "American Journal of Clinical Nutrition (PubMed record)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40450457/",
+        "publishedOrRevised": "2025-05-30",
+        "accessed": "2026-11-15",
+        "type": "guideline"
+      },
+      {
+        "id": "bc",
+        "title": "Medications for Chronic Weight Management in Adults: Update on semaglutide and tirzepatide (Summer 2026)",
+        "publisher": "BC Provincial Academic Detailing Service, BC Ministry of Health",
+        "url": "https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/provincial-academic-detailing-service/bc_pad_2026_semaglutide_tirzepatide_chronic_weight_management_summer_2026_update.pdf",
+        "publishedOrRevised": "2026-07-22",
+        "accessed": "2026-11-15",
+        "type": "guideline"
+      }
+    ],
+    "lastReviewed": "2026-11-15",
+    "openQuestions": [
+      "Evidence strength for higher protein targets during GLP-1 therapy is low (expert proposal); no GLP-1-specific protein trial found in this pass"
+    ]
+  },
+  {
+    "id": "fluids-fibre-gi",
+    "topic": "Fluids, fibre and common GI problems on GLP-1 therapy",
+    "group": "4. Fluids, fibre, GI",
+    "usedFor": [
+      "Fluids and GI"
+    ],
+    "summary": "Dehydration from GI side effects is a labelled warning; meal size and fat strategies come from the 2025 advisory.",
+    "items": [
+      {
+        "label": "Total water (Health Canada AI)",
+        "value": "3.7 L/day men; 2.7 L/day women",
+        "population": "Adults 19+",
+        "confidence": "High",
+        "note": "Total water includes drinking water, beverages and water in food",
+        "sourceIds": [
+          "dri3"
+        ]
+      },
+      {
+        "label": "Fibre (Health Canada AI)",
+        "value": "Men 38 g/day (19-50), 30 g/day (51+); women 25 g/day (19-50), 21 g/day (51+)",
+        "population": "Adults",
+        "confidence": "High",
+        "note": "",
+        "sourceIds": [
+          "dri3"
+        ]
+      },
+      {
+        "label": "Dehydration warning (Wegovy monograph)",
+        "value": "Drink plenty of fluids to prevent dehydration when GI side effects occur",
+        "population": "People on Wegovy (similar warnings in other GLP-1 monographs, see R1)",
+        "confidence": "High",
+        "note": "Dehydration can worsen kidney function",
+        "sourceIds": [
+          "wpm"
+        ]
+      },
+      {
+        "label": "Meal pattern for nausea",
+        "value": "Small breakfast, then additional small meals every 3 to 4 hours while drinking adequate fluids; vomiting is more likely with large meals",
+        "population": "Adults on GLP-1s",
+        "confidence": "Moderate",
+        "note": "Advisory",
+        "sourceIds": [
+          "adv"
+        ]
+      },
+      {
+        "label": "Fat and fibre early on",
+        "value": "Avoid fatty or high-fibre foods during the first few days of treatment; avoid large or high-fat meals for diarrhea",
+        "population": "Adults starting GLP-1s",
+        "confidence": "Moderate",
+        "note": "Advisory",
+        "sourceIds": [
+          "adv"
+        ]
+      },
+      {
+        "label": "Constipation",
+        "value": "Advisory suggests daily magnesium supplementation titrated to keep bowel movements regular",
+        "population": "Adults on GLP-1s",
+        "confidence": "Low",
+        "note": "Health Canada's UL for supplemental magnesium is 350 mg/day; discuss with a pharmacist",
+        "sourceIds": [
+          "adv",
+          "dri2"
+        ]
+      },
+      {
+        "label": "Alcohol",
+        "value": "Should be minimized",
+        "population": "Adults on GLP-1s",
+        "confidence": "Moderate",
+        "note": "Advisory",
+        "sourceIds": [
+          "adv"
+        ]
+      },
+      {
+        "label": "Dose escalation and GI effects",
+        "value": "Escalation can be slowed or paused; severe or prolonged symptoms or abdominal pain should be investigated",
+        "population": "Adults on semaglutide/tirzepatide",
+        "confidence": "Moderate",
+        "note": "BC PAD; trials let participants stay at a dose up to 8 weeks (advisory)",
+        "sourceIds": [
+          "bc",
+          "adv"
+        ]
+      },
+      {
+        "label": "Malnutrition signs to watch",
+        "value": "Weakness, faintness, fatigue, dry skin, irritability, trouble concentrating",
+        "population": "Adults on tirzepatide (BC PAD)",
+        "confidence": "Moderate",
+        "note": "BC PAD counselling points",
+        "sourceIds": [
+          "bc"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "dri3",
+        "title": "Dietary reference intakes tables: Reference values for macronutrients",
+        "publisher": "Health Canada",
+        "url": "https://www.canada.ca/en/health-canada/services/food-nutrition/healthy-eating/dietary-reference-intakes/tables/reference-values-macronutrients.html",
+        "publishedOrRevised": "2026-11-03",
+        "accessed": "2026-11-15",
+        "type": "guideline"
+      },
+      {
+        "id": "dri2",
+        "title": "Dietary reference intakes tables: Reference values for elements",
+        "publisher": "Health Canada",
+        "url": "https://www.canada.ca/en/health-canada/services/food-nutrition/healthy-eating/dietary-reference-intakes/tables/reference-values-elements.html",
+        "publishedOrRevised": "2025-11-19",
+        "accessed": "2026-11-15",
+        "type": "guideline"
+      },
+      {
+        "id": "wpm",
+        "title": "WEGOVY Product Monograph (Patient Medication Information: serious side effects; warnings)",
+        "publisher": "Health Canada Drug Product Database (sponsor monograph)",
+        "url": "https://pdf.hres.ca/dpd_pm/00086293.PDF",
+        "publishedOrRevised": "2026-10-02",
+        "accessed": "2026-11-15",
+        "type": "monograph"
+      },
+      {
+        "id": "adv",
+        "title": "Mozaffarian D, et al. Nutritional priorities to support GLP-1 therapy for obesity: a joint Advisory (ACLM, ASN, OMA, TOS). Am J Clin Nutr 2025;122:344-367",
+        "publisher": "American Journal of Clinical Nutrition (PubMed record)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40450457/",
+        "publishedOrRevised": "2025-05-30",
+        "accessed": "2026-11-15",
+        "type": "guideline"
+      },
+      {
+        "id": "bc",
+        "title": "Medications for Chronic Weight Management in Adults: Update on semaglutide and tirzepatide (Summer 2026)",
+        "publisher": "BC Provincial Academic Detailing Service, BC Ministry of Health",
+        "url": "https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/provincial-academic-detailing-service/bc_pad_2026_semaglutide_tirzepatide_chronic_weight_management_summer_2026_update.pdf",
+        "publishedOrRevised": "2026-07-22",
+        "accessed": "2026-11-15",
+        "type": "guideline"
+      }
+    ],
+    "lastReviewed": "2026-11-15",
+    "openQuestions": [
+      "No source found giving a specific daily fluid target for people on GLP-1s beyond the general AI and 'drink plenty of fluids'"
+    ]
+  },
+  {
+    "id": "micronutrients",
+    "topic": "Micronutrients: Health Canada DRIs and risk on reduced intake",
+    "group": "5. Micronutrients",
+    "usedFor": [
+      "Micronutrients"
+    ],
+    "summary": "Adult DRIs for common supplement ingredients; the 2025 advisory lists nutrients of concern on GLP-1s.",
+    "items": [
+      {
+        "label": "Nutrients of concern on GLP-1s",
+        "value": "Iron, calcium, magnesium, zinc, and vitamins A, D, E, K, B1, B12 and C",
+        "population": "Adults on GLP-1s",
+        "confidence": "Moderate",
+        "note": "Advisory examples",
+        "sourceIds": [
+          "adv"
+        ]
+      },
+      {
+        "label": "Supplements to consider (clinician-guided)",
+        "value": "Vitamin D, calcium, B12, or a multivitamin-mineral at appropriate doses for at-risk nutrients",
+        "population": "Adults on GLP-1s",
+        "confidence": "Moderate",
+        "note": "Advisory; not a universal recommendation",
+        "sourceIds": [
+          "adv"
+        ]
+      },
+      {
+        "label": "Older adults and B12",
+        "value": "10 to 30% of older people may malabsorb food-bound B12; meet the RDA mainly via fortified foods or a supplement",
+        "population": "Adults 51+",
+        "confidence": "High",
+        "note": "Health Canada DRI footnote",
+        "sourceIds": [
+          "dri1"
+        ]
+      },
+      {
+        "label": "Iron for vegetarians",
+        "value": "Requirement is 1.8 times higher",
+        "population": "Vegetarians",
+        "confidence": "High",
+        "note": "Health Canada DRI footnote",
+        "sourceIds": [
+          "dri2"
+        ]
+      },
+      {
+        "label": "EPA/DHA",
+        "value": "No separate DRI; up to 10% of the n-3 AMDR can come from EPA and/or DHA",
+        "population": "Adults",
+        "confidence": "High",
+        "note": "Health Canada",
+        "sourceIds": [
+          "dri3"
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "title": "Health Canada DRIs, adults (not pregnant or lactating): per day",
+        "columns": [
+          "Nutrient (unit)",
+          "Men",
+          "Women",
+          "Upper limit (UL)"
+        ],
+        "rows": [
+          [
+            "Vitamin A (µg RAE)",
+            "RDA 900",
+            "RDA 700",
+            "3,000 (preformed vitamin A only)"
+          ],
+          [
+            "Vitamin C (mg)",
+            "RDA 90",
+            "RDA 75",
+            "2,000 (smokers need +35 mg)"
+          ],
+          [
+            "Vitamin D (µg / IU)",
+            "RDA 15 / 600 IU",
+            "RDA 15 / 600 IU",
+            "100 µg / 4,000 IU"
+          ],
+          [
+            "Vitamin E (mg)",
+            "RDA 15",
+            "RDA 15",
+            "1,000 (synthetic/supplement forms)"
+          ],
+          [
+            "Vitamin K (µg)",
+            "AI 120",
+            "AI 90",
+            "Not determined"
+          ],
+          [
+            "Thiamin B1 (mg)",
+            "RDA 1.2",
+            "RDA 1.1",
+            "Not determined"
+          ],
+          [
+            "Riboflavin B2 (mg)",
+            "RDA 1.3",
+            "RDA 1.1",
+            "Not determined"
+          ],
+          [
+            "Niacin (mg NE)",
+            "RDA 16",
+            "RDA 14",
+            "35 (synthetic forms only)"
+          ],
+          [
+            "Vitamin B6 (mg)",
+            "RDA 1.3 (19-50); 1.7 (51+)",
+            "RDA 1.3 (19-50); 1.5 (51+)",
+            "100"
+          ],
+          [
+            "Folate (µg DFE)",
+            "RDA 400",
+            "RDA 400",
+            "1,000 µg folic acid (synthetic only)"
+          ],
+          [
+            "Vitamin B12 (µg)",
+            "RDA 2.4",
+            "RDA 2.4",
+            "Not determined (51+: mainly from fortified foods or supplement)"
+          ],
+          [
+            "Calcium (mg)",
+            "RDA 1,000 (19-70); 1,200 (71+)",
+            "RDA 1,000 (19-50); 1,200 (51+)",
+            "2,500 (19-50); 2,000 (51+)"
+          ],
+          [
+            "Iron (mg)",
+            "RDA 8",
+            "RDA 18 (19-50); 8 (51+)",
+            "45 (vegetarians need 1.8x)"
+          ],
+          [
+            "Magnesium (mg)",
+            "RDA 400 (19-30); 420 (31+)",
+            "RDA 310 (19-30); 320 (31+)",
+            "350 from supplements/drugs only"
+          ],
+          [
+            "Zinc (mg)",
+            "RDA 11",
+            "RDA 8",
+            "40"
+          ],
+          [
+            "Selenium (µg)",
+            "RDA 55",
+            "RDA 55",
+            "400"
+          ],
+          [
+            "Iodine (µg)",
+            "RDA 150",
+            "RDA 150",
+            "1,100"
+          ],
+          [
+            "Potassium (mg)",
+            "AI 3,400",
+            "AI 2,600",
+            "Not determined"
+          ],
+          [
+            "Sodium (mg)",
+            "AI 1,500; CDRR 2,300",
+            "AI 1,500; CDRR 2,300",
+            "Not determined (reduce if above CDRR)"
+          ],
+          [
+            "Alpha-linolenic acid, omega-3 (g)",
+            "AI 1.6",
+            "AI 1.1",
+            "None; no DRI for EPA/DHA"
+          ]
+        ],
+        "sourceIds": [
+          "dri1",
+          "dri2",
+          "dri3"
+        ],
+        "note": "RDA = Recommended Dietary Allowance; AI = Adequate Intake; CDRR = Chronic Disease Risk Reduction intake. Age groups as noted; values are the same across adult ages unless shown."
+      }
+    ],
+    "sources": [
+      {
+        "id": "dri1",
+        "title": "Dietary reference intakes tables: Reference values for vitamins",
+        "publisher": "Health Canada",
+        "url": "https://www.canada.ca/en/health-canada/services/food-nutrition/healthy-eating/dietary-reference-intakes/tables/reference-values-vitamins.html",
+        "publishedOrRevised": "2025-11-19",
+        "accessed": "2026-11-15",
+        "type": "guideline"
+      },
+      {
+        "id": "dri2",
+        "title": "Dietary reference intakes tables: Reference values for elements",
+        "publisher": "Health Canada",
+        "url": "https://www.canada.ca/en/health-canada/services/food-nutrition/healthy-eating/dietary-reference-intakes/tables/reference-values-elements.html",
+        "publishedOrRevised": "2025-11-19",
+        "accessed": "2026-11-15",
+        "type": "guideline"
+      },
+      {
+        "id": "dri3",
+        "title": "Dietary reference intakes tables: Reference values for macronutrients",
+        "publisher": "Health Canada",
+        "url": "https://www.canada.ca/en/health-canada/services/food-nutrition/healthy-eating/dietary-reference-intakes/tables/reference-values-macronutrients.html",
+        "publishedOrRevised": "2026-11-03",
+        "accessed": "2026-11-15",
+        "type": "guideline"
+      },
+      {
+        "id": "adv",
+        "title": "Mozaffarian D, et al. Nutritional priorities to support GLP-1 therapy for obesity: a joint Advisory (ACLM, ASN, OMA, TOS). Am J Clin Nutr 2025;122:344-367",
+        "publisher": "American Journal of Clinical Nutrition (PubMed record)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40450457/",
+        "publishedOrRevised": "2025-05-30",
+        "accessed": "2026-11-15",
+        "type": "guideline"
+      }
+    ],
+    "lastReviewed": "2026-11-15",
+    "openQuestions": []
+  },
+  {
+    "id": "warning-signs",
+    "topic": "Warning signs to contact a healthcare provider",
+    "group": "6. Warning signs",
+    "usedFor": [
+      "Warning signs"
+    ],
+    "summary": "Symptom wording from the Wegovy monograph's patient section and Canadian sources.",
+    "items": [
+      {
+        "label": "Gallstones",
+        "value": "Sudden pain in the upper stomach or back, often on the right, with nausea, vomiting, indigestion or cramping",
+        "population": "People on GLP-1 drugs",
+        "confidence": "High",
+        "note": "Listed as a serious side effect",
+        "sourceIds": [
+          "wpm"
+        ]
+      },
+      {
+        "label": "Pancreatitis",
+        "value": "Severe, ongoing pain in the stomach area",
+        "population": "People on GLP-1 drugs",
+        "confidence": "High",
+        "note": "Listed as a serious side effect; professional monographs add pain that may spread to the back (see R1)",
+        "sourceIds": [
+          "wpm"
+        ]
+      },
+      {
+        "label": "Severe low blood sugar",
+        "value": "Confusion, fits, or passing out",
+        "population": "People with type 2 diabetes, especially on insulin or a sulfonylurea",
+        "confidence": "High",
+        "note": "",
+        "sourceIds": [
+          "wpm"
+        ]
+      },
+      {
+        "label": "Acute kidney injury / dehydration",
+        "value": "Swelling in legs, ankles or feet; tiredness; confusion; shortness of breath; not enough urine",
+        "population": "People with vomiting, diarrhea or low fluid intake",
+        "confidence": "High",
+        "note": "Drink plenty of fluids to prevent dehydration",
+        "sourceIds": [
+          "wpm"
+        ]
+      },
+      {
+        "label": "Severe allergic reaction",
+        "value": "Breathing problems; swelling of face, lips, tongue or throat with trouble swallowing; fast heartbeat",
+        "population": "Anyone",
+        "confidence": "High",
+        "note": "",
+        "sourceIds": [
+          "wpm"
+        ]
+      },
+      {
+        "label": "Vision changes",
+        "value": "Blurred or changing vision, vision loss, impaired colour vision; sudden vision loss (NAION, very rare)",
+        "population": "People on GLP-1 drugs (retinopathy risk in type 2 diabetes)",
+        "confidence": "High",
+        "note": "",
+        "sourceIds": [
+          "wpm"
+        ]
+      },
+      {
+        "label": "Appendicitis (uncommon)",
+        "value": "Sudden pain in the lower right abdomen, chills, fever, nausea or vomiting",
+        "population": "People on Wegovy",
+        "confidence": "High",
+        "note": "",
+        "sourceIds": [
+          "wpm"
+        ]
+      },
+      {
+        "label": "Before surgery or sedation",
+        "value": "Tell the healthcare professional you take a GLP-1 drug (risk of food or liquid entering the lungs)",
+        "population": "Anyone having anesthesia or deep sedation",
+        "confidence": "High",
+        "note": "Health Canada 2026 safety review",
+        "sourceIds": [
+          "wpm",
+          "asp"
+        ]
+      },
+      {
+        "label": "Possible malnutrition",
+        "value": "Weakness, faintness, fatigue, dry skin, irritability, trouble concentrating",
+        "population": "People eating very little on GLP-1 drugs",
+        "confidence": "Moderate",
+        "note": "BC PAD counselling",
+        "sourceIds": [
+          "bc"
+        ]
+      }
+    ],
+    "statements": [
+      {
+        "text": "The monograph's patient table marks which symptoms mean 'talk to your healthcare professional' and which mean 'stop taking and get immediate medical help'; the fetched text did not preserve those columns, so the app should show the product's own table wording.",
+        "sourceIds": [
+          "wpm"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "wpm",
+        "title": "WEGOVY Product Monograph (Patient Medication Information: serious side effects; warnings)",
+        "publisher": "Health Canada Drug Product Database (sponsor monograph)",
+        "url": "https://pdf.hres.ca/dpd_pm/00086293.PDF",
+        "publishedOrRevised": "2026-10-02",
+        "accessed": "2026-11-15",
+        "type": "monograph"
+      },
+      {
+        "id": "adv",
+        "title": "Mozaffarian D, et al. Nutritional priorities to support GLP-1 therapy for obesity: a joint Advisory (ACLM, ASN, OMA, TOS). Am J Clin Nutr 2025;122:344-367",
+        "publisher": "American Journal of Clinical Nutrition (PubMed record)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40450457/",
+        "publishedOrRevised": "2025-05-30",
+        "accessed": "2026-11-15",
+        "type": "guideline"
+      },
+      {
+        "id": "bc",
+        "title": "Medications for Chronic Weight Management in Adults: Update on semaglutide and tirzepatide (Summer 2026)",
+        "publisher": "BC Provincial Academic Detailing Service, BC Ministry of Health",
+        "url": "https://www2.gov.bc.ca/assets/gov/health/practitioner-pro/provincial-academic-detailing-service/bc_pad_2026_semaglutide_tirzepatide_chronic_weight_management_summer_2026_update.pdf",
+        "publishedOrRevised": "2026-07-22",
+        "accessed": "2026-11-15",
+        "type": "guideline"
+      },
+      {
+        "id": "asp",
+        "title": "Summary Safety Review: GLP-1 receptor agonists and pulmonary aspiration during general anesthesia or deep sedation",
+        "publisher": "Health Canada",
+        "url": "https://dhpp.hpfb-dgpsa.ca/review-documents/resource/SSR1773942015728/",
+        "publishedOrRevised": "2026",
+        "accessed": "2026-11-15",
+        "type": "regulator"
+      }
+    ],
+    "lastReviewed": "2026-11-15",
+    "openQuestions": [
+      "Confirm the action column (talk to professional vs get immediate help) for each symptom from the printed monograph table (R5)"
+    ]
+  }
+]
